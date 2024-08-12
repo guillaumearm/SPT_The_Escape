@@ -1,0 +1,355 @@
+{
+  "customs": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "ZoneOldAZS",
+        "ZoneWade",
+        "ZoneBrige",
+        "ZoneFactoryCenter",
+        "ZoneDormitory",
+        "ZoneCustoms",
+        "ZoneFactorySide"
+      ]
+    }
+  ],
+  "factory": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": null
+    }
+  ],
+  "factory_night": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": null
+    }
+  ],
+  "groundzero": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": null
+    }
+  ],
+  "groundzero_high": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": null
+    }
+  ],
+  "interchange": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "ZoneCenter",
+        "ZoneCenterBot",
+        "ZoneGoshan",
+        "ZoneOLI",
+        "ZonePowerStation",
+        "ZoneIDEA",
+        "ZoneIDEAPark",
+        "ZoneOLIPark"
+      ]
+    }
+  ],
+  "laboratory": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "BotZoneFloor1",
+        "BotZoneFloor2",
+        "BotZoneBasement",
+        "BotZoneGate2",
+        "BotZoneGate1"
+      ]
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "Zone_Chalet",
+        "Zone_Village",
+        "Zone_Containers",
+        "Zone_TreatmentBeach",
+        "Zone_TreatmentRocks",
+        "Zone_Bridge",
+        "Zone_Blockpost",
+        "Zone_Hellicopter"
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "ZoneRailStrorage",
+        "ZoneBarrack",
+        "ZoneSubStorage",
+        "ZoneSubCommand",
+        "ZonePTOR2",
+        "ZonePTOR1"
+      ]
+    }
+  ],
+  "shoreline": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "ZoneIsland",
+        "ZonePowerStation",
+        "ZoneBusStation",
+        "ZonePort",
+        "ZoneRailWays",
+        "ZoneSanatorium1",
+        "ZoneSanatorium2",
+        "ZoneMateoStation",
+        "ZoneGasStation",
+        "ZoneGreenHouses"
+      ]
+    }
+  ],
+  "streets": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "ZoneSW01",
+        "ZoneConstruction",
+        "ZoneCarShowroom",
+        "ZoneCinema",
+        "ZoneFactory",
+        "ZoneHotel_1",
+        "ZoneHotel_2",
+        "ZoneConcordia_1",
+        "ZoneColumn"
+      ]
+    }
+  ],
+  "woods": [
+    {
+      "BossName": "bosskolontay",
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "2",
+      "BossEscortType": "followerkolontaysecurity",
+      "Supports": [
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontayassault"
+        },
+        {
+          "BossEscortAmount": "2",
+          "BossEscortType": "followerkolontaysecurity"
+        },
+        {
+          "BossEscortAmount": "0",
+          "BossEscortType": "followergluharscout"
+        }
+      ],
+      "BossZone": [
+        "ZoneWoodCutter",
+        "ZoneScavBase2",
+        "ZoneRoad",
+        "ZoneMiniHouse"
+      ]
+    }
+  ]
+}

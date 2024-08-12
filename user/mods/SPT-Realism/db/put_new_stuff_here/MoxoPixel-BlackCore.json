@@ -1,0 +1,284 @@
+{
+    "01001_WMX200":{
+    "ItemID": "01001_WMX200",
+    "Name": "WMX Blk",
+    "TemplateID": "626becf9582c3e319310b837",
+    "TemplateType": "mod"    
+    },
+    "668ab1fdf268c7367e412455":{
+        "ItemID": "668ab1fdf268c7367e412455",
+        "Name": "HK mag Blk",
+        "TemplateID": "5c6d42cb2e2216000e69d7d1",
+        "TemplateType": "mod"    
+    },
+    "01003_FSB_HANDGUARD":{
+        "ItemID": "01003_FSB_HANDGUARD",
+        "Name": "FSP Black",
+        "TemplateID": "5c9a26332e2216001219ea70",
+        "TemplateType": "mod"    
+    },
+    "01005_EXPS3":{
+        "ItemID": "01005_EXPS3",
+        "Name": "EXPS3-B",
+        "TemplateID": "558022b54bdc2dac148b458d",
+        "TemplateType": "mod"    
+    },
+    "01006_BASTION":{
+        "ItemID": "01006_BASTION",
+        "Name": "BAST-TOPO",
+        "TemplateID": "5d2c76ed48f03532f2136169",
+        "TemplateType": "mod"    
+    },
+    "01007_LS321":{
+        "ItemID": "01007_LS321",
+        "Name": "LS321-B",
+        "TemplateID": "57fd23e32459772d0805bcf1",
+        "TemplateType": "mod"    
+    },
+    "01008_MK47R":{
+        "ItemID": "01008_MK47R",
+        "Name": "MK47R Topo",
+        "TemplateID": "606587a88900dc2d9a55b659",
+        "TemplateType": "mod"    
+    },
+    "01009_RAPTAR":{
+        "ItemID": "01009_RAPTAR",
+        "Name": "RAPTAR-B",
+        "TemplateID": "61605d88ffa6e502ac5e7eeb",
+        "TemplateType": "mod"    
+    },
+    "01010_RAZOR":{
+        "ItemID": "01010_RAZOR",
+        "Name": "Razor HD Black",
+        "TemplateID": "618ba27d9008e4636a67f61d",
+        "TemplateType": "mod"    
+    },
+    "01011_NOVESKE_REC":{
+        "ItemID": "01011_NOVESKE_REC",
+        "Name": "Gen.3 Topo",
+        "TemplateID": "5c07a8770db8340023300450",
+        "TemplateType": "mod"    
+    },
+    "01012_VPO_STOCK":{
+        "ItemID": "01012_VPO_STOCK",
+        "Name": "VPO101 Black",
+        "TemplateID": "5c503af12e221602b177ca02",
+        "TemplateType": "mod"    
+    },
+    "01013_M1A_STOCK":{
+        "ItemID": "01013_M1A_STOCK",
+        "Name": "S.A.S.S. Black",
+        "TemplateID": "5ab372a310e891001717f0d8",
+        "TemplateType": "mod"    
+    },
+    "01014_HYBRID_46_SILENCER":{
+        "ItemID": "01014_HYBRID_46_SILENCER",
+        "Name": "Hybrid 46 S",
+        "TemplateID": "59bffbb386f77435b379b9c2",
+        "TemplateType": "mod"    
+    },
+    "668ab2119742a28c0bb14dd0":{
+        "ItemID": "668ab2119742a28c0bb14dd0",
+        "Name": "AUG mag Black",
+        "TemplateID": "62e7c98b550c8218d602cbb4",
+        "TemplateType": "mod"    
+    },
+    "01016_AK_PT_1_STOCK":{
+        "ItemID": "01016_AK_PT_1_STOCK",
+        "Name": "PT-1-S",
+        "TemplateID": "5b222d405acfc400153af4fe",
+        "TemplateType": "mod"    
+    },
+    "01017_AK_MP_PGRIP":{
+        "ItemID": "01017_AK_MP_PGRIP",
+        "Name": "MOE AK-S",
+        "TemplateID": "5b30ac585acfc433000eb79c",
+        "TemplateType": "mod"    
+    },
+    "01018_RD_GBLOCK_HANDGUARD":{
+        "ItemID": "01018_RD_GBLOCK_HANDGUARD",
+        "Name": "ION Lite S",
+        "TemplateID": "628a83c29179c324ed269508",
+        "TemplateType": "mod"    
+    },
+    "01019_AK_DOGRAIL_DUSTCOVER":{
+        "ItemID": "01019_AK_DOGRAIL_DUSTCOVER",
+        "Name": "Dog Leg Rail S",
+        "TemplateID": "5d2c772c48f0355d95672c25",
+        "TemplateType": "mod"    
+    },
+    "01020_AR_CARBON_HANDGUARD":{
+        "ItemID": "01020_AR_CARBON_HANDGUARD",
+        "Name": "Delta Carbon Black",
+        "TemplateID": "63888bbd28e5cc32cc09d2b6",
+        "TemplateType": "mod"    
+    },
+    "01021_SLAAP_ARMOR":{
+        "ItemID": "01021_SLAAP_ARMOR",
+        "Name": "SLAAP Skull",
+        "TemplateID": "5c0e66e2d174af02a96252f4",
+        "TemplateType": "gear"    
+    },
+    "01022_GLOCK17_TOPO_SLIDE":{
+        "ItemID": "01022_GLOCK17_TOPO_SLIDE",
+        "Name": "Delta Carbon Black",
+        "TemplateID": "5a6f5e048dc32e00094b97da",
+        "TemplateType": "mod"    
+    },
+    "01023_GLOCK17_SPECIAL_SLIDE":{
+        "ItemID": "01023_GLOCK17_SPECIAL_SLIDE",
+        "Name": "G17 SPEC",
+        "TemplateID": "5a6f5f078dc32e00094b97dd",
+        "TemplateType": "mod"    
+    },
+    "668ab221312d944950f06411":{
+        "ItemID": "668ab221312d944950f06411",
+        "Name": "6L23 SPEC",
+        "TemplateID": "55d480c04bdc2d1d4e8b456a",
+        "TemplateType": "mod"    
+    },
+    "01025_VLTOR_REC":{
+        "ItemID": "01025_VLTOR_REC",
+        "Name": "MUR-1S PE",
+        "TemplateID": "59bfe68886f7746004266202",
+        "TemplateType": "mod"    
+    },
+    "0101_BLACK_LINES_M4A1":{
+        "ItemID": "0101_BLACK_LINES_M4A1",
+        "Name": "M4A1 Topo",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+    },
+    "0102_BLACK_LINES_AK103":{
+        "ItemID": "0102_BLACK_LINES_AK103",
+        "Name": "AK-103 Topo",
+        "TemplateID": "5ac66d2e5acfc43b321d4b53",
+        "TemplateType": "gun"    
+    },
+    "0103_BLACK_RSASS":{
+        "ItemID": "0103_BLACK_RSASS",
+        "Name": "R11-Black",
+        "TemplateID": "5a367e5dc4a282000e49738f",
+        "TemplateType": "gun"    
+    },
+    "0104_BLACK_LINES_MK47":{
+        "ItemID": "0104_BLACK_LINES_MK47",
+        "Name": "MK47 Topo",
+        "TemplateID": "606587252535c57a13424cfd",
+        "TemplateType": "gun"    
+    },
+    "0105_BLACK_AUG":{
+        "ItemID": "0105_BLACK_AUG",
+        "Name": "AUG A3 Black",
+        "TemplateID": "63171672192e68c5460cebc5",
+        "TemplateType": "gun"    
+    },
+    "0106_FLAMING_M4A1":{
+        "ItemID": "0106_FLAMING_M4A1",
+        "Name": "M4A1 Flames",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+    },
+    "0107_PRISTINE_M4A1":{
+        "ItemID": "0107_PRISTINE_M4A1",
+        "Name": "M4A1-PE Pristine",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+    },
+    "0108_BLACK_SPEAR":{
+        "ItemID": "0108_BLACK_SPEAR",
+        "Name": "SPEAR Black",
+        "TemplateID": "65290f395ae2ae97b80fdf2d",
+        "TemplateType": "gun"    
+    },
+    "0108_BLACK_SPEAR_RECIEVER":{
+        "ItemID": "0108_BLACK_SPEAR_RECIEVER",
+        "Name": "SPEAR 6.8 RECIEVER Black",
+        "TemplateID": "6529119424cbe3c74a05e5bb",
+        "TemplateType": "mod"    
+    },
+    "BC_NEW_FOREGRIP_1":{
+        "ItemID": "BC_NEW_FOREGRIP_1",
+        "Name": "Angled Grip Black",
+        "TemplateID": "5c7fc87d2e221644f31c0298",
+        "TemplateType": "mod"    
+    },
+    "668ab243a698489724ee6aab":{
+        "ItemID": "668ab243a698489724ee6aab",
+        "Name": "L7AWM20 Black",
+        "TemplateID": "65293c38fc460e50a509cb25",
+        "TemplateType": "mod"    
+    },
+    "668ab24c86da1d43430340af":{
+        "ItemID": "668ab24c86da1d43430340af",
+        "Name": "L7AWM25 Black",
+        "TemplateID": "65293c7a17e14363030ad308",
+        "TemplateType": "mod"    
+    },
+    "BC_SIG_PISTOL_GRIP":{
+        "ItemID": "BC_SIG_PISTOL_GRIP",
+        "Name": "M400 pistol grip Black",
+        "TemplateID": "652911675ae2ae97b80fdf3c",
+        "TemplateType": "mod"    
+    },
+    "BC_SPEAR_HANDGUARD":{
+        "ItemID": "BC_SPEAR_HANDGUARD",
+        "Name": "SPEAR HANDGUARD Black",
+        "TemplateID": "652910ef50dc782999054b97",
+        "TemplateType": "mod"    
+    },
+    "BC_SPEAR_CHARGE":{
+        "ItemID": "BC_SPEAR_CHARGE",
+        "Name": "SPEAR CHARGE Black",
+        "TemplateID": "6529109524cbe3c74a05e5b7",
+        "TemplateType": "mod"    
+    },
+    "BC_SPEAR_BUFFER_TUBE":{
+        "ItemID": "BC_SPEAR_BUFFER_TUBE",
+        "Name": "MCX/MPX BUFFER Black",
+        "TemplateID": "6529366450dc782999054ba0",
+        "TemplateType": "mod"    
+    },
+    "BC_MAGPUL_SLK_STOCK":{
+        "ItemID": "BC_MAGPUL_SLK_STOCK",
+        "Name": "MOE SL-K Black",
+        "TemplateID": "6529370c405a5f51dd023db8",
+        "TemplateType": "mod"    
+    },
+    "BC_BLACK_BALACLAVA":{
+        "ItemID": "BC_BLACK_BALACLAVA",
+        "Name": "Balaclava Black",
+        "TemplateID": "572b7f1624597762ae139822",
+        "TemplateType": "gear"    
+    },
+    "BC_GRADIENT_GLASSES":{
+        "ItemID": "BC_GRADIENT_GLASSES",
+        "Name": "Condor Black",
+        "TemplateID": "603409c80ca681766b6a0fb2",
+        "TemplateType": "gear"    
+    },
+    "BC_ARSCPC_RIG":{
+        "ItemID": "BC_ARSCPC_RIG",
+        "Name": "CPC MOD.1 Black",
+        "TemplateID": "5e4ac41886f77406a511c9a8",
+        "TemplateType": "gear"    
+    },
+    "BC_TACTEC_RIG":{
+        "ItemID": "BC_TACTEC_RIG",
+        "Name": "TacTec Black",
+        "TemplateID": "5b44cad286f77402a54ae7e5",
+        "TemplateType": "gear"    
+    },
+    "BC_TV110_RIG":{
+        "ItemID": "BC_TV110_RIG",
+        "Name": "TV-110 Black",
+        "TemplateID": "5c0e746986f7741453628fe5",
+        "TemplateType": "gear"    
+    },
+    "BC_AVS_RIG":{
+        "ItemID": "BC_AVS_RIG",
+        "Name": "AVS Black",
+        "TemplateID": "544a5caa4bdc2d1a388b4568",
+        "TemplateType": "gear"    
+    }
+}

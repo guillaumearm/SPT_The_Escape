@@ -1,0 +1,238 @@
+{
+  "customs": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": [
+        "ZoneOldAZS",
+        "ZoneWade",
+        "ZoneBrige",
+        "ZoneFactoryCenter",
+        "ZoneDormitory",
+        "ZoneCustoms",
+        "ZoneFactorySide"
+      ]
+    }
+  ],
+  "factory": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": null
+    }
+  ],
+  "factory_night": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 55,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "2",
+      "Time": -1,
+      "BossZone": [
+        "BotZone"
+      ]
+    },
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 55,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "2",
+      "Time": 300,
+      "BossZone": [
+        "BotZone"
+      ]
+    },
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 55,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "2",
+      "Time": 600,
+      "BossZone": [
+        "BotZone"
+      ]
+    },
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 55,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "2",
+      "Time": 900,
+      "BossZone": [
+        "BotZone"
+      ]
+    }
+  ],
+  "groundzero": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": null
+    }
+  ],
+  "groundzero_high": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": null
+    }
+  ],
+  "interchange": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": [
+        "ZoneCenter",
+        "ZoneCenterBot",
+        "ZoneGoshan",
+        "ZoneOLI",
+        "ZonePowerStation",
+        "ZoneIDEA",
+        "ZoneIDEAPark",
+        "ZoneOLIPark"
+      ]
+    }
+  ],
+  "laboratory": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": [
+        "BotZoneFloor1",
+        "BotZoneFloor2",
+        "BotZoneBasement",
+        "BotZoneGate2",
+        "BotZoneGate1"
+      ]
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": [
+        "Zone_Chalet",
+        "Zone_Village",
+        "Zone_Containers",
+        "Zone_TreatmentBeach",
+        "Zone_TreatmentRocks",
+        "Zone_Bridge",
+        "Zone_Blockpost",
+        "Zone_Hellicopter"
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": [
+        "ZoneRailStrorage",
+        "ZoneBarrack",
+        "ZoneSubStorage",
+        "ZoneSubCommand",
+        "ZonePTOR2",
+        "ZonePTOR1"
+      ]
+    }
+  ],
+  "shoreline": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "3",
+      "Time": -1,
+      "BossZone": [
+        "ZoneIsland",
+        "ZonePowerStation",
+        "ZoneBusStation",
+        "ZonePort",
+        "ZoneRailWays",
+        "ZoneSanatorium1",
+        "ZoneSanatorium2",
+        "ZoneMateoStation",
+        "ZoneGasStation",
+        "ZoneGreenHouses"
+      ]
+    },
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "3",
+      "Time": -1,
+      "BossZone": [
+        "ZoneIsland",
+        "ZonePowerStation",
+        "ZoneBusStation",
+        "ZonePort",
+        "ZoneRailWays",
+        "ZoneSanatorium1",
+        "ZoneSanatorium2",
+        "ZoneMateoStation",
+        "ZoneGasStation",
+        "ZoneGreenHouses"
+      ]
+    }
+  ],
+  "streets": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "sectantwarrior",
+      "BossZone": [
+        "ZoneSW01",
+        "ZoneConstruction",
+        "ZoneCarShowroom",
+        "ZoneCinema",
+        "ZoneFactory",
+        "ZoneHotel_1",
+        "ZoneHotel_2",
+        "ZoneConcordia_1",
+        "ZoneColumn"
+      ]
+    }
+  ],
+  "woods": [
+    {
+      "BossName": "sectantpriest",
+      "BossChance": 15,
+      "BossEscortType": "sectantwarrior",
+      "BossEscortAmount": "4",
+      "Time": -1,
+      "BossZone": [
+        "ZoneWoodCutter",
+        "ZoneScavBase2",
+        "ZoneRoad",
+        "ZoneMiniHouse"
+      ]
+    }
+  ]
+}

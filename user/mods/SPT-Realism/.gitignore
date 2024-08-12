@@ -1,0 +1,4 @@
+*.exe
+package.json
+db/*
+!db/put_new_stuff_here

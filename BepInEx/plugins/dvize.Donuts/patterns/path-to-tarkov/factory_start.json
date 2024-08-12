@@ -1,0 +1,24 @@
+{
+  "Maps": {
+    "factory4_day": {
+      "PMC": {
+        "MinCount": 2,
+        "MaxCount": 4,
+        "MinGroupSize": 1,
+        "MaxGroupSize": 3,
+        "Zones": [
+          "all"
+        ]
+      },
+      "SCAV": {
+        "MinCount": 4,
+        "MaxCount": 8,
+        "MinGroupSize": 1,
+        "MaxGroupSize": 2,
+        "Zones": [
+          "all"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "MapName": "sandbox",
+  "Zones": {
+    "Zone_Nakatani_Basement_Stairs_Start": [
+      {
+        "x": 5.295958,
+        "y": 22.73891,
+        "z": 331.8584
+      }
+    ],
+    "Zone_Mira_Ave_Start": [
+      {
+        "x": 215.1694,
+        "y": 16.01762,
+        "z": 40.5
+      }
+    ],
+    "Zone_Police_Car_Start": [
+      {
+        "x": -12.97,
+        "y": 22.6,
+        "z": 116.99
+      }
+    ],
+    "Zone_Scav_Hideout_Start": [
+      {
+        "x": 31.74341,
+        "y": 22.59711,
+        "z": -85.79424
+      }
+    ],
+    "Zone_EmercomGZ_Start": [
+      {
+        "x": 152.5,
+        "y": 24.1,
+        "z": -89.4
+      }
+    ]
+  }
+}

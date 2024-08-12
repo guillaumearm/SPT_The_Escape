@@ -1,0 +1,117 @@
+{
+    
+    "6691ed44913081ff28935fd2":{
+        "ItemID": "6691ed44913081ff28935fd2",
+        "Name": "STANAG TG GREEN",
+        "TemplateID": "55d4887d4bdc2d962f8b4570",
+        "TemplateType": "mod"    
+    },
+    "6691edb87c8beb7c11c2536e":{
+        "ItemID": "6691edb87c8beb7c11c2536e",
+        "Name": "STANAG TG RED",
+        "TemplateID": "55d4887d4bdc2d962f8b4570",
+        "TemplateType": "mod"    
+    },
+    "6691edbfd29194092a289b8f":{
+        "ItemID": "6691edbfd29194092a289b8f",
+        "Name": "STANAG TG FDE",
+        "TemplateID": "55d4887d4bdc2d962f8b4570",
+        "TemplateType": "mod"    
+    },
+    "6691edc4aae8a6c96948f34d":{
+        "ItemID": "6691edc4aae8a6c96948f34d",
+        "Name": "STANAG TG BLACK",
+        "TemplateID": "55d4887d4bdc2d962f8b4570",
+        "TemplateType": "mod"    
+    },
+    "6691edc90bed2b1da07112bf":{
+        "ItemID": "6691edc90bed2b1da07112bf",
+        "Name": "STANAG TG YELLOW",
+        "TemplateID": "55d4887d4bdc2d962f8b4570",
+        "TemplateType": "mod"    
+    },
+    "6691edd7d7dfa2ba5f59a9c5":{
+        "ItemID": "6691edd7d7dfa2ba5f59a9c5",
+        "Name": "M3 BLUE",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "6691edebbf4404edcf6031cd":{
+        "ItemID": "6691edebbf4404edcf6031cd",
+        "Name": "M3 RED",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "6691edeffec97c21ff4504ad":{
+        "ItemID": "6691edeffec97c21ff4504ad",
+        "Name": "M3 YELLOW",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "6691edf890b4e16f3bee032f":{
+        "ItemID": "6691edf890b4e16f3bee032f",
+        "Name": "M3 WHITE",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "6691ee133970c61dbea20bde":{
+        "ItemID": "6691ee133970c61dbea20bde",
+        "Name": "AK M3 BLUE",
+        "TemplateID": "59d6272486f77466146386ff",
+        "TemplateType": "mod"    
+    },
+    "6691ee28a879ea3e3d023cef":{
+        "ItemID": "6691ee28a879ea3e3d023cef",
+        "Name": "AK M3 RED",
+        "TemplateID": "59d6272486f77466146386ff",
+        "TemplateType": "mod"    
+    },
+    "6691ee2debe1943e3d1462b6":{
+        "ItemID": "6691ee2debe1943e3d1462b6",
+        "Name": "AK M3 GREEN",
+        "TemplateID": "59d6272486f77466146386ff",
+        "TemplateType": "mod"    
+    },
+    "6691ee358ea32fbe243097d6":{
+        "ItemID": "6691ee358ea32fbe243097d6",
+        "Name": "AK M3 YELLOW",
+        "TemplateID": "59d6272486f77466146386ff",
+        "TemplateType": "mod"    
+    },
+    "6691ee3cd52a93614667ab10":{
+        "ItemID": "6691ee3cd52a93614667ab10",
+        "Name": "AK M3 WHITE",
+        "TemplateID": "59d6272486f77466146386ff",
+        "TemplateType": "mod"    
+    },
+    "6691ee45c74887b557a203b3":{
+        "ItemID": "6691ee45c74887b557a203b3",
+        "Name": "6L31 BLUE",
+        "TemplateID": "59d6272486f77466146386ff",
+        "TemplateType": "mod"    
+    },
+    "6691ee535a1f37eeea19f80f":{
+        "ItemID": "6691ee535a1f37eeea19f80f",
+        "Name": "6L31 RED",
+        "TemplateID": "55d482194bdc2d1d4e8b456b",
+        "TemplateType": "mod"    
+    },
+    "6691ee5f23d28ef7e95bed41":{
+        "ItemID": "6691ee5f23d28ef7e95bed41",
+        "Name": "6L31 GREEN",
+        "TemplateID": "55d482194bdc2d1d4e8b456b",
+        "TemplateType": "mod"    
+    },
+    "6691ee62a3d283f8b2c075d4":{
+        "ItemID": "6691ee62a3d283f8b2c075d4",
+        "Name": "6L31 YELLOW",
+        "TemplateID": "55d482194bdc2d1d4e8b456b",
+        "TemplateType": "mod"    
+    },
+    "6691ee6725fbee27e156917d":{
+        "ItemID": "6691ee6725fbee27e156917d",
+        "Name": "6L31 WHITE",
+        "TemplateID": "55d482194bdc2d1d4e8b456b",
+        "TemplateType": "mod"    
+    }
+}

@@ -1,0 +1,101 @@
+{
+  "EnableCustomBoss": true,
+  "RemoveFromSwag": false,
+  "EnableCustomItems": true,
+  "EnableTimeChanges": false,
+  "EnableWatchAnimations": true,
+  "BackupProfile": false,
+  "Raid": {
+    "ReduceFoodAndHydroDegrade": {
+      "Enabled": false,
+      "EnergyDecay": 0.6,
+      "HydroDecay": 0.6
+    },
+    "SaveQuestItems": false,
+    "NoRunThrough": false,
+    "LootableMelee": false,
+    "LootableArmbands": false,
+    "EnableExtendedRaids": false,
+    "TimeLimit": 999,
+    "HolsterAnything": false,
+    "LowerExamineTime": false,
+    "SpecialSlotChanges": false,
+    "ChangeAirdropValues": {
+      "Enabled": false,
+      "Customs": 35,
+      "Woods": 35,
+      "Lighthouse": 35,
+      "Interchange": 35,
+      "Shoreline": 35,
+      "Reserve": 35
+    }
+  },
+  "PocketChanges": {
+    "Enabled": false,
+    "Pocket1": {
+      "Vertical": 1,
+      "Horizontal": 1
+    },
+    "Pocket2": {
+      "Vertical": 2,
+      "Horizontal": 1
+    },
+    "Pocket3": {
+      "Vertical": 2,
+      "Horizontal": 1
+    },
+    "Pocket4": {
+      "Vertical": 1,
+      "Horizontal": 1
+    }
+  },
+  "WeightChanges": {
+    "Enabled": false,
+    "WeightMultiplier": 2
+  },
+  "Trader": {
+    "DisableFleaBlacklist": false,
+    "LL1Items": false,
+    "RemoveFirRequirementsForQuests": false
+  },
+  "Insurance": {
+    "Enabled": false,
+    "PraporMinReturn": 2,
+    "PraporMaxReturn": 4,
+    "TherapistMinReturn": 1,
+    "TherapistMaxReturn": 2
+  },
+  "BasicStackTuning": {
+    "Enabled": false,
+    "StackMultiplier": 5
+  },
+  "AdvancedStackTuning": {
+    "Enabled": false,
+    "ShotgunStack": 100,
+    "FlaresAndUBGL": 5,
+    "SniperStack": 100,
+    "SMGStack": 250,
+    "RifleStack": 150
+  },
+  "MoneyStackMultiplier": {
+    "Enabled": false,
+    "MoneyMultiplier": 10
+  },
+  "LootChanges": {
+    "EnableLootOptions": false,
+    "StaticLootMultiplier": 3,
+    "LooseLootMultiplier": 2,
+    "MarkedRoomLootMultiplier": 3
+  },
+  "Events": {
+    "EnableWeatherOptions": false,
+    "AllSeasons": false,
+    "NoWinter": false,
+    "SeasonalProgression": false,
+    "WinterWonderland": false,
+    "RandomizedSeasonalEvents": false
+  },
+  "Debug": {
+    "ExtraLogging": false
+  }
+}

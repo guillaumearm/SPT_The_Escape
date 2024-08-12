@@ -1,0 +1,359 @@
+{
+  "customs": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "ZoneOldAZS",
+        "ZoneWade",
+        "ZoneBrige",
+        "ZoneFactoryCenter",
+        "ZoneDormitory",
+        "ZoneCustoms",
+        "ZoneFactorySide"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "factory": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": null,
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "factory_night": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": null,
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "groundzero_high": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": null,
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "groundzero": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": null,
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "interchange": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "ZoneCenter",
+        "ZoneCenterBot",
+        "ZoneGoshan",
+        "ZoneOLI",
+        "ZonePowerStation",
+        "ZoneIDEA",
+        "ZoneIDEAPark",
+        "ZoneOLIPark"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "laboratory": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "BotZoneFloor1",
+        "BotZoneFloor2",
+        "BotZoneBasement",
+        "BotZoneGate2",
+        "BotZoneGate1"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "Zone_Chalet",
+        "Zone_Village",
+        "Zone_Containers",
+        "Zone_TreatmentBeach",
+        "Zone_TreatmentRocks",
+        "Zone_Bridge",
+        "Zone_Blockpost",
+        "Zone_Hellicopter"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "reserve": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "ZoneRailStrorage",
+        "ZoneBarrack",
+        "ZoneSubStorage",
+        "ZoneSubCommand",
+        "ZonePTOR2",
+        "ZonePTOR1"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "shoreline": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "ZoneIsland",
+        "ZonePowerStation",
+        "ZoneBusStation",
+        "ZonePort",
+        "ZoneRailWays",
+        "ZoneSanatorium1",
+        "ZoneSanatorium2",
+        "ZoneMateoStation",
+        "ZoneGasStation",
+        "ZoneGreenHouses"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ],
+  "streets": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "ZoneCarShowroom"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    },
+    {
+      "BossChance": 100,
+      "BossEscortAmount": "1,2",
+      "BossEscortType": "bossboarsniper",
+      "BossName": "bossboarsniper",
+      "BossZone": [
+        "ZoneSnipeCarShowroom"
+      ],
+      "Time": 99999,
+      "TriggerId": "BossBoarBorn",
+      "TriggerName": "botEvent"
+    }
+  ],
+  "woods": [
+    {
+      "BossChance": 11,
+      "BossEscortAmount": "6",
+      "BossEscortType": "followerboar",
+      "BossName": "bossboar",
+      "BossZone": [
+        "ZoneWoodCutter",
+        "ZoneScavBase2",
+        "ZoneRoad",
+        "ZoneMiniHouse"
+      ],
+      "Supports": [
+        {
+          "BossEscortAmount": "4",
+          "BossEscortType": "followerboar"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose1"
+        },
+        {
+          "BossEscortAmount": "1",
+          "BossEscortType": "followerboarclose2"
+        }
+      ],
+      "Time": -1
+    }
+  ]
+}

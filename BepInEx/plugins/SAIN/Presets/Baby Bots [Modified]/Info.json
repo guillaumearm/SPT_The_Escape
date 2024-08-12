@@ -1,0 +1,11 @@
+{
+  "Name": "Baby Bots [Modified]",
+  "Description": "[Modified] Bots react slowly and are incredibly inaccurate.",
+  "Creator": "user",
+  "SAINVersion": "3.1.0",
+  "SAINPresetVersion": "3.1.0",
+  "DateCreated": "08/04/2024 00:00:00",
+  "BaseSAINDifficulty": "easy",
+  "IsCustom": true,
+  "CanEditName": true
+}

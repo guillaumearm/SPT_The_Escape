@@ -1,0 +1,26 @@
+{
+  "Maps": {
+    "lighthouse": {
+      "PMC": {
+        "MinCount": 7,
+        "MaxCount": 10,
+        "MinGroupSize": 1,
+        "MaxGroupSize": 5,
+        "Zones": [
+          "start",
+          "all"
+        ]
+      },
+      "SCAV": {
+        "MinCount": 2,
+        "MaxCount": 4,
+        "MinGroupSize": 1,
+        "MaxGroupSize": 2,
+        "Zones": [
+          "start",
+          "all"
+        ]
+      }
+    }
+  }
+}

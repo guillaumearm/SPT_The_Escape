@@ -1,0 +1,187 @@
+{
+  "customs": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": [
+        "ZoneOldAZS",
+        "ZoneWade",
+        "ZoneBrige",
+        "ZoneFactoryCenter",
+        "ZoneDormitory",
+        "ZoneCustoms",
+        "ZoneFactorySide"
+      ]
+    }
+  ],
+  "factory": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": null
+    }
+  ],
+  "factory_night": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": null
+    }
+  ],
+  "groundzero": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": null
+    }
+  ],
+  "groundzero_high": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": null
+    }
+  ],
+  "interchange": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": [
+        "ZoneCenter",
+        "ZoneCenterBot",
+        "ZoneGoshan",
+        "ZoneOLI",
+        "ZonePowerStation",
+        "ZoneIDEA",
+        "ZoneIDEAPark",
+        "ZoneOLIPark"
+      ]
+    }
+  ],
+  "laboratory": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": [
+        "BotZoneFloor1",
+        "BotZoneFloor2",
+        "BotZoneBasement",
+        "BotZoneGate2",
+        "BotZoneGate1"
+      ]
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": [
+        "Zone_Chalet",
+        "Zone_Village",
+        "Zone_Containers",
+        "Zone_TreatmentBeach",
+        "Zone_TreatmentRocks",
+        "Zone_Bridge",
+        "Zone_Blockpost",
+        "Zone_Hellicopter"
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": [
+        "ZoneRailStrorage",
+        "ZoneBarrack",
+        "ZoneSubStorage",
+        "ZoneSubCommand",
+        "ZonePTOR2",
+        "ZonePTOR1"
+      ]
+    }
+  ],
+  "shoreline": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "BossEscortType": "arenafighterevent",
+      "BossEscortAmount": "3,4",
+      "Time": -1,
+      "BossZone": [
+        "ZoneIsland",
+        "ZonePowerStation",
+        "ZoneBusStation",
+        "ZonePort",
+        "ZoneRailWays",
+        "ZoneSanatorium1",
+        "ZoneSanatorium2",
+        "ZoneMateoStation",
+        "ZoneGasStation",
+        "ZoneGreenHouses"
+      ]
+    }
+  ],
+  "streets": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "Time": -1,
+      "BossEscortAmount": "3,4",
+      "BossEscortType": "arenafighterevent",
+      "BossZone": [
+        "ZoneSW01",
+        "ZoneConstruction",
+        "ZoneCarShowroom",
+        "ZoneCinema",
+        "ZoneFactory",
+        "ZoneHotel_1",
+        "ZoneHotel_2",
+        "ZoneConcordia_1",
+        "ZoneColumn"
+      ]
+    }
+  ],
+  "woods": [
+    {
+      "BossName": "arenafighterevent",
+      "BossChance": 5,
+      "BossEscortType": "arenafighterevent",
+      "BossEscortAmount": "3,4",
+      "Time": -1,
+      "BossZone": [
+        "ZoneWoodCutter",
+        "ZoneScavBase2",
+        "ZoneRoad",
+        "ZoneMiniHouse"
+      ]
+    }
+  ]
+}

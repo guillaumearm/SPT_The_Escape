@@ -1,0 +1,255 @@
+{
+	"removeContainersFromPeacekeeper": true, //Does what it says on the tin. Removes any container sales from peacekeeper
+	"craftingTime": 300, //Time to craft in seconds. 
+	"secure_containers": {
+		"pouch": {
+			"requirements": [ //What you need to craft the container in question.
+				{
+					"type": "Item",
+					"templateId": "57347c5b245977448d35f6e1", //Bolts
+					"count": 4
+				},
+				{
+					"type": "Item",
+					"templateId": "57347c77245977448d35f6e2", //Nuts
+					"count": 4
+				},
+				{
+					"type": "Item",
+					"templateId": "567143bf4bdc2d1a0f8b4567", //Pistol Case
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "57347c1124597737fb1379e3", //Duct tape
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "5734795124597738002c6176", //Blue tape
+					"count": 2
+				},
+				{
+					"type": "Area", //Hideout area.
+					"areaType": 10, //Where it's made.  See https://hub.sp-tarkov.com/doc/entry/4-resources-hideout-areas-ids/ for more options
+					"requiredLevel": 1
+				}
+			]
+		},
+		"alpha": {
+			"requirements": [
+				{
+					"type": "Item",
+					"templateId": "5732ee6a24597719ae0c0281", //Pouch
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "61bf7b6302b3924be92fa8c3", //Metal Parts
+					"count": 4
+				},
+				{
+					"type": "Item",
+					"templateId": "5e2af29386f7746d4159f077", //Kektape
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5c127c4486f7745625356c13", //Mag case
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5e2af22086f7746d3f3c33fa", //Poxeram
+					"count": 2
+				},
+				{
+					"type": "Area",
+					"areaType": 10,
+					"requiredLevel": 1
+				}
+			]
+		},
+		"beta": {
+			"requirements": [
+				{
+					"type": "Item",
+					"templateId": "544a11ac4bdc2d470e8b456a", //Alpha Container
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "59e35ef086f7741777737012", //Screws
+					"count": 4
+				},
+				{
+					"type": "Item",
+					"templateId": "590c31c586f774245e3141b2", //Nails
+					"count": 4
+				},
+				{
+					"type": "Item",
+					"templateId": "5aafbde786f774389d0cbc0f", //Ammo case
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "59faff1d86f7746c51718c9c", //Bitcoin
+					"count": 1
+				},
+				{
+					"type": "Area",
+					"areaType": 10,
+					"requiredLevel": 1
+				}
+			]
+		},
+		"epsilon": {
+			"requirements": [
+				{
+					"type": "Item",
+					"templateId": "5857a8b324597729ab0a0e7d", //Beta container
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "5c05308086f7746b2101e90b", //Virtex
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5b7c710788a4506dec015957", //Lucky scav junk box
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "59fafd4b86f7745ca07e1232", //key tool
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "57347ca924597744596b4e71", //GPU
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "5d08d21286f774736e7c94c3", //Shturman stash key
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5b3b713c5acfc4330140bd8d", //Golden TT
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "60a7acf20c5cb24b01346648", //Boss cap
+					"count": 1
+				},
+				{
+					"type": "Area",
+					"areaType": 10,
+					"requiredLevel": 2
+				}
+			]
+		},
+		"gamma": {
+			"requirements": [
+				{
+					"type": "Item",
+					"templateId": "59db794186f77448bc595262", //Epsilon Container
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "60a7ad3a0c5cb24b0134664a", //Tagilla Gorilla Face Shield
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5e997f0b86f7741ac73993e2", //Sanitar bag
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5c0e874186f7745dc7616606", //Killa helmet
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "59fb023c86f7746d0d4b423c", //Weapon case
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5d03775b86f774203e7e0c4b", //AESA phase array
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "5c1d0d6d86f7744bb2683e1f", //Yellow keycard
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5d03794386f77420415576f5",  //Tank battery
+					"count": 1
+				},
+				{
+					"type": "Area",
+					"areaType": 10,
+					"requiredLevel": 3
+				}
+			]
+		},
+		"kappa": {
+			"requirements": [
+				{
+					"type": "Item",
+					"templateId": "5857a8bc2459772bad15db29", //Gamma container
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "62a61bbf8ec41a51b34758d2", //Big pipe pipe
+					"count": 4
+				},
+				{
+					"type": "Item",
+					"templateId": "64ce572331dd890873175115",   //Kaban aspect key
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "6389c7f115805221fb410466", //Far forward something
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "6389c85357baa773a825b356", //Far forward second thing
+					"count": 2
+				},
+				{
+					"type": "Item",
+					"templateId": "5c1d0efb86f7744baf2e7b7b", //Red keycard
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5c1e495a86f7743109743dfb", //Violet keycard
+					"count": 1
+				},
+				{
+					"type": "Item",
+					"templateId": "5c1d0c5f86f7744bb2683cf0", //Blue keycard
+					"count": 1
+				},
+				{
+					"type": "Area",
+					"areaType": 10,
+					"requiredLevel": 3
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,116 @@
+{
+    "gc_01001_VLTOR_MUR_RECIEVER":{
+        "ItemID": "gc_01001_VLTOR_MUR_RECIEVER",
+        "Name": "MUR Green",
+        "TemplateID": "59bfe68886f7746004266202",
+        "TemplateType": "mod"    
+    },
+    "gc_01001B_VLTOR_MUR_RECIEVER_2":{
+        "ItemID": "gc_01001B_VLTOR_MUR_RECIEVER_2",
+        "Name": "MUR 2 Green",
+        "TemplateID": "59bfe68886f7746004266202",
+        "TemplateType": "mod"    
+    },
+    "gc_01002_KAC_SR25_RECIEVER":{
+        "ItemID": "gc_01002_KAC_SR25_RECIEVER",
+        "Name": "SR-25R Green",
+        "TemplateID": "5df8e4080b92095fd441e594",
+        "TemplateType": "mod"    
+    },
+    "gc_01003_STNGR_HANDGUARD":{
+        "ItemID": "gc_01003_STNGR_HANDGUARD",
+        "Name": "VYPR Green",
+        "TemplateID": "5c6d5d8b2e221644fc630b39",
+        "TemplateType": "mod"    
+    },
+    "gc_01004_SWS_SPLIT_HANDGUARD":{
+        "ItemID": "gc_01004_SWS_SPLIT_HANDGUARD",
+        "Name": "SWS S Green",
+        "TemplateID": "5d00ef6dd7ad1a0940739b16",
+        "TemplateType": "mod"    
+    },
+    "gc_01005_DD_FSP_HANDGUARD":{
+        "ItemID": "gc_01005_DD_FSP_HANDGUARD",
+        "Name": "FSP Green",
+        "TemplateID": "5c9a26332e2216001219ea70",
+        "TemplateType": "mod"    
+    },
+    "gc_01006_SBA_STOCK":{
+        "ItemID": "gc_01006_SBA_STOCK",
+        "Name": "SBA3 Green",
+        "TemplateID": "628a85ee6b1d481ff772e9d5",
+        "TemplateType": "mod"    
+    },
+    "gc_01007_EMOD_STOCK":{
+        "ItemID": "gc_01007_EMOD_STOCK",
+        "Name": "EMOD Green",
+        "TemplateID": "5b39f8db5acfc40016387a1b",
+        "TemplateType": "mod"    
+    },
+    "669d62e4c09c58fdc43eb43d":{
+        "ItemID": "669d62e4c09c58fdc43eb43d",
+        "Name": "MP Green",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "gc_01009_F1_PC":{
+        "ItemID": "gc_01009_F1_PC",
+        "Name": "F1 Green",
+        "TemplateID": "6113cc78d3a39d50044c065a",
+        "TemplateType": "mod"    
+    },
+    "gc_01010_BCM_FOREGRIP":{
+        "ItemID": "gc_01010_BCM_FOREGRIP",
+        "Name": "BCM Green",
+        "TemplateID": "5c7fc87d2e221644f31c0298",
+        "TemplateType": "mod"    
+    },
+    "gc_01011_ULTRA_SILENCER":{
+        "ItemID": "gc_01011_ULTRA_SILENCER",
+        "Name": "Ultra 5 Green",
+        "TemplateID": "5d44064fa4b9361e4f6eb8b5",
+        "TemplateType": "mod"    
+    },
+    "gc_01012_VORTEX_RAZOR_UH1":{
+        "ItemID": "gc_01012_VORTEX_RAZOR_UH1",
+        "Name": "UH-1 Green",
+        "TemplateID": "59f9d81586f7744c7506ee62",
+        "TemplateType": "mod"    
+    },
+    "gc_01013_VUDU_SCOPE":{
+        "ItemID": "gc_01013_VUDU_SCOPE",
+        "Name": "VUDU Green",
+        "TemplateID": "5b3b99475acfc432ff4dcbee",
+        "TemplateType": "mod"    
+    },
+    "gc_01014_EXPS3":{
+        "ItemID": "gc_01014_EXPS3",
+        "Name": "EXPS3 Green",
+        "TemplateID": "558022b54bdc2dac148b458d",
+        "TemplateType": "mod"    
+    },
+    "gc_01015_SAKER_SILENCER":{
+        "ItemID": "gc_01015_SAKER_SILENCER",
+        "Name": "SAKER ASR Green",
+        "TemplateID": "60926df0132d4d12c81fd9df",
+        "TemplateType": "mod"    
+    },
+    "gc_1_MDR_556":{
+        "ItemID": "gc_1_MDR_556",
+        "Name": "MDR 5.56 Green",
+        "TemplateID": "5c488a752e221602b412af63",
+        "TemplateType": "gun"    
+    },
+    "gc_2_MDR_762":{
+        "ItemID": "gc_2_MDR_762",
+        "Name": "MDR 7.62 Green",
+        "TemplateID": "5dcbd56fdbd3d91b3e5468d5",
+        "TemplateType": "gun"    
+    },
+    "gc_3_M4A1_green":{
+        "ItemID": "gc_3_M4A1_green",
+        "Name": "M4A1 Green",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+    }
+}

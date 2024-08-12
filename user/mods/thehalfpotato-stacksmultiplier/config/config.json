@@ -1,0 +1,8 @@
+{
+    "debug": false,
+    "onlyAmmo": true,
+    "weightlessAmmo": false,
+    "ammoStackMult": 2,
+    "moneyStackMult": 2,
+    "barterStackMult": 2
+}

@@ -1,0 +1,89 @@
+{
+  "6621b1f22310f5ff09476360": {
+    "ItemID": "6621b1f22310f5ff09476360",
+    "Name": "6621b1f22310f5ff09476360",
+    "AllowADS": true,
+    "LoyaltyLevel": 5,
+    "ArmorClass": "MK4A Plates",
+    "CanSpall": false,
+    "SpallReduction": 1,
+    "ReloadSpeedMulti": 1.15,
+    "Comfort": 0.81
+  },
+  "6621b274485df00e750df4f2": {
+    "ItemID": "6621b274485df00e750df4f2",
+    "Name": "6621b274485df00e750df4f2",
+    "AllowADS": true,
+    "LoyaltyLevel": 5,
+    "ArmorClass": "MK4A Plates",
+    "CanSpall": false,
+    "SpallReduction": 1,
+    "ReloadSpeedMulti": 1.09,
+    "Comfort": 0.86
+  },
+  "6621b200cb248c192d90e324": {
+    "ItemID": "6621b200cb248c192d90e324",
+    "Name": "6621b200cb248c192d90e324",
+    "AllowADS": true,
+    "LoyaltyLevel": 4,
+    "ArmorClass": "NIJ III",
+    "CanSpall": false,
+    "SpallReduction": 1,
+    "ReloadSpeedMulti": 1,
+    "BlocksMouth": true
+  },
+  "6621b1e0bd80eeb4de0c9ed8": {
+    "ItemID": "6621b1e0bd80eeb4de0c9ed8",
+    "Name": "6621b1e0bd80eeb4de0c9ed8",
+    "AllowADS": true,
+    "LoyaltyLevel": 5,
+    "ArmorClass": "NIJ IV",
+    "CanSpall": false,
+    "SpallReduction": 1,
+    "ReloadSpeedMulti": 1,
+    "Comfort": 1.05
+  },
+  "6621b0dcbcfe66cdbbab48c7": {
+    "ItemID": "6621b0dcbcfe66cdbbab48c7",
+    "Name": "6621b0dcbcfe66cdbbab48c7",
+    "AllowADS": true,
+    "LoyaltyLevel": 5,
+    "ArmorClass": "",
+    "CanSpall": false,
+    "SpallReduction": 1,
+    "ReloadSpeedMulti": 0.75,
+    "Comfort": 1
+  },
+  "6621b2308e3a3a8692dfc142": {
+    "ItemID": "6621b2308e3a3a8692dfc142",
+    "Name": "6621b2308e3a3a8692dfc142",
+    "AllowADS": true,
+    "LoyaltyLevel": 1,
+    "ReloadSpeedMulti": 1,
+    "Comfort": 0.8
+  },
+  "6621b246182282d29d2e5cb6": {
+    "ItemID": "6621b246182282d29d2e5cb6",
+    "Name": "6621b246182282d29d2e5cb6",
+    "AllowADS": true,
+    "LoyaltyLevel": 1,
+    "ReloadSpeedMulti": 1,
+    "Comfort": 0.8
+  },
+  "6621b259bd90c86283283b4c": {
+    "ItemID": "6621b259bd90c86283283b4c",
+    "Name": "6621b259bd90c86283283b4c",
+    "AllowADS": true,
+    "LoyaltyLevel": 1,
+    "ReloadSpeedMulti": 1,
+    "Comfort": 0.8
+  },
+  "6621b28d9411498998d408c3": {
+    "ItemID": "6621b28d9411498998d408c3",
+    "Name": "6621b28d9411498998d408c3",
+    "AllowADS": true,
+    "LoyaltyLevel": 2,
+    "ReloadSpeedMulti": 1,
+    "Comfort": 0.85
+  }
+}

@@ -1,0 +1,311 @@
+{
+    "SC_01001_AVALANCHE":{
+        "ItemID": "SC_01001_AVALANCHE",
+        "Name": "MOD2 Sand",
+        "TemplateID": "5f633ff5c444ce7e3c30a006",
+        "TemplateType": "mod"    
+        },
+    "SC_01002_PMAG_M3":{
+        "ItemID": "SC_01002_PMAG_M3",
+        "Name": "M3 Sand",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+        },
+    "SC_01003_F1FIREARMS":{
+        "ItemID": "SC_01003_F1FIREARMS",
+        "Name": "F1 Sand",
+        "TemplateID": "6113cc78d3a39d50044c065a",
+        "TemplateType": "mod"    
+        },
+    "SC_01004_NOVESKE_AR_REC":{
+        "ItemID": "SC_01004_NOVESKE_AR_REC",
+        "Name": "NOV Sand",
+        "TemplateID": "5c07a8770db8340023300450",
+        "TemplateType": "mod"    
+        },
+    "SC_01006_M4SD_K":{
+        "ItemID": "SC_01006_M4SD_K",
+        "Name": "M4SDK Sand",
+        "TemplateID": "638612b607dfed1ccb7206ba",
+        "TemplateType": "mod"    
+        },
+    "SC_01007_VLTOR_REC":{
+        "ItemID": "SC_01007_VLTOR_REC",
+        "Name": "VLTOR Sand",
+        "TemplateID": "59bfe68886f7746004266202",
+        "TemplateType": "mod"    
+        },
+    "SC_01008_VYPR_HANDG":{
+        "ItemID": "SC_01008_VYPR_HANDG",
+        "Name": "VYPR Sand",
+        "TemplateID": "5c6d5d8b2e221644fc630b39",
+        "TemplateType": "mod"    
+        },
+    "SC_01009_VUDU":{
+        "ItemID": "SC_01009_VUDU",
+        "Name": "VUDU Sand",
+        "TemplateID": "5b3b99475acfc432ff4dcbee",
+        "TemplateType": "mod"    
+        },
+    "SC_01010_MCX_REC":{
+        "ItemID": "SC_01010_MCX_REC",
+        "Name": "MCX GEN1 Sand",
+        "TemplateID": "5fbcc3e4d6fa9c00c571bb58",
+        "TemplateType": "mod"    
+        },
+    "SC_01011_MCX_STOCK":{
+        "ItemID": "SC_01011_MCX_STOCK",
+        "Name": "MPX/MCX-T Sand",
+        "TemplateID": "5fbcc429900b1d5091531dd7",
+        "TemplateType": "mod"    
+        },
+    "SC_01012_MCX_12_HANDG":{
+        "ItemID": "SC_01012_MCX_12_HANDG",
+        "Name": "MCX 12 Sand",
+        "TemplateID": "5fbc227aa56d053a3543f79e",
+        "TemplateType": "mod"    
+        },
+    "SC_01013_EMOD_STOCK":{
+        "ItemID": "SC_01013_EMOD_STOCK",
+        "Name": "EMOD Sand",
+        "TemplateID": "5b39f8db5acfc40016387a1b",
+        "TemplateType": "mod"    
+        },
+    "SC_01014_AK74_DUST_COVER":{
+        "ItemID": "SC_01014_AK74_DUST_COVER",
+        "Name": "6P20 0-1 Sand",
+        "TemplateID": "5649af094bdc2df8348b4586",
+        "TemplateType": "mod"    
+        },
+    "SC_01015_AK_B30_HANDG":{
+        "ItemID": "SC_01015_AK_B30_HANDG",
+        "Name": "B30 Sand",
+        "TemplateID": "5efaf417aeb21837e749c7f2",
+        "TemplateType": "mod"    
+        },
+    "SC_01016_AK_RPK_TUBE":{
+        "ItemID": "SC_01016_AK_RPK_TUBE",
+        "Name": "RPK-16T Sand",
+        "TemplateID": "5beec8b20db834001961942a",
+        "TemplateType": "mod"    
+        },
+    "SC_01017_AK_JMAC_MUZZLE":{
+        "ItemID": "SC_01017_AK_JMAC_MUZZLE",
+        "Name": "RRD-4C Sand",
+        "TemplateID": "5f633f791b231926f2329f13",
+        "TemplateType": "mod"    
+        },
+    "SC_01017_AK_JMAC_SC_01018_AR_KAC_RISMUZZLE":{
+        "ItemID": "SC_01018_AR_KAC_RIS",
+        "Name": "KAC RIS Sand",
+        "TemplateID": "55d459824bdc2d892f8b4573",
+        "TemplateType": "mod"    
+        },
+    "SC_01019_AR_KAC_RIS_LOWER":{
+        "ItemID": "SC_01019_AR_KAC_RIS_LOWER",
+        "Name": "KAC RIS Sand",
+        "TemplateID": "637f57b78d137b27f70c496a",
+        "TemplateType": "mod"    
+        },
+    "SC_01020_AR_KAC_URX_8":{
+        "ItemID": "SC_01020_AR_KAC_URX_8",
+        "Name": "URX3 8 Sand",
+        "TemplateID": "5d123102d7ad1a004e475fe5",
+        "TemplateType": "mod"    
+        },
+    "SC_01021_AR_KAC_URX_8_LOWER":{
+        "ItemID": "SC_01021_AR_KAC_URX_8_LOWER",
+        "Name": "URX3 8 Sand",
+        "TemplateID": "637f57d2f5ef8c33840d36c4",
+        "TemplateType": "mod"    
+        },
+    "SC_01022_AR_KAC_URX_10":{
+        "ItemID": "SC_01022_AR_KAC_URX_10",
+        "Name": "URX3 10.75 Sand",
+        "TemplateID": "5d122e7bd7ad1a07102d6d7f",
+        "TemplateType": "mod"    
+        },
+    "SC_01023_AR_KAC_URX_10_LOWER":{
+        "ItemID": "SC_01023_AR_KAC_URX_10_LOWER",
+        "Name": "URX3 10.75 Sand",
+        "TemplateID": "637f57c532b66e7e320a6676",
+        "TemplateType": "mod"    
+        },
+    "SC_01024_AR_JPE_GASBLOCK":{
+        "ItemID": "SC_01024_AR_JPE_GASBLOCK",
+        "Name": "GS-5B Sand",
+        "TemplateID": "5d00ec68d7ad1a04a067e5be",
+        "TemplateType": "mod"    
+        },
+    "SC_01025_AR_15_260_BARREL":{
+        "ItemID": "SC_01025_AR_15_260_BARREL",
+        "Name": "AR-15 260 Sand",
+        "TemplateID": "55d35ee94bdc2d61338b4568",
+        "TemplateType": "mod"    
+        },
+    "SC_01026_AR_15_370_BARREL":{
+        "ItemID": "SC_01026_AR_15_370_BARREL",
+        "Name": "AR-15 370 Sand",
+        "TemplateID": "55d3632e4bdc2d972f8b4569",
+        "TemplateType": "mod"    
+        },
+    "SC_01027_AK_POLYMER_STOCK":{
+        "ItemID": "SC_01027_AK_POLYMER_STOCK",
+        "Name": "6P20 Sb.7 Sand",
+        "TemplateID": "5649b0fc4bdc2d17108b4588",
+        "TemplateType": "mod"    
+        },
+    "SC_01028_AKM_POLYMER_STOCK":{
+        "ItemID": "SC_01028_AKM_POLYMER_STOCK",
+        "Name": "6P34 Sb.15 Sand",
+        "TemplateID": "5ac50c185acfc400163398d4",
+        "TemplateType": "mod"    
+        },
+    "SC_01029_AK_CRICLE_10_MAG":{
+        "ItemID": "SC_01029_AK_CRICLE_10_MAG",
+        "Name": "C-10 AK Sand",
+        "TemplateID": "5c0548ae0db834001966a3c2",
+        "TemplateType": "mod"    
+        },
+    "SC_01030_AK_TROY_GAS_HANDGUARD":{
+        "ItemID": "SC_01030_AK_TROY_GAS_HANDGUARD",
+        "Name": "TROY FLR Sand",
+        "TemplateID": "5b237e425acfc4771e1be0b6",
+        "TemplateType": "mod"    
+        },
+    "SC_01031_ULTRA_SILENCER":{
+        "ItemID": "SC_01031_ULTRA_SILENCER",
+        "Name": "Ultra 5 Sand",
+        "TemplateID": "5d44064fa4b9361e4f6eb8b5",
+        "TemplateType": "mod"    
+        },
+    "SC_01032_AK_DOGRAIL_DUSTCOVER":{
+        "ItemID": "SC_01032_AK_DOGRAIL_DUSTCOVER",
+        "Name": "Dog Leg Rail Sand",
+        "TemplateID": "5d2c772c48f0355d95672c25",
+        "TemplateType": "mod"    
+        },
+    "SC_01033_MP_60_MAGAZINE":{
+        "ItemID": "SC_01033_MP_60_MAGAZINE",
+        "Name": "PMAG Sand",
+        "TemplateID": "59c1383d86f774290a37e0ca",
+        "TemplateType": "mod"    
+        },
+    "SC_01034_T1M_SIGHT":{
+        "ItemID": "SC_01034_T1M_SIGHT",
+        "Name": "T-1 Sand",
+        "TemplateID": "58d399e486f77442e0016fe7",
+        "TemplateType": "mod"    
+        },
+    "SC_01035_T1M_SPACER":{
+        "ItemID": "SC_01035_T1M_SPACER",
+        "Name": "AMSH Sand",
+        "TemplateID": "58d39b0386f77443380bf13c",
+        "TemplateType": "mod"    
+        },
+    "SC_01036_T1M_MOUNT":{
+        "ItemID": "SC_01036_T1M_MOUNT",
+        "Name": "H-2 Sand",
+        "TemplateID": "616554fe50224f204c1da2aa",
+        "TemplateType": "mod"    
+        },
+    "SC_01037_AK_PT_1":{
+        "ItemID": "SC_01037_AK_PT_1",
+        "Name": "PT-1 Sand",
+        "TemplateID": "5b222d405acfc400153af4fe",
+        "TemplateType": "mod"    
+        },
+    "SC_01038_G36_4V_HANDGUARD":{
+        "ItemID": "SC_01038_G36_4V_HANDGUARD",
+        "Name": "G36 4-vent Sand",
+        "TemplateID": "62386b7153757417e93a4e9f",
+        "TemplateType": "mod"    
+        },
+    "SC_01039_G36_MAGWELL":{
+        "ItemID": "SC_01039_G36_MAGWELL",
+        "Name": "G36 Well Sand",
+        "TemplateID": "622f02437762f55aaa68ac85",
+        "TemplateType": "mod"    
+        },
+    "SC_01040_G36_C_MAGWELL":{
+        "ItemID": "SC_01040_G36_C_MAGWELL",
+        "Name": "G36 NATO Sand",
+        "TemplateID": "622f039199f4ea1a4d6c9a17",
+        "TemplateType": "mod"    
+        },
+    "SC_01041_G36_STOCK":{
+        "ItemID": "SC_01041_G36_STOCK",
+        "Name": "G36 Sand",
+        "TemplateID": "622f140da5958f63c67f1735",
+        "TemplateType": "mod"    
+        },
+    "SC_01042_VORTEX_RAZOR_UH1":{
+        "ItemID": "SC_01042_VORTEX_RAZOR_UH1",
+        "Name": "UH-1 Sand",
+        "TemplateID": "59f9d81586f7744c7506ee62",
+        "TemplateType": "mod"    
+        },
+    "SC_01043_VLTOR_REC_2":{
+        "ItemID": "SC_01043_VLTOR_REC_2",
+        "Name": "VLTOR Sand 2",
+        "TemplateID": "59bfe68886f7746004266202",
+        "TemplateType": "mod"    
+        },
+    "SC_0101_MCX_SAND":{
+        "ItemID": "SC_0101_MCX_SAND",
+        "Name": "SIG MCX Sand",
+        "TemplateID": "5fbcc1d9016cce60e8341ab3",
+        "TemplateType": "gun"    
+        },
+    "SC_0102_M4A1_SAND":{
+        "ItemID": "SC_0102_M4A1_SAND",
+        "Name": "M4A1 Sand",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+        },
+    "SC_0103_AK101_SAND":{
+        "ItemID": "SC_0103_AK101_SAND",
+        "Name": "AK-101 Sand",
+        "TemplateID": "5ac66cb05acfc40198510a10",
+        "TemplateType": "gun"    
+        },
+    "SC_0104_AK102_SAND":{
+        "ItemID": "SC_0104_AK102_SAND",
+        "Name": "AK-102 Sand",
+        "TemplateID": "5ac66d015acfc400180ae6e4",
+        "TemplateType": "gun"    
+        },
+    "SC_0105_AK103_SAND":{
+        "ItemID": "SC_0105_AK103_SAND",
+        "Name": "AK-103 Sand",
+        "TemplateID": "5ac66d2e5acfc43b321d4b53",
+        "TemplateType": "gun"    
+        },
+    "SC_0106_AK104_SAND":{
+        "ItemID": "SC_0106_AK104_SAND",
+        "Name": "AK-104 Sand",
+        "TemplateID": "5ac66d725acfc43b321d4b60",
+        "TemplateType": "gun"    
+        },
+    "SC_0107_AK105_SAND":{
+        "ItemID": "SC_0107_AK105_SAND",
+        "Name": "AK-105 Sand",
+        "TemplateID": "5ac66d9b5acfc4001633997a",
+        "TemplateType": "gun"    
+        },
+    "SC_0109_G36_SAND":{
+        "ItemID": "SC_0107_AK1SC_0109_G36_SAND05_SAND",
+        "Name": "G36 Sand",
+        "TemplateID": "623063e994fc3f7b302a9696",
+        "TemplateType": "gun"    
+        },
+    "SC_01010_M4A1_SAND_2":{
+        "ItemID": "SC_01010_M4A1_SAND_2",
+        "Name": "M4A1 Sand 2",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+        }
+
+
+
+}

@@ -1,0 +1,123 @@
+{
+    "wc_01001_URX_SHORT_PANEL":{
+        "ItemID": "wc_01001_URX_SHORT_PANEL",
+        "Name": "URX White",
+        "TemplateID": "5d123a3cd7ad1a004e476058",
+        "TemplateType": "mod"    
+    },
+    "wc_01002_VUDU_SCOPE":{
+        "ItemID": "wc_01002_VUDU_SCOPE",
+        "Name": "VUDU White",
+        "TemplateID": "5b3b99475acfc432ff4dcbee",
+        "TemplateType": "mod"    
+    },
+    "wc_01003_AIMPOINT_SPACER":{
+        "ItemID": "wc_01003_AIMPOINT_SPACER",
+        "Name": "T1S White",
+        "TemplateID": "58d39b0386f77443380bf13c",
+        "TemplateType": "mod"    
+    },
+    "wc_01004_AIMPOINT_SCOPE":{
+        "ItemID": "wc_01004_AIMPOINT_SCOPE",
+        "Name": "T1 White",
+        "TemplateID": "58d399e486f77442e0016fe7",
+        "TemplateType": "mod"    
+    },
+    "wc_01005_DD_MK12_GASBLOCK":{
+        "ItemID": "wc_01005_DD_MK12_GASBLOCK",
+        "Name": "MK12 White",
+        "TemplateID": "56eabcd4d2720b66698b4574",
+        "TemplateType": "mod"    
+    },
+    "wc_01006_MOD2_CHARGE":{
+        "ItemID": "wc_01006_MOD2_CHARGE",
+        "Name": "MOD2 White",
+        "TemplateID": "5f633ff5c444ce7e3c30a006",
+        "TemplateType": "mod"    
+    },
+    "wc_01007_EMOD_STOCK":{
+        "ItemID": "wc_01007_EMOD_STOCK",
+        "Name": "EMOD White",
+        "TemplateID": "5b39f8db5acfc40016387a1b",
+        "TemplateType": "mod"    
+    },
+    "669d659957ba723f587110a3":{
+        "ItemID": "669d659957ba723f587110a3",
+        "Name": "MP White",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "wc_01009_F1_PC":{
+        "ItemID": "wc_01009_F1_PC",
+        "Name": "F1 White",
+        "TemplateID": "6113cc78d3a39d50044c065a",
+        "TemplateType": "mod"    
+    },
+    "wc_01010_BCM_FOREGRIP":{
+        "ItemID": "wc_01010_BCM_FOREGRIP",
+        "Name": "BCM White",
+        "TemplateID": "5c7fc87d2e221644f31c0298",
+        "TemplateType": "mod"    
+    },
+    "wc_01011_AR_NOVESKE_RECIEVER":{
+        "ItemID": "wc_01011_AR_NOVESKE_RECIEVER",
+        "Name": "Gen.3 White",
+        "TemplateID": "5c07a8770db8340023300450",
+        "TemplateType": "mod"    
+    },
+    "wc_01012_AR_URX_8_HANDGUARD":{
+        "ItemID": "wc_01012_AR_URX_8_HANDGUARD",
+        "Name": "URX 8  White",
+        "TemplateID": "5d123102d7ad1a004e475fe5",
+        "TemplateType": "mod"    
+    },
+    "wc_01013_AR_URX_8_LOW_HANDGUARD":{
+        "ItemID": "wc_01013_AR_URX_8_LOW_HANDGUARD",
+        "Name": "URX 8  White",
+        "TemplateID": "637f57d2f5ef8c33840d36c4",
+        "TemplateType": "mod"    
+    },
+    "wc_01014_AR_URX_10_HANDGUARD":{
+        "ItemID": "wc_01014_AR_URX_10_HANDGUARD",
+        "Name": "URX 10.75  White",
+        "TemplateID": "5d122e7bd7ad1a07102d6d7f",
+        "TemplateType": "mod"    
+    },
+    "wc_01015_AR_URX_10_LOW_HANDGUARD":{
+        "ItemID": "wc_01015_AR_URX_10_LOW_HANDGUARD",
+        "Name": "URX 10.75  White",
+        "TemplateID": "637f57c532b66e7e320a6676",
+        "TemplateType": "mod"    
+    },
+    "wc_01016_ANPEQ_15_TACTICAL":{
+        "ItemID": "wc_01016_ANPEQ_15_TACTICAL",
+        "Name": "AN/PEQ- White",
+        "TemplateID": "544909bb4bdc2d6f028b4577",
+        "TemplateType": "mod"    
+    },
+    "wc_01017_VORTEX_RAZOR_UH1":{
+        "ItemID": "wc_01017_VORTEX_RAZOR_UH1",
+        "Name": "UH-1 White",
+        "TemplateID": "59f9d81586f7744c7506ee62",
+        "TemplateType": "mod"    
+    },
+    "wc_01018_EXPS3":{
+        "ItemID": "wc_01018_EXPS3",
+        "Name": "EXPS3 White",
+        "TemplateID": "558022b54bdc2dac148b458d",
+        "TemplateType": "mod"    
+    },
+    "wc_01019_M4SD_K":{
+        "ItemID": "wc_01019_M4SD_K",
+        "Name": "M4SDK White",
+        "TemplateID": "638612b607dfed1ccb7206ba",
+        "TemplateType": "mod"    
+    },
+    "wc_010421_WHITE_M4A1":{
+        "ItemID": "wc_010421_WHITE_M4A1",
+        "Name": "M4A1 White",
+        "TemplateID": "5447a9cd4bdc2dbd208b4567",
+        "TemplateType": "gun"    
+    }
+        
+}

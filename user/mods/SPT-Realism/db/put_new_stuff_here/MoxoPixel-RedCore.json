@@ -1,0 +1,68 @@
+{
+    "rc_01001_MOD2_CHARGE":{
+        "ItemID": "rc_01001_MOD2_CHARGE",
+        "Name": "MOD2 Red",
+        "TemplateID": "5f633ff5c444ce7e3c30a006",
+        "TemplateType": "mod"    
+    },
+    "rc_01002_AR_MP_MAG":{
+        "ItemID": "rc_01002_AR_MP_MAG",
+        "Name": "PMAG Red",
+        "TemplateID": "5aaa5dfee5b5b000140293d3",
+        "TemplateType": "mod"    
+    },
+    "rc_01003_AR_F1_PGRIP":{
+        "ItemID": "rc_01003_AR_F1_PGRIP",
+        "Name": "F1 Red",
+        "TemplateID": "6113cc78d3a39d50044c065a",
+        "TemplateType": "mod"    
+    },
+    "rc_01004_AR_NOVESKE_RECIEVER":{
+        "ItemID": "rc_01004_AR_NOVESKE_RECIEVER",
+        "Name": "GEN3 Red",
+        "TemplateID": "5c07a8770db8340023300450",
+        "TemplateType": "mod"    
+    },
+    "rc_01005_COBRA_FGRIP":{
+        "ItemID": "rc_01005_COBRA_FGRIP",
+        "Name": "COBRA Red",
+        "TemplateID": "5c791e872e2216001219c40a",
+        "TemplateType": "mod"    
+    },
+    "rc_01006_M4SDK_SILENCER":{
+        "ItemID": "rc_01006_M4SDK_SILENCER",
+        "Name": "N4SD-K Red",
+        "TemplateID": "638612b607dfed1ccb7206ba",
+        "TemplateType": "mod"    
+    },
+    "rc_01007_AR_MUR_RECIEVER":{
+        "ItemID": "rc_01007_AR_MUR_RECIEVER",
+        "Name": "MUR-15 Red",
+        "TemplateID": "59bfe68886f7746004266202",
+        "TemplateType": "mod"    
+    },
+    "rc_01008_AR_STNGR_HANDGUARD":{
+        "ItemID": "rc_01008_AR_STNGR_HANDGUARD",
+        "Name": "VYPR Red",
+        "TemplateID": "5c6d5d8b2e221644fc630b39",
+        "TemplateType": "mod"    
+    },
+    "rc_01009_VUDU_SCOPE":{
+        "ItemID": "rc_01009_VUDU_SCOPE",
+        "Name": "VUDU Red",
+        "TemplateID": "5b3b99475acfc432ff4dcbee",
+        "TemplateType": "mod"    
+    },
+    "rc_01010_SBA3_STOCK":{
+        "ItemID": "rc_01010_SBA3_STOCK",
+        "Name": "SBA3 Red",
+        "TemplateID": "628a85ee6b1d481ff772e9d5",
+        "TemplateType": "mod"    
+    },
+    "rc_01011_RED_MASK":{
+        "ItemID": "rc_01011_RED_MASK",
+        "Name": "Shattered Red",
+        "TemplateID": "5b432b2f5acfc4771e1c6622",
+        "TemplateType": "gear"    
+    }
+}

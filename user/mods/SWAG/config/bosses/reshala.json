@@ -1,0 +1,187 @@
+{
+  "customs": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "ZoneOldAZS",
+        "ZoneWade",
+        "ZoneBrige",
+        "ZoneFactoryCenter",
+        "ZoneDormitory",
+        "ZoneCustoms",
+        "ZoneFactorySide"
+      ]
+    }
+  ],
+  "factory": [
+    {
+      "BossChance": 35,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "factory_night": [
+    {
+      "BossChance": 35,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "groundzero": [
+    {
+      "BossChance": 35,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "groundzero_high": [
+    {
+      "BossChance": 35,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": null,
+      "Time": -1
+    }
+  ],
+  "interchange": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "ZoneCenter",
+        "ZoneCenterBot",
+        "ZoneGoshan",
+        "ZoneOLI",
+        "ZonePowerStation",
+        "ZoneIDEA",
+        "ZoneIDEAPark",
+        "ZoneOLIPark"
+      ]
+    }
+  ],
+  "laboratory": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "BotZoneFloor1",
+        "BotZoneFloor2",
+        "BotZoneBasement",
+        "BotZoneGate2",
+        "BotZoneGate1"
+      ]
+    }
+  ],
+  "lighthouse": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "Zone_Chalet",
+        "Zone_Village",
+        "Zone_Containers",
+        "Zone_TreatmentBeach",
+        "Zone_TreatmentRocks",
+        "Zone_Bridge",
+        "Zone_Blockpost",
+        "Zone_Hellicopter"
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "ZoneRailStrorage",
+        "ZoneBarrack",
+        "ZoneSubStorage",
+        "ZoneSubCommand",
+        "ZonePTOR2",
+        "ZonePTOR1"
+      ]
+    }
+  ],
+  "shoreline": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "ZoneIsland",
+        "ZonePowerStation",
+        "ZoneBusStation",
+        "ZonePort",
+        "ZoneRailWays",
+        "ZoneSanatorium1",
+        "ZoneSanatorium2",
+        "ZoneMateoStation",
+        "ZoneGasStation",
+        "ZoneGreenHouses"
+      ]
+    }
+  ],
+  "streets": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "ZoneSW01",
+        "ZoneConstruction",
+        "ZoneCarShowroom",
+        "ZoneCinema",
+        "ZoneFactory",
+        "ZoneHotel_1",
+        "ZoneHotel_2",
+        "ZoneConcordia_1",
+        "ZoneColumn"
+      ]
+    }
+  ],
+  "woods": [
+    {
+      "BossChance": 35,
+      "Time": -1,
+      "BossEscortAmount": "4",
+      "BossEscortType": "followerbully",
+      "BossName": "bossbully",
+      "BossZone": [
+        "ZoneWoodCutter",
+        "ZoneScavBase2",
+        "ZoneRoad",
+        "ZoneMiniHouse"
+      ]
+    }
+  ]
+}

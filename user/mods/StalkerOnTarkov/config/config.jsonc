@@ -1,0 +1,21 @@
+{
+    "Profiles": {
+      "CharlyPofiles": {
+        // Non SOF related profiles.
+        // Default value: true
+        "stalkereasy": false, // Path to tarkov
+        "stalkerhard": false, // Path to tarkov
+        "stalker": true // Path to tarkov
+      }
+    },
+
+    "Extras":{
+        "ProfileChanges":{
+            // This category handles the activation of various profile modifications.
+            // This options are not profiles, but modify every profile in the server.
+            // Default value: false
+            "tassorts": false, // Unlock all trader assorts (Quest item reward).
+            "unheard": true   // Enable unheard pockets. Only works when is enabled. Doesn't have mod conflicts (Tested).
+        }
+    }
+}
