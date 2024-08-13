@@ -5,7 +5,7 @@
 # Installation
 
 1. Mods will need to be installed manually from the [SPT Hub](https://hub.sp-tarkov.com/files/).
-2. Then kust copy the provided `BepInEx` and `user` directory like any other mod
+2. Then just copy the provided `BepInEx` and `user` directory like any other mod
 
 # List of mods
 
