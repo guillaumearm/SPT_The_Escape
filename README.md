@@ -23,6 +23,7 @@
 - [Increased look direction](https://hub.sp-tarkov.com/files/file/2137-increased-look-direction/)
 - [Fontaine's FOV fix & variable optics](https://hub.sp-tarkov.com/files/file/942-fontaine-s-fov-fix-variable-optics)
 - [Progressive Container](https://hub.sp-tarkov.com/files/file/1582-progressive-container/)
+- [Josh Mate's Better Backpacks](https://hub.sp-tarkov.com/files/file/772-josh-mate-s-better-backpacks)
 - [Raid Overhaul](https://github.com/KillerDJLang/Raid-Overhaul/releases/tag/v2.5.0-testbuild) (3.9 rc4 build -> with just trader, quests and Legion)
 - [Borkel's realistic thermal](https://hub.sp-tarkov.com/files/file/1510-borkel-s-big-realistic-thermal-package-bring-real-life-realism-to-your-thermal-s/)
 - [Borkel's Realistic Night Vision Goggles (NVGs and T-7)](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7)
