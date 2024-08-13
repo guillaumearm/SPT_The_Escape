@@ -16,7 +16,7 @@
 - [SAIN](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 - [SWAG + Donuts](https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/)
 - [Unicorn](https://hub.sp-tarkov.com/files/file/2166-unicorn/)
-- [That's Lit](https://hub.sp-tarkov.com/files/file/1453-that-s-lit-logical-ai-vision/) (+ fika sync)
+- [That's Lit](https://hub.sp-tarkov.com/files/file/1453-that-s-lit-logical-ai-vision/) (+ [That's lit Sync](https://cloud.trapcloud.fr/s/eC2bjWZpbMACCeR))
 - [Questing bots](https://hub.sp-tarkov.com/files/file/1534-questing-bots)
 - [Looting bots](https://hub.sp-tarkov.com/files/file/1096-looting-bots)
 - [Skills Extended](https://hub.sp-tarkov.com/files/file/1722-skills-extended)
@@ -86,12 +86,12 @@
 - [Instant repeatable quests](https://hub.sp-tarkov.com/files/file/1797-instant-repeatables/)
 - [Kiki's remove tedious quest conditions](https://hub.sp-tarkov.com/files/file/507-kiki-removetediousquestconditions)
 - [Useless key blacklist](https://hub.sp-tarkov.com/files/file/760-useless-key-blacklist/)
-- [Custom raid times](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/) (set to 2 hours)
-- [Custom weight](https://hub.sp-tarkov.com/files/file/826-custom-weight/) (-15% weight on your pmc)
+- [Custom raid times](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/)
+- [Custom weight](https://hub.sp-tarkov.com/files/file/826-custom-weight/)
 - [Loot Radius](https://hub.sp-tarkov.com/files/file/1870-loot-radius)
-- [Dvize's Props in-raid modding](https://hub.sp-tarkov.com/files/file/850-props-in-raid-modding-pirm/) (PIRM)
+- [Dvize's Props in-raid modding (PIRM)](https://hub.sp-tarkov.com/files/file/850-props-in-raid-modding-pirm/)
 - [UseLooseLoot](https://hub.sp-tarkov.com/files/file/1264-use-loose-loot)
-- [Stalker on Tarkov](https://hub.sp-tarkov.com/files/file/2192-stalker-on-tarkov/) (for new profiles)
+- [Stalker on Tarkov](https://hub.sp-tarkov.com/files/file/2192-stalker-on-tarkov/)
 
 ## Tweaks
 
