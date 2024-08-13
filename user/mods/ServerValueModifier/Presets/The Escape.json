@@ -499,9 +499,9 @@
   "CSM": {
     "EnableCases": true,
     "EnableSecureCases": false,
-    "CustomPocket": false,
+    "CustomPocket": true,
     "Pockets": {
-      "DefaultPocket": false,
+      "DefaultPocket": true,
       "SpecGKeychain": false,
       "SpecSimpleWallet": true,
       "SpecWZWallet": true,
