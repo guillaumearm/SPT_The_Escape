@@ -1,4 +1,5 @@
 #!/bin/bash
 set -e
 
-rsync -avz . ../..
+rsync -avz ./user ../..
+rsync -avz ./BepInEx ../..
