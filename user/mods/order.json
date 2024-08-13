@@ -36,7 +36,6 @@
     "cj-removetimegatefromquests",
     "ConstructionTimeInstant",
     "MoreCheckmarksBackend",
-    "SPT-Realism",
     "skulltag-instantrepeatables",
     "Virtual's Custom Quest Loader",
     "DanW-SPTQuestingBots",
@@ -47,6 +46,7 @@
     "Trap-PathToTarkov",
     "StalkerOnTarkov",
     "robin-average-custom-traders-price",
-    "ServerValueModifier"
+    "ServerValueModifier",
+    "SPT-Realism"
   ]
 }
