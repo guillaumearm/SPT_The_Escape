@@ -3,7 +3,7 @@
   "comment": "If you are using the mode that includes the extra trader and specific trader/ stash locations, this should be set to true",
   "comment": "If you are using the standard config, this should be set to false",
 
-  "language": "français",
+  "language": "french",
 
   "moddedTraderCompat": true,
   "additionalLocalesToggle": false,
