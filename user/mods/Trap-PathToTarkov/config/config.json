@@ -87,6 +87,13 @@
       "id": "PathToTarkov_Car_stash",
       "size": 22,
       "access_via": ["ShorelineWoodsStash"]
+    },
+    {
+      "id": "WelcomeToTarkov_Lotus_stash",
+      "size": 22,
+      "access_via": [
+        "LotusStash"
+      ]
     }
   ],
   "traders_config": {
@@ -300,16 +307,94 @@
         "ru": "Somewhere in the Military reserve"
       },
       "access_via": ["ReserveBunkerStash"]
+    },
+    "Svetlana": {
+      "// mod integration for Svetlana": true,
+      "// Svetlana is available at MechanicStash": true,
+      "disable_warning": true,
+      "override_description": true,
+      "location_description": {
+        "ch": "Close to Factory",
+        "cz": "Close to Factory",
+        "en": "Close to Factory",
+        "es-mx": "Close to Factory",
+        "es": "Close to Factory",
+        "fr": "Proche de l'usine",
+        "ge": "Close to Factory",
+        "hu": "Close to Factory",
+        "it": "Close to Factory",
+        "jp": "Close to Factory",
+        "kr": "Close to Factory",
+        "pl": "Close to Factory",
+        "po": "Close to Factory",
+        "ru": "В лодке"
+      },
+      "access_via": [
+        "MechanicStash"
+      ]
+    },
+    "Evelyn": {
+      "// mod integration for Evelyn": true,
+      "// Evelyn is available at Hideout": true,
+      "disable_warning": true,
+      "override_description": true,
+      "location_description": {
+        "ch": "Close to Factory",
+        "cz": "Close to Factory",
+        "en": "Close to Factory",
+        "es-mx": "Close to Factory",
+        "es": "Close to Factory",
+        "fr": "Proche de l'usine",
+        "ge": "Close to Factory",
+        "hu": "Close to Factory",
+        "it": "Close to Factory",
+        "jp": "Close to Factory",
+        "kr": "Close to Factory",
+        "pl": "Close to Factory",
+        "po": "Close to Factory",
+        "ru": "В лодке"
+      },
+      "access_via": [
+        "MechanicStash"
+      ]
+    },
+    "Anastasia": {
+      "// mod integration for Anastasia": true,
+      "// Anastasia is available at AnastasiaHideout": true,
+      "disable_warning": true,
+      "override_description": true,
+      "location_description": {
+        "ch": "In Resever Depot hermetic",
+        "cz": "In Resever Depot hermetic",
+        "en": "In Resever Depot hermetic",
+        "es-mx": "In Resever Depot hermetic",
+        "es": "In Resever Depot hermetic",
+        "fr": "A la Porte hermétique du dépôt de la base militaire",
+        "ge": "In Resever Depot hermetic",
+        "hu": "In Resever Depot hermetic",
+        "it": "In Resever Depot hermetic",
+        "jp": "In Resever Depot hermetic",
+        "kr": "In Resever Depot hermetic",
+        "pl": "In Resever Depot hermetic",
+        "po": "In Resever Depot hermetic",
+        "ru": "В лодке"
+      },
+      "access_via": [
+        "AnastasiaStash"
+      ]
     }
+  }
   },
   "exfiltrations": {
     "factory4_day": {
       "Gate 3": "MechanicStash",
-      "Office Window": "JaegerStash"
+      "Office Window": "JaegerStash",
+      "Cellars": "AnastasiaHideout"
     },
     "factory4_night": {
       "Gate 3": "MechanicStash",
-      "Office Window": "JaegerStash"
+      "Office Window": "JaegerStash",
+      "Cellars": "AnastasiaHideout"
     },
     "bigmap": {
       "Railroad To Tarkov": "TherapistStash",
@@ -324,7 +409,8 @@
     "rezervbase": {
       "EXFIL_ScavCooperation": "SkierStash",
       "Exit4": "MilitaryLighthouseStash",
-      "EXFIL_Bunker_D2": "ReserveBunkerStash"
+      "EXFIL_Bunker_D2": "ReserveBunkerStash",
+      "EXFIL_Bunker": "AnastasiaHideout"
     },
     "interchange": {
       "NW Exfil": "RagmanStash",
@@ -412,6 +498,10 @@
     "ShorelineWoodsStash": {
       "shoreline": ["Road to Customs"],
       "woods": ["Bridge Car"]
-    }
+    },
+    "AnastasiaHideout": {
+      "factory4_day": ["Cellars"],
+      "factory4_night": ["Cellars"],
+      "rezervbase": ["Bunker Hermetic"]
   }
 }
