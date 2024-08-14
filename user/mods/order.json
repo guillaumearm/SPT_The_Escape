@@ -43,10 +43,10 @@
     "zSolarint-SAIN-ServerMod",
     "Corter-ModSync",
     "archangelwtf-lotsoflootredux",
-    "fika-server",
     "Trap-PathToTarkov",
     "StalkerOnTarkov",
     "robin-average-custom-traders-price",
-    "odt-iteminfo"   
+    "odt-iteminfo",
+    "fika-server"
   ]
 }
