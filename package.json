@@ -3,7 +3,10 @@
   "version": "0.8.0",
   "description": "The Escape modpack for SPT",
   "scripts": {
-    "test:ci": "node scripts/test-json-files.js"
+    "test:json": "node scripts/test-json-files.js json",
+    "test:json5": "node scripts/test-json-files.js json5",
+    "test:jsonc": "node scripts/test-json-files.js jsonc",
+    "test:ci": "npm run test:json && npm run test:jsonc && npm run test:json5"
   },
   "author": "Trap",
   "contributors": [
