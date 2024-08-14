@@ -189,7 +189,8 @@
   "Loudness": -16,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": 42
 },
   "CCG_DQC_CQB": {
   "ItemID": "CCG_DQC_CQB",
@@ -217,7 +218,8 @@
   "Loudness": -29,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": 12
 },
   "CCG_MLOK_GRIP_1": {
   "ItemID": "CCG_MLOK_GRIP_1",
@@ -561,7 +563,8 @@
   "HorizontalRecoil": 0,
   "ChamberSpeed": 35,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": -5
 },
   "CCG_AR_DD_HANDGUARD_LONG": {
   "ItemID": "CCG_AR_DD_HANDGUARD_LONG",
@@ -916,7 +919,8 @@
   "Loudness": -39,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": -10
 },
 "CCG_APC": {
 "ItemID": "CCG_APC",
@@ -1398,7 +1402,8 @@
   "Loudness": -36,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": 13
 },
 "668aaa9fac3f1c58dff803ac": {
   "ItemID": "668aaa9fac3f1c58dff803ac",
@@ -1485,7 +1490,8 @@
   "Loudness": -32,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": 16
 },
 "6695008f0e58c72c3a50b67f": {
   "ItemID": "6695008f0e58c72c3a50b67f",
