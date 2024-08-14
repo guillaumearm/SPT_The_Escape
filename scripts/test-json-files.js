@@ -1,8 +1,7 @@
 const fs = require("node:fs/promises");
 const { glob } = require("glob");
 
-// TODO: better handling of arguments
-const IS_VERBOSE = process.argv[2] === "--verbose";
+const IS_VERBOSE = true;
 
 const logVerbose = (...args) => {
   if (IS_VERBOSE) {
