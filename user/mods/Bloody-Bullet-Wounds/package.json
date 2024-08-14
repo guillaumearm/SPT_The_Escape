@@ -1,0 +1,10 @@
+{
+    "name": "Borkel's Bloody Particles and Bullet Wounds",
+    "author": "Borkel",
+    "license": "Attribution-ShareAlike 4.0 International",
+    "main": "package.js",
+    "version": "1.1.5",
+    "sptVersion": "~3.9",
+    "isBundleMod": true,
+    "devdependencies": {}
+}
