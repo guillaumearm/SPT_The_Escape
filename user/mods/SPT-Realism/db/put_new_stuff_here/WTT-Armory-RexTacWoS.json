@@ -134,7 +134,8 @@
   "Loudness": 6,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": -35
 },
   "6668dff37c4223cce3ed643f": {
   "ItemID": "6668dff37c4223cce3ed643f",
@@ -208,7 +209,8 @@
   "HorizontalRecoil": 0,
   "ChamberSpeed": 35,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": -10
 },
   "6668df22e6b592f28024be10": {
   "ItemID": "6668df22e6b592f28024be10",
@@ -345,7 +347,8 @@
   "Loudness": 6,
   "Convergence": 0,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": -35
 },
   "6668e04e397157c8ef95678f": {
   "ItemID": "6668e04e397157c8ef95678f",
@@ -419,6 +422,7 @@
   "HorizontalRecoil": 0,
   "ChamberSpeed": 40,
   "LoyaltyLevel": 0,
-  "Price": 0
+  "Price": 0,
+  "Flash": -10
 }
 }
