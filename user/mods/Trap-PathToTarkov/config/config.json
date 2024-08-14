@@ -89,10 +89,10 @@
       "access_via": ["ShorelineWoodsStash"]
     },
     {
-      "id": "WelcomeToTarkov_Lotus_stash",
+      "id": "WelcomeToTarkov_Anastasia_stash",
       "size": 22,
       "access_via": [
-        "LotusStash"
+        "AnastasiaStash"
       ]
     }
   ],
@@ -311,7 +311,7 @@
     "Svetlana": {
       "// mod integration for Svetlana": true,
       "// Svetlana is available at MechanicStash": true,
-      "disable_warning": true,
+      "disable_warning": false,
       "override_description": true,
       "location_description": {
         "ch": "Close to Factory",
@@ -336,7 +336,7 @@
     "Evelyn": {
       "// mod integration for Evelyn": true,
       "// Evelyn is available at Hideout": true,
-      "disable_warning": true,
+      "disable_warning": false,
       "override_description": true,
       "location_description": {
         "ch": "Close to Factory",
@@ -361,7 +361,7 @@
     "Anastasia": {
       "// mod integration for Anastasia": true,
       "// Anastasia is available at AnastasiaHideout": true,
-      "disable_warning": true,
+      "disable_warning": false,
       "override_description": true,
       "location_description": {
         "ch": "In Resever Depot hermetic",
@@ -499,7 +499,7 @@
       "shoreline": ["Road to Customs"],
       "woods": ["Bridge Car"]
     },
-    "AnastasiaHideout": {
+    "AnastasiaStasht": {
       "factory4_day": ["Cellars"],
       "factory4_night": ["Cellars"],
       "rezervbase": ["Bunker Hermetic"]
