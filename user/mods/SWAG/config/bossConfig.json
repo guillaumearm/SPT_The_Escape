@@ -1,15 +1,15 @@
 {
   "TotalBossesPerMap": {
-    "factory": 0,
-    "factory_night": 0,
-    "customs": 0,
-    "woods": 0,
-    "shoreline": 0,
-    "lighthouse": 0,
-    "reserve": 0,
-    "interchange": 0,
-    "laboratory": 0,
-    "streets": 0
+    "factory": -1,
+    "factory_night": -1,
+    "customs": -1,
+    "woods": -1,
+    "shoreline": -1,
+    "lighthouse": -1,
+    "reserve": -1,
+    "interchange":-1,
+    "laboratory": -1,
+    "streets": -1
   },
   "Bosses": {
     "useGlobalBossSpawnChance": true,
