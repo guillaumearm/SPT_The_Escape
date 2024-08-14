@@ -1,34 +1,23 @@
 {
-    "Locale": "en",                                         // Current available locales are; en, es, pt, and ru.
-    "MedicalSkills": {        
-        "ENABLE_FIELD_MEDICINE": true,                      // Enables the field medicine skill
-        "ENABLE_FIRST_AID": true,                           // Enables the First Aid skill
-        "FIRSTAID_XP_PER_ACTION": 7.25,                     // XP gained per first aid action
-        "FIELDMEDICINE_XP_PER_ACTION": 14.50,               // XP gained per field medicine action
-        "MEDKIT_HP_BONUS": 0.50,                            // Medical kit (IFAK, AFAK...) HP bonus total at level 50
-        "MEDKIT_HP_BONUS_ELITE": 0.70,                      // Medical kit elite bonus. Default: +20% over level 50, I.E (0.5 + 0.2 = 0.7) Bsg forced my hand here, it doesnt make sense im sorry.
-        "MEDICAL_SPEED_BONUS": 0.35,                        // Medical kit total bonus at level 50.
-        "MEDICAL_SPEED_BONUS_ELITE": 0.50,                  // Medical kit elite bonus (0.35 + 0.15 = 0.50) Bsg forced my hand here, it doesnt make sense im sorry.
-        "FM_ITEM_LIST": [                                   // Applicable items for Field medicine
-            "544fb25a4bdc2dfb738b4567",
-            "5751a25924597722c463c472", 
-            "5e831507ea0a7c419c2f9bd9", 
-            "60098af40accd37ef2175f27", 
-            "5e8488fa988a8701445df1e4", 
-            "544fb3364bdc2d34748b456a", 
-            "5af0454c86f7746bf20992e8"  
-        ],
-        "FA_ITEM_LIST": [                                   // Applicable items for first aid 
-            "544fb45d4bdc2dee738b4568", 
-            "5755356824597772cb798962", 
-            "590c657e86f77412b013051d", 
-            "590c661e86f7741e566b646a", 
-            "590c678286f77426c9660122", 
-            "5e99711486f7744bfc4af328", 
-            "60098ad7c2240c0fe85c570a"  
-        ]
+    "FirstAid": {        
+        "ENABLED": true,                                    // Enables the First Aid skill
+        "XP_PER_ACTION": 6.25,                              // XP gained per first aid action
+        "MEDKIT_USAGE_REDUCTION": 0.30,                     // Medical kit (IFAK, AFAK...) Resource cost to heal bleeds / fractures etc.
+        "MEDKIT_USAGE_REDUCTION_ELITE": 0.50,               // Medical kit elite bonus. Default: +20% over level 50, I.E (0.3 + 0.2 = 0.5)
+        "MEDKIT_SPEED_BONUS": 0.35,                         // Medical kit total bonus at level 50.
+        "MEDKIT_SPEED_BONUS_ELITE": 0.50,                   // Medical kit elite bonus (0.35 + 0.15 = 0.50)
     },
-    "NatoRifleSkill": {
+    "FieldMedicine": {        
+        "ENABLED": true,                                    // Enables the field medicine skill
+        "XP_PER_ACTION": 5.50,                              // XP gained per field medicine action
+        "SKILL_BONUS": 0.20,                                // Bonus to the hard cap of allowed skill boosts (60 * 1.20 = 72)
+        "SKILL_BONUS_ELITE": 0.35,                          // Elite bonus to the hard cap of allowed skill boosts
+        "DURATION_BONUS": 0.25,                             // Bonus to the duration of injectors and pain killers
+        "DURATION_BONUS_ELITE": 0.40,                       // Elite bonus to the duration of injectors and pain killers
+        "POSITIVE_EFFECT_BONUS": 0.20,                      // Bonus to the chance of positive effects
+        "POSITIVE_EFFECT_BONUS_ELITE": 0.35,                // Elite bonus to the chance of positive effects
+    },
+    "NatoRifle": {
         "ENABLED": true,                                    // Enable NATO rifle skill
         "SKILL_SHARE_ENABLED": true,                        // Allows a percentage of XP to bleed into Eastern rifle skill
         "SKILL_SHARE_XP_RATIO": 0.10,                       // Percentage of xp to bleed into the Eastern rifle skill
@@ -99,7 +88,7 @@
             "6668df22e6b592f28024be10"
         ]
     },
-    "EasternRifleSkill": {
+    "EasternRifle": {
         "ENABLED": true,                                    // Enable Eastern rifle skill
         "SKILL_SHARE_ENABLED": true,                        // Allows a percentage of XP to bleed into NATO rifle skill
         "SKILL_SHARE_XP_RATIO": 0.10,                       // Percentage of xp to bleed into the NATO rifle skill
@@ -160,7 +149,7 @@
             "Skier209"
         ]
     },
-    "LockPickingSkill": {
+    "LockPicking": {
         "ENABLED": true,                                    // Enable lock picking skill
         "INSPECT_BASE_TIME": 4,                             // Base time before bonuses to inspect a door
         "INSPECT_CHANCE_BONUS": 10,                         // Bonus chance added for inspecting a door
@@ -172,89 +161,100 @@
         "PICK_BASE_DIFFICULTY_MOD": 8,                      // Difficulty modifier
         "INSPECT_LOCK_XP_RATIO": 0.15,                      // Ratio of lock xp given for inspecting a lock
         "XP_TABLE": {                                       // Door XP map
+            "0": 0.01,
             "1": 0.15,
             "2": 0.35,
-            "3": 1.75,
-            "4": 2.3,
-            "5": 2.55,
-            "6": 2.85,
-            "7": 3.0,
-            "10": 3.3,
-            "15": 3.7,
-            "20": 4.0,
-            "25": 4.5,
-            "30": 5,
-            "35": 5.5
+            "3": 1.5,
+            "4": 2.0,
+            "5": 2.2,
+            "6": 2.4,
+            "7": 2.6,
+            "8": 2.8,
+            "9": 2.9,
+            "10": 3.0,
+            "11": 3.1,
+            "12": 3.2,
+            "13": 3.3,
+            "14": 3.4,
+            "15": 3.5,
+            "20": 3.8,
+            "25": 4.2,
+            "30": 4.6,
+            "35": 4.9,
+            "40": 5.15,
+            "45": 5.30,
+            "50": 5.45,
+            "52": 5.50,
         },
         "DOOR_PICK_LEVELS": {                              // WARNING: DO NOT EDIT THESE UNLESS YOU KNOW WHAT YOU ARE DOING.
             "Factory": {                                   // THIS IS A COMPREHENSIVE LIST ALL DOORS IN THE GAME AND THEIR ASSOCIATED LEVELS. See "keyDoorIds.txt" to better understand this section.
                 "00094": 7,
                 "00095": 7,
-                "00115": 7,
-                "00120": 7, 
+                "00115": 3,
+                "00120": 3,
                 "00126": 7,
                 "00133": 7
             },
             "Woods": {
-                "woods_combined_00022": 4,
+                "woods_combined_00022": 7,
                 "woods_combined_00040": 4,
                 "woods_combined_00065": 15,
                 "woods_design_stuff_00022": 10
             },
             "Customs": {
-                "custom_Tamozhnya_00000": 4,
+                "custom_Tamozhnya_00000": 8,
                 "custom_TrailerPark_00000": 4,
                 "custom_TrailerPark_00001": 4,
-                "custom_factoryStorageZone_00000": 4,
-                "custom_factoryStorageZone_00003": 4,
+                "custom_factoryStorageZone_00000": 7,
+                "custom_factoryStorageZone_00003": 7,
                 "custom_factoryStorageZone_00004": 4,
                 "custom_Obshezhitie_00014": 4,
-                "custom_Obshezhitie_1_indoor_00003": 4,
-                "custom_Obshezhitie_1_indoor_00004": 4,
+                "custom_Obshezhitie_1_indoor_00003": 7,
+                "custom_Obshezhitie_1_indoor_00004": 8,
                 "custom_Obshezhitie_1_indoor_00009": 4,
-                "custom_Obshezhitie_1_indoor_00010": 4,
-                "custom_Obshezhitie_1_indoor_00012": 4,
-                "custom_Obshezhitie_1_indoor_00028": 4,
+                "custom_Obshezhitie_1_indoor_00010": 8,
+                "custom_Obshezhitie_1_indoor_00012": 8,
+                "custom_Obshezhitie_1_indoor_00028": 2,
                 "custom_Obshezhitie_2_indoor_00008": 4,
                 "custom_Obshezhitie_2_indoor_00012": 4,
                 "custom_Obshezhitie_2_indoor_00020": 4,
-                "custom_Obshezhitie_2_indoor_00024": 10,
-                "custom_Obshezhitie_2_indoor_00026": 4,
-                "custom_Obshezhitie_2_indoor_00028": 4,
+                "custom_Obshezhitie_2_indoor_00024": 15,
+                "custom_Obshezhitie_2_indoor_00026": 8,
+                "custom_Obshezhitie_2_indoor_00028": 8,
                 "custom_Obshezhitie_2_indoor_00029": 7,
                 "custom_Obshezhitie_2_indoor_00030": 4,
                 "custom_Obshezhitie_2_indoor_00037": 7,
                 "custom_Obshezhitie_2_indoor_00039": 3,
-                "custom_Obshezhitie_2_indoor_00043": 30,
+                "custom_Obshezhitie_2_indoor_00043": 40,
                 "custom_Obshezhitie_2_indoor_00046": 5,
                 "custom_Obshezhitie_2_indoor_00048": 3,
                 "custom_Obshezhitie_2_indoor_00049": 5,
                 "custom_AZS_00002": 3,
-                "custom_AZS_00004": 5,
+                "custom_AZS_00004": 8,
                 "custom_mazuto_00010": 5,
                 "custom_mazuto_00011": 5,
                 "custom_multiScene_00003": 3,
                 "custom_multiScene_00043": 3,
-                "Custom_Construction_Factory_00000": 5,
+                "Custom_Construction_Factory_00000": 7,
                 "Custom_Expansion_00000": 5
             },
             "Interchange": {
-                "Shopping_Mall_2_00010": 1,
-                "Shopping_Mall_2_00025": 1,
+                "Shopping_Mall_2_00010": 7,
+                "Shopping_Mall_2_00025": 7,
                 "Shopping_Mall_2_00032": 1,
-                "Shopping_Mall_2_00043": 1,
-                "Shopping_Mall_2_00064": 1,
-                "Shopping_Mall_2_00068": 1,
-                "Shopping_Mall_2_00071": 1,
-                "Shopping_Mall_2_00078": 1,
-                "Shopping_Mall_2_00085": 1,
-                "Shopping_Mall_2_00101": 1,
-                "Shopping_Mall_2_00145": 1,
-                "Shopping_Mall_DesignStuff_00049": 15,
-                "Shopping_Mall_DesignStuff_00050": 15,
-                "Shopping_Mall_DesignStuff_00051": 3,
-                "Shopping_Mall_DesignStuff_00052": 15,
-                "Shopping_Mall_DesignStuff_00063": 3,
+                "Shopping_Mall_2_00043": 7,
+                "Shopping_Mall_2_00064": 7,
+                "Shopping_Mall_2_00068": 7,
+                "Shopping_Mall_2_00071": 7,
+                "Shopping_Mall_2_00078": 7,
+                "Shopping_Mall_2_00085": 7,
+                "Shopping_Mall_2_00101": 7,
+                "Shopping_Mall_2_00145": 7,
+                "Shopping_Mall_DesignStuff_00049": 20,
+                "Shopping_Mall_DesignStuff_00050": 20,
+                "Shopping_Mall_DesignStuff_00051": 25,
+                "Shopping_Mall_DesignStuff_00052": 12,
+                "Shopping_Mall_DesignStuff_00063": 25,
                 "Shopping_Mall_GOSHAN_00083": 3,
                 "Shopping_Mall_GOSHAN_00070": 3,
                 "Shopping_Mall_IDEA_00049": 3,
@@ -329,26 +329,26 @@
                 "Shopping_Mall_OLI_00084": 1,
                 "Shopping_Mall_OLI_00071": 1,
                 "Shopping_Mall_OLI_00072": 1,
-                "Shopping_Mall_indoor_00002": 3,
-                "Shopping_Mall_IDEA_00020": 5,
-                "Shopping_Mall_Shops_00015": 10,
-                "Shopping_Mall_Shops_00016": 10,
-                "Shopping_Mall_Shops_00017": 10,
+                "Shopping_Mall_indoor_00002": 7,
+                "Shopping_Mall_IDEA_00020": 8,
+                "Shopping_Mall_Shops_00015": 12,
+                "Shopping_Mall_Shops_00016": 12,
+                "Shopping_Mall_Shops_00017": 12,
                 "Shopping_Mall_parking_work_00048": 3,
                 "Shopping_Mall_parking_work_00055": 3,
                 "Shopping_Mall_OLI_00037": 10,
                 "Shopping_Mall_OLI_00039": 10,
                 "Shopping_Mall_OLI_00043": 10,
-                "Shopping_Mall_2_00041": 15
+                "Shopping_Mall_2_00041": 20
             },
             "Reserve": {
-                "00469": 25,
+                "00469": 30,
                 "00474": 5,
                 "00484": 5,
                 "00485": 5,
                 "00496": 15,
-                "00549": 5,
-                "00551": 5,
+                "00549": 10,
+                "00551": 10,
                 "00580": 7,
                 "00581": 5,
                 "00583": 7,
@@ -359,7 +359,7 @@
                 "00609": 10,
                 "00636": 5,
                 "00644": 5,
-                "00662": 30,
+                "00662": 35,
                 "00663": 5,
                 "00686": 15,
                 "00706": 10,
@@ -374,10 +374,10 @@
                 "00812": 7,
                 "00819": 5,
                 "00820": 5,
-                "00882": 30
+                "00882": 35
             },
             "Shoreline": {
-                "shoreline_pirs_00000": 3,
+                "shoreline_pirs_00000": 7,
                 "shoreline_garden_00023": 10,
                 "shoreline_hydro_station_00016": 5,
                 "shoreline_hydro_station_00008": 5,
@@ -410,46 +410,46 @@
                 "shoreline_sanatorium_indoor_optimized_00214": 15,
                 "shoreline_sanatorium_indoor_optimized_00216": 7,
                 "shoreline_sanatorium_indoor_optimized_00249": 7,
-                "shoreline_DesignStuff_00254": 5,
-                "shoreline_DesignStuff_00169": 5,
+                "shoreline_DesignStuff_00254": 8,
+                "shoreline_DesignStuff_00169": 8,
                 "shoreline_DesignStuff_00197": 5,
                 "shoreline_DesignStuff_00086": 5,
                 "shoreline_hydro_station_00010": 15
             },
             "Labs": {
-                "00043": 15,
-                "00044": 15,
-                "00052": 10,
-                "00053": 10,
+                "00043": 20,
+                "00044": 20,
+                "00052": 20,
+                "00053": 20,
                 "00075": 30,
                 "00114": 30,
                 "00115": 30,
-                "00121": 10,
+                "00121": 20,
                 "00176": 30,
-                "00291": 30,
+                "00291": 50,
                 "00292": 30,
                 "00363": 30,
                 "00366": 30,
-                "00367": 10
+                "00367": 20
             },
             "Lighthouse": {
                 "Lighthouse_Bus_Stop_00004": 1,
                 "door_Lighthouse_Extension_00009": 1,
                 "00452": 25,
-                "Lighthouse_Roads_00030": 1,
-                "Lighthouse_Roads_00040": 1,
-                "Lighthouse_Roads_00043": 1,
-                "Lighthouse_Roads_00029": 1,
-                "Lighthouse_Roads_00031": 1,
-                "Lighthouse_Logistics_Terminal_00018": 5,
-                "Lighthouse_Marina_00016": 1,
+                "Lighthouse_Roads_00030": 7,
+                "Lighthouse_Roads_00040": 7,
+                "Lighthouse_Roads_00043": 7,
+                "Lighthouse_Roads_00029": 7,
+                "Lighthouse_Roads_00031": 7,
+                "Lighthouse_Logistics_Terminal_00018": 7,
+                "Lighthouse_Marina_00016": 5,
                 "door_Lighthouse_Small_RLS_base_00004": 10,
-                "Lighthouse_SwampVillage_00049": 5,
+                "Lighthouse_SwampVillage_00049": 7,
                 "Lighthouse_SwampVillage_00019": 5,
-                "Lighthouse_SwampVillage_00095": 5,
+                "Lighthouse_SwampVillage_00095": 7,
                 "Lighthouse_Water_filter_facility_01_00002": 10,
                 "Lighthouse_Water_filter_facility_02_00006": 5,
-                "Lighthouse_Water_filter_facility_03_00005": 5,
+                "Lighthouse_Water_filter_facility_03_00005": 7,
                 "Lighthouse_WaterStation_00044": 5,
                 "Lighthouse_WaterStation_00019": 5,
                 "Lighthouse_WaterStation_00017": 5,
@@ -461,14 +461,14 @@
             "Streets": {
                 "door_City_SE_01_Lenina_74_Indoor_00000": 5,
                 "door_City_SE_01_Pinewood_Hotel_indoor_00003": 1,
-                "door_City_SE_02_Malevicha_5_00001": 10,
-                "door_City_SE_02_Nikitskaya_6_indoor_00016": 25,
+                "door_City_SE_02_Malevicha_5_00001": 20,
+                "door_City_SE_02_Nikitskaya_6_indoor_00016": 35,
                 "door_City_SW_01_Primorskiy_46_indoor_00077": 5,
                 "door_City_SE_02_Nikitskaya_10_indoor_00008": 5,  
                 "door_City_SE_03_Cinema_00000": 1,
-                "trunk_City_SE_03_Cinema_Street_00004": 1,
+                "trunk_City_SE_03_Cinema_Street_00004": 7,
                 "door_City_SE_04_Nizhnyaya_Sadovaya_2_3ST_REWORK_00006": 10,
-                "autoId_00302": 10,
+                "autoId_00302": 25,
                 "door_City_SW_01_A_Chekannaya_15_indoor_00001": 5,
                 "door_City_SW_01_A_Chekannaya_15_indoor_00003": 5,
                 "door_City_SW_01_A_Chekannaya_15_indoor_00004": 5,
@@ -480,18 +480,18 @@
                 "door_City_SW_01_Zmeiskiy_3_indoor_00020": 5,
                 "door_City_SW_01_Zmeiskiy_3a_indoor_00012": 1,
                 "door_City_SW_01_Zmeiskiy_5_indoor_00015": 1,
-                "door_City_SW_01_B_Chekannaya_13_indoor_2ST_NEW_00000": 25,
-                "door_City_SW_01_B_Klimova_16a_indoor_HIDE_00009": 20,
+                "door_City_SW_01_B_Chekannaya_13_indoor_2ST_NEW_00000": 35,
+                "door_City_SW_01_B_Klimova_16a_indoor_HIDE_00009": 45,
                 "door_City_SW_01_B_School_30_indoor_HIDE_00008": 1,
-                "door_City_SW_01_Zmeiskiy_4a_indoor_HIDE_00017": 1,
+                "door_City_SW_01_Zmeiskiy_4a_indoor_HIDE_00017": 10,
                 "door_City_SW_01_B_Zmeiskiy_6_indoor_3ST_NEW_00009": 15,
                 "trunk_City_SW_01_B_Zmeiskiy_6_indoor_00003": 5,
                 "door_City_SW_02_Construction_outdoor_00002": 5,
-                "trunk_City_SW_02_Construction_outdoor_00001": 1,
-                "door_City_SW_02_LexOs_AutoService_indoor_00001": 1,
+                "trunk_City_SW_02_Construction_outdoor_00001": 7,
+                "door_City_SW_02_LexOs_AutoService_indoor_00001": 10,
                 "door_City_SW_02_LexOs_AutoService_indoor_00000": 10,
-                "trunk_City_SW_02_LexOs_blockpost_2ST_REWORK_00007": 1,
-                "trunk_City_SW_02_LexOs_blockpost_2ST_REWORK_00006": 1,
+                "trunk_City_SW_02_LexOs_blockpost_2ST_REWORK_00007": 7,
+                "trunk_City_SW_02_LexOs_blockpost_2ST_REWORK_00006": 7,
                 "door_City_SW_02_LexOs_blockpost_2ST_REWORK_00001": 5,
                 "door_City_SW_02_Primorskiy_56_00000": 1,
                 "door_City_SW_02_Primorskiy_56_00005": 5,
@@ -507,9 +507,9 @@
                 "trunk_City_SW_05_courtyard_B_2ST_REWORK_00001": 1,
                 "door_City_NW_01_Cardinal_indoor_00007": 5,
                 "door_City_NW_01_Cardinal_indoor_00001": 5,
-                "trunk_City_NW_02_Tetris_00049": 1,
-                "door_City_NE_02_TD_Klimova_Beluga_indoor_2ST_NEW_00004": 5,
-                "door_City_NE_02_TD_Klimova_Beluga_indoor_2ST_NEW_00005": 5,                
+                "trunk_City_NW_02_Tetris_00049": 7,
+                "door_City_NE_02_TD_Klimova_Beluga_indoor_2ST_NEW_00004": 8,
+                "door_City_NE_02_TD_Klimova_Beluga_indoor_2ST_NEW_00005": 8,                
                 "trunk_City_SE_01_Pinewood_Hotel_indoor_00002": 5,
                 "trunk_City_SE_01_Pinewood_Hotel_indoor_00003": 5,
                 "trunk_City_SE_01_Pinewood_Hotel_indoor_00001": 5,
@@ -519,10 +519,10 @@
             },
             "GroundZero": {
                 "door_Sandbox_bottom_area_00002": 3,
-                "trunk_Sandbox_Maxim_temp_00025": 3,
-                "trunk_City_Roads_Klimova_2ST_REWORK_00004": 1,
+                "trunk_Sandbox_Maxim_temp_00025": 7,
+                "trunk_City_Roads_Klimova_2ST_REWORK_00004": 7,
                 "door_Sandbox_Area_01_indoor_00014": 3,
-                "door_Sandbox_Area_05_00007": 3
+                "door_Sandbox_Area_05_00007": 8
             }
         },
         "CRAFTING_RECIPES": [                              // WARNING: DO NOT EDIT THIS UNLESS YOU KNOW WHAT YOU ARE DOING.
