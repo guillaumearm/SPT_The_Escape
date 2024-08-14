@@ -4,9 +4,6 @@ on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node: ["json", "jsonc", "json5"]
     name: Parse json files
     steps:
       - name: Checkout git branch
