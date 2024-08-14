@@ -3,30 +3,26 @@
   "comment": "If you are using the mode that includes the extra trader and specific trader/ stash locations, this should be set to true",
   "comment": "If you are using the standard config, this should be set to false",
 
-  "language": "english",
+  "language": "french",
 
-  "moddedTraderCompat": false,
+  "moddedTraderCompat": true,
   "additionalLocalesToggle": false,
 
   "moddedTraderExtracts": [
-    "Saferoom Exfil",
-    "Saferoom (Goblin King)",
-    "EXFIL_ZB013",
-    "ZB-1013 Storage Bunker (Broker)"
+    "Cellars", "Cellars to Reserv - Anastasia",
+    "EXFIL_Bunker", 
+    "Bunker Hermetic Door to Factory - Anastasia",
   ],
 
   "localesToChangeAdditional": [],
 
   "localesToChange": [
-    "Gate 3",
-    "Gate 3 to Customs - Mechanic (Hideout)",
-    "Office Window",
-    "Office Window to woods - Jeager",
 
     "Gate 3",
     "Gate 3 to Customs - Mechanic (Hideout)",
     "Office Window",
     "Office Window to woods - Jeager",
+    "Cellars", "Cellars to Reserv - Anastasia",
 
     "Railroad To Tarkov",
     "Railroad To Tarkov to Streets, GZ - Therapist, ",
