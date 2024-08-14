@@ -1,0 +1,8 @@
+{
+    "name": "Construction Time: Instant",
+    "author": "unknown",
+    "version": "1.0.0",
+    "license": "use",
+    "main": "src/config.js",
+    "sptVersion": "3.9.X"
+}
