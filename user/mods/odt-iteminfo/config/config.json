@@ -7,7 +7,7 @@
 		"_description": "Basic module that adds prices information to item description, includes avarage flea price and best trader to sell to. Separate option to hide flea price info. addItemValue uses plain BSG handbook/traders data.",
 		"_example": "Flea price: 61703₽ | Ragman's valuation: 37386₽",
 		"enabled": true,
-		"addFleaPrice": true,
+		"addFleaPrice": false,
 		"addItemValue": true
 	},
 	"RarityRecolor": {
@@ -68,7 +68,7 @@
 	"BulletStatsInName": {
 		"_description": "Adds bullet stats to bullet name (damage / armor penetration). Calculates total damage for buckshot rounds. VERY usefull in raid, because bullet name is shown when check magazine action is used.",
 		"_example": "5.45x39mm PP gs (44/36)",
-		"enabled": true
+		"enabled": false
 	},
 	"ArmorInfo": {
 		"_description": "Adds armor stats for armor level (usefull for Realism mod), effective durability calculation, material quality and per repair degradation.",
