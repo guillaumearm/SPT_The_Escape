@@ -6,7 +6,7 @@
     "test:json": "node scripts/test-json-files.js json",
     "test:json5": "node scripts/test-json-files.js json5",
     "test:jsonc": "node scripts/test-json-files.js jsonc",
-    "test:ci": "npm run test:json && npm run test:jsonc && npm run test:json5"
+    "test:all": "npm run test:json && npm run test:jsonc && npm run test:json5"
   },
   "author": "Trap",
   "contributors": [
