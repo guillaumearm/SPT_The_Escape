@@ -56,14 +56,12 @@
 - [Moxopixel's SandCore](https://hub.sp-tarkov.com/files/file/1379-sandcore-fde-retextures/)
 - [Moxopixel's WhiteCore](https://hub.sp-tarkov.com/files/file/1313-whitecore/)
 
-## Traders
+## Traders & Quests
 
+- [VCQL](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/)
 - [Painter](https://hub.sp-tarkov.com/files/file/1412-painter/)
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
-
-## Quests (WIP)
-
-- [VCQL](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/): I prepared an empty VCQL so it's still possible to prepares zones for the future.
+- [A.E.S](https://hub.sp-tarkov.com/files/file/1183-a-e-s-ultimate-questing-traders)
 
 ## Fixes
 
