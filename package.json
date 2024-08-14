@@ -1,0 +1,20 @@
+{
+  "name": "spt-the-escape",
+  "version": "0.8.0",
+  "description": "The Escape modpack for SPT",
+  "scripts": {
+    "test:ci": "node scripts/test-json-files.js"
+  },
+  "author": "Trap",
+  "contributors": [
+    {
+      "name": "DevilFlippy"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^11.0.0",
+    "json5": "^2.2.3",
+    "jsonc": "^2.0.0"
+  }
+}
