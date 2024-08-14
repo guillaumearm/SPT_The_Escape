@@ -28,33 +28,33 @@
     },
     //Loose loot multiplier, higher number = more
     "looseLootMultiplier": {
-        "bigmap": 1,
-        "factory4_day": 2,
-        "factory4_night": 2,
-        "woods": 3,
-        "interchange":2,
-        "laboratory": 4,
-        "rezervbase": 2,
-        "shoreline": 3,
-        "tarkovstreets": 2,
-        "lighthouse": 3,
-        "sandbox": 2,
-        "sandbox_high": 2
+        "bigmap": 2.5,
+        "factory4_day": 3.5,
+        "factory4_night": 3.5,
+        "woods": 1.9,
+        "interchange": 2.8,
+        "laboratory": 2.8,
+        "rezervbase": 2.9,
+        "shoreline": 3.7,
+        "tarkovstreets": 3,
+        "lighthouse": 2.8,
+        "sandbox": 2.8,
+        "sandbox_high": 2.8
     },
     //Static loot multiplier, higher number = more
     "staticLootMultiplier": {
         "bigmap": 1,
-        "factory4_day": 2,
-        "factory4_night": 2,
-        "woods": 3,
-        "interchange":2,
-        "laboratory": 4,
-        "rezervbase": 2,
-        "shoreline": 3,
-        "tarkovstreets": 2,
-        "lighthouse": 3,
-        "sandbox": 2,
-        "sandbox_high": 2
+        "factory4_day": 1,
+        "factory4_night": 1,
+        "interchange": 1,
+        "laboratory": 1,
+        "rezervbase": 1,
+        "shoreline": 1,
+        "woods": 1,
+        "tarkovstreets": 1,
+        "lighthouse": 1,
+        "sandbox": 1,
+        "sandbox_high": 1
     },
     //Maximum loot generation limits, higher number = higher limit (Would recommend leaving this as is)
     "limits": {
