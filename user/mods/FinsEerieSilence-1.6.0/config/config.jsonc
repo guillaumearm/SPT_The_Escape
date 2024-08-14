@@ -4,10 +4,10 @@
 	
 	
 	//Higher values make ambient noises quieter
-	"ambient_noise_reduction_multiplier": 4,
+	"ambient_noise_reduction_multiplier": 2,
 	
 	//Options are 'High', 'Low', or 'None'
-	"maximum_helmet_deafness": "Low",
+	"maximum_helmet_deafness": "High",
 	
 	//Setting this to true will set all headsets to have these values
 	"full_Stat_Control": false,
