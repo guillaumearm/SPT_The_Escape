@@ -13,8 +13,8 @@
     },
     "SaveQuestItems": false,
     "NoRunThrough": false,
-    "LootableMelee": false,
-    "LootableArmbands": false,
+    "LootableMelee": true,
+    "LootableArmbands": true,
     "EnableExtendedRaids": false,
     "TimeLimit": 999,
     "HolsterAnything": false,
@@ -88,10 +88,10 @@
     "MarkedRoomLootMultiplier": 3
   },
   "Events": {
-    "EnableWeatherOptions": false,
-    "AllSeasons": false,
+    "EnableWeatherOptions": true,
+    "AllSeasons": true,
     "NoWinter": false,
-    "SeasonalProgression": false,
+    "SeasonalProgression": true,
     "WinterWonderland": false,
     "RandomizedSeasonalEvents": false
   },
