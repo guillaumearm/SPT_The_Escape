@@ -21,7 +21,7 @@
       "roubles_per_dogtag": 10000,
       "dollars_per_dogtag": 100,
       "euros_per_dogtag": 100,
-      "gp_coins_reward": 1,
+      "gp_coins_reward": 4,
       "trader_reputation_reward": 0.05
     }
   }
