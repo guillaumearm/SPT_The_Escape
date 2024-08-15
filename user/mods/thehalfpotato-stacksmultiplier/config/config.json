@@ -1,6 +1,6 @@
 {
     "debug": false,
-    "onlyAmmo": true,
+    "onlyAmmo": false,
     "weightlessAmmo": false,
     "ammoStackMult": 2,
     "moneyStackMult": 2,
