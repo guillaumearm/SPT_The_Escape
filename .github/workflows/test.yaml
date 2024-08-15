@@ -2,13 +2,22 @@ name: Test
 on: [push]
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
+    name: Parse json files
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout git branch
+        uses: actions/checkout@v4
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20.x"
-      - run: npm ci
-      - run: npm run test:ci
+          cache: "npm"
+      - name: "Installation of dependencies"
+        run: npm ci
+      - name: "Parse json files"
+        run: npm run test:json
+      - name: "Parse json5 files"
+        run: npm run test:json5
+      - name: "Parse jsonc files"
+        run: npm run test:jsonc
