@@ -56,6 +56,7 @@
 - [Moxopixels's RedCore](https://hub.sp-tarkov.com/files/file/2183-redcore-reupload-and-ported/)
 - [Moxopixel's SandCore](https://hub.sp-tarkov.com/files/file/1379-sandcore-fde-retextures/)
 - [Moxopixel's WhiteCore](https://hub.sp-tarkov.com/files/file/1313-whitecore/)
+- [All The Clothes](https://hub.sp-tarkov.com/files/file/740-all-the-clothes)
 
 ## Traders & Quests
 
