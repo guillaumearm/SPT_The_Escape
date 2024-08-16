@@ -111,7 +111,9 @@
     //Multiplies the spawnchance of a specific item in its loose loot pool, giving this item a higher chance of spawning.
     "changeRelativeProbabilityInPool": {
         //Graphics card
-        "57347ca924597744596b4e71": 2
+        "57347ca924597744596b4e71": 2,
+        //Key mechanical
+        5c99f98d86f7745c314214b3: 3
     },
     //Multiplies the spawnchance of every pool with the specified item in it, Value: 0 - 1 
     "changeProbabilityOfPool": {
