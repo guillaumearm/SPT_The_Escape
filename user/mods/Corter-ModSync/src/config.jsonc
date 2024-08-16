@@ -30,6 +30,7 @@
 		"BepInEx/plugins/DanW-SPTQuestingBots/log",
 		// Realism
 		"user/mods/SPT-Realism/ProfileBackups",
+		"BepInEx/plugins/Realism/data",
 		// Fika
 		"user/mods/fika-server/types",
 		"user/mods/fika-server/cache",
