@@ -91,10 +91,11 @@
 - [Loot Radius](https://hub.sp-tarkov.com/files/file/1870-loot-radius)
 - [Dvize's Props in-raid modding (PIRM)](https://hub.sp-tarkov.com/files/file/850-props-in-raid-modding-pirm/)
 - [UseLooseLoot](https://hub.sp-tarkov.com/files/file/1264-use-loose-loot)
-- [Stalker on Tarkov](https://hub.sp-tarkov.com/files/file/2192-stalker-on-tarkov/)
+- [Trader Modding And Improved Weapon Building](https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building)
 
 ## Tweaks
 
+- [Stalker on Tarkov](https://hub.sp-tarkov.com/files/file/2192-stalker-on-tarkov/)
 - [Lots of loot redux](https://hub.sp-tarkov.com/files/file/2212-lots-of-loot-redux/)
 - [Open extract](https://hub.sp-tarkov.com/files/file/827-open-extract/) (still need to check compat with PTT)
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
