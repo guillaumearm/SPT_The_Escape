@@ -34,6 +34,7 @@
 - [smthing-Configurable Steps Volume](https://hub.sp-tarkov.com/files/file/2246-smthing-configurable-steps-volume/)
 - [Bowen's Voice](https://hub.sp-tarkov.com/files/file/2005-bowen-s-voice)
 - [Fin's Eerie Silence](https://hub.sp-tarkov.com/files/file/251-fin-s-eerie-silence/)
+- [ssh's VocalPlayer](https://cloud.trapcloud.fr/s/YPqgqAynJ8HbREs) (reupload)
 
 ## Fun & Graphics
 
@@ -58,10 +59,12 @@
 
 ## Traders & Quests
 
+- [Custom Quests](https://github.com/guillaumearm/SPT_CustomQuests/releases/tag/v3.2.0-rc.2) (v3.2.0-rc.2)
 - [VCQL](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/)
 - [Painter](https://hub.sp-tarkov.com/files/file/1412-painter/)
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
 - [A.E.S](https://hub.sp-tarkov.com/files/file/1183-a-e-s-ultimate-questing-traders)
+- [Trap's BabaYaga](https://github.com/guillaumearm/SPT_BabaYaga/releases/tag/v2.2.0) (v2.2.0)
 
 ## Fixes
 
@@ -82,7 +85,6 @@
 - [Remove time gate from quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
 - [Construction time instant](https://hub.sp-tarkov.com/files/file/2131-construction-time-instant/)
 - [Instant repeatable quests](https://hub.sp-tarkov.com/files/file/1797-instant-repeatables/)
-- [Kiki's remove tedious quest conditions](https://hub.sp-tarkov.com/files/file/507-kiki-removetediousquestconditions)
 - [Useless key blacklist](https://hub.sp-tarkov.com/files/file/760-useless-key-blacklist/)
 - [Custom raid times](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/)
 - [Custom weight](https://hub.sp-tarkov.com/files/file/826-custom-weight/)
@@ -97,6 +99,11 @@
 - [Open extract](https://hub.sp-tarkov.com/files/file/827-open-extract/) (still need to check compat with PTT)
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
+- [Realism Stance Replication](https://github.com/space-commits/Realism-Stance-Replication/releases/tag/v1.0.1) (for fika sync)
+
+# Tools
+
+- [Raid Review](https://hub.sp-tarkov.com/files/file/2037-raid-review)
 
 # Other changes (SVM)
 
