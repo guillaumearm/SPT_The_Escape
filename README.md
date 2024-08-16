@@ -58,10 +58,12 @@
 
 ## Traders & Quests
 
+- [Custom Quests](https://github.com/guillaumearm/SPT_CustomQuests/releases/tag/v3.2.0-rc.1) (v3.2.0-rc.1)
 - [VCQL](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/)
 - [Painter](https://hub.sp-tarkov.com/files/file/1412-painter/)
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
 - [A.E.S](https://hub.sp-tarkov.com/files/file/1183-a-e-s-ultimate-questing-traders)
+- [Trap's BabaYaga](https://github.com/guillaumearm/SPT_BabaYaga/releases/tag/v2.2.0) (v2.2.0)
 
 ## Fixes
 
@@ -97,6 +99,10 @@
 - [Open extract](https://hub.sp-tarkov.com/files/file/827-open-extract/) (still need to check compat with PTT)
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
+
+# Tools
+
+- [Raid Review](https://hub.sp-tarkov.com/files/file/2037-raid-review)
 
 # Other changes (SVM)
 
