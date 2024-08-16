@@ -27,7 +27,7 @@
 - [Raid Overhaul](https://github.com/KillerDJLang/Raid-Overhaul/releases/tag/v2.5.0-testbuild) (3.9 rc4 build -> with just trader, quests and Legion)
 - [Borkel's realistic thermal](https://hub.sp-tarkov.com/files/file/1510-borkel-s-big-realistic-thermal-package-bring-real-life-realism-to-your-thermal-s/)
 - [Borkel's Realistic Night Vision Goggles (NVGs and T-7)](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7)
-- [Immersive Daylight Cycle](https://hub.sp-tarkov.com/files/file/2019-immersive-daylight-cycle)
+- [One Time Zone Mod](https://hub.sp-tarkov.com/files/file/2189-onetimezonemod)
 
 ## Sounds
 
