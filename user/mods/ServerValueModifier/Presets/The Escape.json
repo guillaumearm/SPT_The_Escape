@@ -15,7 +15,7 @@
     "MalfunctChanceMult": 1,
     "WeightChanger": 1,
     "ItemPriceMult": 1,
-    "EnableCurrency": true,
+    "EnableCurrency": false,
     "RubStack": 1000000,
     "DollarStack": 100000,
     "GPStack": 40,
@@ -31,8 +31,8 @@
       "PistolRound": 100
     },
     "AmmoSwitch": false,
-    "RemoveRaidRestr": true,
-    "RemoveBackpacksRestrictions": true,
+    "RemoveRaidRestr": false,
+    "RemoveBackpacksRestrictions": false,
     "AvoidSingleKeys": false,
     "AvoidMarkedKeys": false,
     "KeyUseMult": 1,
@@ -42,7 +42,7 @@
     "NoGearPenalty": false,
     "IDBox": "",
     "RemoveKeysUsageNumber": false,
-    "RaidDrop": true
+    "RaidDrop": false
   },
   "Hideout": {
     "EnableStash": false,
@@ -85,12 +85,12 @@
       "GunDurability_Max": 60,
       "ArmorDurability_Min": 35,
       "GunDurability_Min": 35,
-      "PriceMult": 1.2,
+      "PriceMult": 10,
       "PremiumAmountOnSale": 50,
-      "PresetCount": 5,
+      "PresetCount": 2,
       "StockTime_Min": 50,
       "StockTime_Max": 150,
-      "AmountOnSale": 140,
+      "AmountOnSale": 40,
       "PresetMult": 2,
       "Blacklist": "5c164d2286f774194c5e69fa\r\n543be6674bdc2df1348b4569\r\n5448bf274bdc2dfc2f8b456a\r\n5447bedf4bdc2d87278b4568\r\n6275303a9f372d6ea97f9ec7\r\n62e9103049c018f425059f38\r\n59f32bb586f774757e1e8442\r\n59f32c3b86f77472a31742f0\r\n627bce33f21bc425b06ab967\r\n62f109593b54472778797866\r\n5d52cc5ba4b9367408500062\r\n5d52d479a4b936793d58c76b\r\n5e99711486f7744bfc4af328\r\n62f10b79e7ee985f386b2f47\r\n633ffb5d419dbf4bea7004c6\r\n543be5dd4bdc2deb348b4569\r\n65649eb40bf0ed77b8044453\r\n5448e54d4bdc2dcc718b4568\r\n5a341c4086f77401f2541505\r\n5422acb9af1c889c16000029\r\n64d0b40fbe2eed70e254e2d4\r\n5fc22d7c187fea44d52eda44"
     },
@@ -116,14 +116,14 @@
       "Therapist": 1
     },
     "MinDurabSell": 40,
-    "RemoveTimeCondition": false,
+    "RemoveTimeCondition": true,
     "AllQuestsAvailable": false,
     "RemoveBarterOffers": false,
     "RemoveCurrencyOffers": false,
     "IncreaseAssort": false,
     "UnlockQuestAssort": false,
     "EnableTraders": true,
-    "FIRRestrictsQuests": false,
+    "FIRRestrictsQuests": true,
     "TradersLvl4": false,
     "FIRTrade": false
   },
@@ -499,22 +499,22 @@
   "CSM": {
     "EnableCases": true,
     "EnableSecureCases": false,
-    "CustomPocket": true,
+    "CustomPocket": false,
     "Pockets": {
       "DefaultPocket": true,
       "SpecGKeychain": false,
-      "SpecSimpleWallet": true,
-      "SpecWZWallet": true,
+      "SpecSimpleWallet": false,
+      "SpecWZWallet": false,
       "SpecKeycardHolder": false,
       "SpecKeytool": false,
       "SpecInjectorCase": false,
       "SpecSlots": 3,
       "FourthH": 1,
       "FourthV": 1,
-      "ThirdH": 1,
-      "ThirdV": 2,
-      "SecondH": 1,
-      "SecondV": 2,
+      "ThirdH": 2,
+      "ThirdV": 1,
+      "SecondH": 2,
+      "SecondV": 1,
       "FirstH": 1,
       "FirstV": 1
     },
@@ -740,7 +740,7 @@
   },
   "PMC": {
     "NameOverride": false,
-    "ForceCustomWaves": true,
+    "ForceCustomWaves": false,
     "CustomWaveChance": 100,
     "PMCChance": {
       "PMCNamePrefix": 15,
@@ -763,7 +763,7 @@
     },
     "DisableLowLevelPMC": false,
     "LootableMelee": false,
-    "EnablePMC": true
+    "EnablePMC": false
   },
   "Custom": {
     "EnableCustom": false,
