@@ -14,6 +14,7 @@
 		"BepInEx/config/me.skwizzy.lootingbots.cfg",
 		"BepInEx/config/xyz.drakia.lootradius.cfg",
 		"BepInEx/config/ekky.raidreview.cfg",
+		"BepInEx/config/com.servph.vocalPlayer.cfg",
 		{
 			"enabled": false,
 			"path": "user/mods"
