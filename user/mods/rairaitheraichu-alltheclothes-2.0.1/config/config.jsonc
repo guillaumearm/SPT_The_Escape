@@ -7,8 +7,8 @@
 	"UnlockFactionalHeads": true,	// Allows you to select the opposite faction's heads
 	"UnlockFactionalVoices": true,	// Allows you to select the opposite faction's voices
 
-	"AllScavClothesFree": false, // All clothing added by this mod can be unlocked with no requirements
-	"AllPMCClothesFree": false, // All vanilla clothing sold by Ragman can be unlocked with no requirements
+	"AllScavClothesFree": true, // All clothing added by this mod can be unlocked with no requirements
+	"AllPMCClothesFree": true, // All vanilla clothing sold by Ragman can be unlocked with no requirements
 
 	"UseRagmanInsteadOfFence": false, // All scav/boss clothing will be sold by Ragman instead of Fence
 
