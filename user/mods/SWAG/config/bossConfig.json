@@ -190,18 +190,18 @@
     "legion": {
       "enabled": true,
       "useProgressSpawnChance": false,
-      "customs": 7,
-      "factory": 7,
-      "factory_night": 7,
-      "groundzero": 7,
-      "groundzero_high": 7,
-      "interchange": 7,
-      "laboratory": 7,
-      "lighthouse": 7,
-      "reserve": 7,
-      "shoreline": 7,
-      "streets": 7,
-      "woods": 7
+      "customs": 10,
+      "factory": 10,
+      "factory_night": 10,
+      "groundzero": 10,
+      "groundzero_high": 10,
+      "interchange": 10,
+      "laboratory": 40,
+      "lighthouse": 10,
+      "reserve": 10,
+      "shoreline": 10,
+      "streets": 10,
+      "woods": 10
     }
   }
 }

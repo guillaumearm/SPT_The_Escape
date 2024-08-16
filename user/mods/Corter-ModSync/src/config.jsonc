@@ -13,6 +13,7 @@
 		"BepInEx/config/com.lacyway.afir.cfg",
 		"BepInEx/config/me.skwizzy.lootingbots.cfg",
 		"BepInEx/config/xyz.drakia.lootradius.cfg",
+		"BepInEx/config/ekky.raidreview.cfg",
 		{
 			"enabled": false,
 			"path": "user/mods"
