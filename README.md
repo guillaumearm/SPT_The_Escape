@@ -85,7 +85,6 @@
 - [Remove time gate from quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
 - [Construction time instant](https://hub.sp-tarkov.com/files/file/2131-construction-time-instant/)
 - [Instant repeatable quests](https://hub.sp-tarkov.com/files/file/1797-instant-repeatables/)
-- [Kiki's remove tedious quest conditions](https://hub.sp-tarkov.com/files/file/507-kiki-removetediousquestconditions)
 - [Useless key blacklist](https://hub.sp-tarkov.com/files/file/760-useless-key-blacklist/)
 - [Custom raid times](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/)
 - [Custom weight](https://hub.sp-tarkov.com/files/file/826-custom-weight/)
@@ -100,6 +99,7 @@
 - [Open extract](https://hub.sp-tarkov.com/files/file/827-open-extract/) (still need to check compat with PTT)
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
+- [Realism Stance Replication](https://github.com/space-commits/Realism-Stance-Replication/releases/tag/v1.0.1) (for fika sync)
 
 # Tools
 
