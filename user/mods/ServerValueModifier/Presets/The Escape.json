@@ -122,7 +122,7 @@
     "RemoveCurrencyOffers": false,
     "IncreaseAssort": false,
     "UnlockQuestAssort": false,
-    "EnableTraders": true,
+    "EnableTraders": false,
     "FIRRestrictsQuests": true,
     "TradersLvl4": false,
     "FIRTrade": false
