@@ -443,7 +443,7 @@
   },
   "infiltrations": {
     "TherapistStash": {
-      "bigmap": ["Crossroads"],
+      "bigmap": ["Railroad To Tarkov"],
       "sandbox": ["GZ Scav checkpoint"],
       "tarkovstreets": ["Zmeevsky Alley"]
     },
