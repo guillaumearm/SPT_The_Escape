@@ -60,7 +60,7 @@
 
 ## Traders & Quests
 
-- [Custom Quests](https://github.com/guillaumearm/SPT_CustomQuests/releases/tag/v3.2.0-rc.2) (v3.2.0-rc.2)
+- [Custom Quests](https://github.com/guillaumearm/SPT_CustomQuests/releases/tag/v3.2.0-rc.3) (v3.2.0-rc.3)
 - [VCQL](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/)
 - [Painter](https://hub.sp-tarkov.com/files/file/1412-painter/)
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
