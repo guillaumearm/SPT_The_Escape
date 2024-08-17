@@ -43,3 +43,4 @@ BepInEx/plugins/Realism/data/hazard_tracker.json
 BepInEx/plugins/DanW-SPTQuestingBots/log
 
 user/mods/fika-server/cache
+user/mods/fika-server/tmp

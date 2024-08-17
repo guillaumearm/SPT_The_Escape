@@ -61,8 +61,8 @@
         "CAN_USE_LIGHT": true,
         "FULL_SECTOR_VIEW": false,
         "MAX_DIST_CLAMP_TO_SEEN_SPEED": 500.0,
-        "VISIBLE_ANG_NIGHTVISION": 90.0,
-        "VISIBLE_ANG_LIGHT": 35.0,
+        "Visible_Angle_NVGs": 90.0,
+        "Visible_Angle_Flashlight": 35.0,
         "VISIBLE_DISNACE_WITH_LIGHT": 65.0,
         "VISIBLE_DISNACE_WITH_IR_LIGHT": 65.0
       },
@@ -153,8 +153,8 @@
         "CAN_USE_LIGHT": true,
         "FULL_SECTOR_VIEW": false,
         "MAX_DIST_CLAMP_TO_SEEN_SPEED": 500.0,
-        "VISIBLE_ANG_NIGHTVISION": 90.0,
-        "VISIBLE_ANG_LIGHT": 35.0,
+        "Visible_Angle_NVGs": 90.0,
+        "Visible_Angle_Flashlight": 35.0,
         "VISIBLE_DISNACE_WITH_LIGHT": 65.0,
         "VISIBLE_DISNACE_WITH_IR_LIGHT": 65.0
       },
@@ -245,8 +245,8 @@
         "CAN_USE_LIGHT": true,
         "FULL_SECTOR_VIEW": false,
         "MAX_DIST_CLAMP_TO_SEEN_SPEED": 500.0,
-        "VISIBLE_ANG_NIGHTVISION": 90.0,
-        "VISIBLE_ANG_LIGHT": 35.0,
+        "Visible_Angle_NVGs": 90.0,
+        "Visible_Angle_Flashlight": 35.0,
         "VISIBLE_DISNACE_WITH_LIGHT": 65.0,
         "VISIBLE_DISNACE_WITH_IR_LIGHT": 65.0
       },
@@ -337,8 +337,8 @@
         "CAN_USE_LIGHT": true,
         "FULL_SECTOR_VIEW": false,
         "MAX_DIST_CLAMP_TO_SEEN_SPEED": 500.0,
-        "VISIBLE_ANG_NIGHTVISION": 90.0,
-        "VISIBLE_ANG_LIGHT": 35.0,
+        "Visible_Angle_NVGs": 90.0,
+        "Visible_Angle_Flashlight": 35.0,
         "VISIBLE_DISNACE_WITH_LIGHT": 65.0,
         "VISIBLE_DISNACE_WITH_IR_LIGHT": 65.0
       },

@@ -95,7 +95,6 @@
         "GlobalDebugMode": false,
         "ForceBotsToRunAround": false,
         "ForceBotsToTryCrawl": false,
-        "TestGrenadeThrow": false,
         "DrawDebugLabels": false,
         "DebugExternal": false,
         "DebugRecoilCalculations": false,
@@ -135,7 +134,7 @@
     }
   },
   "Aiming": {
-    "AimCenterMassGlobal": true,
+    "AimCenterMassGlobal": false,
     "HitEffects": {
       "HIT_REACTION_TOGGLE": true,
       "DAMAGE_MANUAL_MODIFIER": 1.0,
@@ -166,7 +165,7 @@
     "IronSightScaleDistanceStart": 50.0,
     "IronSightScaleDistanceEnd": 100.0,
     "CenterMassVal": 0.3125,
-    "FasterCQBReactionsGlobal": true,
+    "FasterCQBReactionsGlobal": false,
     "PMCSAimForHead": false,
     "PMCAimForHeadChance": 33.0
   },
@@ -336,7 +335,7 @@
       },
       "Movement": {
         "Description": "Scales vision speed based on the movement speed of their enemy. Faster movement = faster vision speed.",
-        "Enabled": true,
+        "Enabled": false,
         "MOVEMENT_VISION_MULTIPLIER": 0.5
       },
       "PartsVisibility": {
@@ -348,12 +347,12 @@
       "Peripheral": {
         "Description": "Adds additional vision speed reduction to targets in a bot's peripheral vision.Scales with the angle from their look direction.",
         "Enabled": true,
-        "PERIPHERAL_VISION_START_ANGLE": 30.0,
-        "PERIPHERAL_VISION_MAX_REDUCTION_COEF": 2.0
+        "PERIPHERAL_VISION_START_ANGLE": 45.0,
+        "PERIPHERAL_VISION_MAX_REDUCTION_COEF": 2.5
       },
       "Pose": {
         "Description": "Scales vision speed based on the pose of their enemy. Only applies to Non-AI targets.",
-        "Enabled": true,
+        "Enabled": false,
         "PRONE_VISION_SPEED_COEF": 1.75,
         "DUCK_VISION_SPEED_COEF": 1.25
       },

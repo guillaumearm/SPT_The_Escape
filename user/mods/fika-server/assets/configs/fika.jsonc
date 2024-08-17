@@ -4,6 +4,7 @@
         "friendlyFire": true,
         "dynamicVExfils": false,
         "allowFreeCam": false,
+        "allowSpectateFreeCam": false,
         "allowItemSending": true,
         "blacklistedItems": [],
         "forceSaveOnDeath": false,
@@ -17,7 +18,7 @@
     "server": {
         "giftedItemsLoseFIR": true,
         "launcherListAllProfiles": false,
-        "sessionTimeout": 10,
+        "sessionTimeout": 5,
         "showDevProfile": false,
         "showNonStandardProfile": false
     },
