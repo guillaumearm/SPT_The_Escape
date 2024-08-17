@@ -310,8 +310,7 @@
       "access_via": ["ReserveBunkerStash"]
     },
     "Svetlana": {
-      "// mod integration for Svetlana": true,
-      "// Svetlana is available at MechanicStash": true,
+      "// Trader name": "Svetlana",
       "disable_warning": false,
       "override_description": true,
       "location_description": {
@@ -335,8 +334,7 @@
       ]
     },
     "Evelyn": {
-      "// mod integration for Evelyn": true,
-      "// Evelyn is available at Hideout": true,
+      "// Trader name": "Evelyn",
       "disable_warning": false,
       "override_description": true,
       "location_description": {
@@ -360,8 +358,7 @@
       ]
     },
     "Anastasia": {
-      "// mod integration for Anastasia": true,
-      "// Anastasia is available at AnastasiaHideout": true,
+      "// Trader name": "Anastasia",
       "disable_warning": false,
       "override_description": true,
       "location_description": {
