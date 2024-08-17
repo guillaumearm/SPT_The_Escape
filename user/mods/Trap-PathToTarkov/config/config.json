@@ -391,7 +391,7 @@
     "factory4_night": {
       "Gate 3": "MechanicStash",
       "Office Window": "JaegerStash",
-      "Cellars": "AnastasiaHideout"
+      "Cellars": "AnastasiaStash"
     },
     "bigmap": {
       "Railroad To Tarkov": "TherapistStash",
@@ -407,7 +407,7 @@
       "EXFIL_ScavCooperation": "SkierStash",
       "Exit4": "MilitaryLighthouseStash",
       "EXFIL_Bunker_D2": "ReserveBunkerStash",
-      "EXFIL_Bunker": "AnastasiaHideout"
+      "EXFIL_Bunker": "AnastasiaStash"
     },
     "interchange": {
       "NW Exfil": "RagmanStash",
@@ -481,7 +481,7 @@
     "JaegerStash": {
       "factory4_day": ["Office Window"],
       "factory4_night": ["Office Window"],
-      "woods": ["Factory Gate", "RUAFRoadblock", "UN Roadblock"]
+      "woods": ["Factory Gate"]
     },
     "MilitaryLighthouseStash": {
       "lighthouse": ["Lighthouse Vehicle Extract"],
