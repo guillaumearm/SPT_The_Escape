@@ -270,16 +270,16 @@
       "// Trader name": "Fence",
       "// Fence is accessible everywhere": true,
       "access_via": "*",
-      "insurance_always_enabled": true,
+      "insurance_always_enabled": false,
       "insurance_config": {
-        "insurance_price_coef": 100,
+        "insurance_price_coef": 0,
         "min_payment": 0,
-        "min_return_hour": 1,
+        "min_return_hour": 100,
         "max_return_hour": 2,
         "max_storage_time": 480,
         "return_chance_percent": 100
       },
-      "repair_always_enabled": true,
+      "repair_always_enabled": false,
       "repair_config": {
         "quality": 1,
         "currency": "5449016a4bdc2d6f028b456f",
