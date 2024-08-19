@@ -28,7 +28,7 @@
     },
     //Loose loot multiplier, higher number = more
     "looseLootMultiplier": {
-        "bigmap": 2.1,
+        "bigmap": 2.2,
         "factory4_day": 3.8,
         "factory4_night": 3.8,
         "woods": 2.1,
@@ -43,7 +43,7 @@
     },
     //Static loot multiplier, higher number = more
     "staticLootMultiplier": {
-        "bigmap": 0.8,
+        "bigmap": 0.85,
         "factory4_day": 1.1,
         "factory4_night": 1.1,
         "interchange": 1.1,
@@ -75,9 +75,9 @@
         //Marked room loot multiplier, higher = more loot probability
         "multiplier": {
             "customs": 1,
-            "reserve": 1,
-            "streets": 1,
-            "lighthouse": 1
+            "reserve": 1.1,
+            "streets": 1.1,
+            "lighthouse": 1.25
         },
         //Adds these items to the marked room loot pool, lower number = rarer item
         "extraItems": {
