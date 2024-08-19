@@ -1,0 +1,26 @@
+{
+    "TraderChanges": {
+    "enabled": true,
+
+        "Better_Sales_To_Traders": {
+            // Adjusts trader evaluations for selling items (from Prapor 50%, Therapist 63%, Ragman 62%, Jaeger 60%, Mechanic 56%, Peacekeeper 45%, Skier 49% --> Prapor 60%, Therapist 64%, Ragman 63%, Jaeger 62%, Mechanic 61%, Peacekeeper 58%, Skier 59% at loyalty level 1). Also every loyalty level will give 5% better selling evaluation so e.g. at LL4 Propor will buy items for 75% of their value.
+            "enabled": true
+        },
+        "Reasonably_Priced_Cases": {
+            // Rebalances costs of hideout cases to fair and resonable prices and barters. Also changes LEDX dogtag barter
+            "enabled": true
+        },
+        "Bigger_Limits": {
+            // Bigger limits for buying from traders
+            "enabled": true,
+            "Limit_Multiplier": 2
+        }
+    
+    },
+    "EconomyOptions": {
+        "Disable_Flea_Market_Completely": {
+			// Completely disable flea market for true HARDCORE experience. Still allows you to use the interface and see trader offers.
+			"disable": false
+        }
+    }
+}
