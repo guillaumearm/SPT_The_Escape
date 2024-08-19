@@ -53,7 +53,7 @@ class SampleTrader implements IPreSptLoadMod, IPostDBLoadMod {
         // Create helper class and use it to register our traders image/icon + set its stock refresh time
         this.traderHelper = new TraderHelper();
         this.fluentAssortCreator = new FluentAssortCreator(hashUtil, this.logger);
-        this.traderHelper.registerProfileImage(baseJson, this.mod, preSptModLoader, imageRouter, "cat.jpg");
+        this.traderHelper.registerProfileImage(baseJson, this.mod, preSptModLoader, imageRouter, "Tirs.jpg");
         this.traderHelper.setTraderUpdateTime(traderConfig, baseJson, 3600, 4000);
 
         // Add trader to trader enum
