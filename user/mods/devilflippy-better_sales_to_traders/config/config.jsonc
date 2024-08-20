@@ -20,7 +20,7 @@
     "EconomyOptions": {
         "Disable_Flea_Market_Completely": {
 			// Completely disable flea market for true HARDCORE experience. Still allows you to use the interface and see trader offers.
-			"disable": false
+			"disable": true
         }
     }
 }
