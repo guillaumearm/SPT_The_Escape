@@ -60,12 +60,12 @@
 
 ## Traders & Quests
 
-- [Custom Quests](https://github.com/guillaumearm/SPT_CustomQuests/releases/tag/v3.2.0-rc.3) (v3.2.0-rc.3)
+- [Custom Quests](https://hub.sp-tarkov.com/files/file/588-custom-quests)
 - [VCQL](https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/)
 - [Painter](https://hub.sp-tarkov.com/files/file/1412-painter/)
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
 - [A.E.S](https://hub.sp-tarkov.com/files/file/1183-a-e-s-ultimate-questing-traders)
-- [Trap's BabaYaga](https://github.com/guillaumearm/SPT_BabaYaga/releases/tag/v2.2.0) (v2.2.0)
+- [Trap's BabaYaga](https://hub.sp-tarkov.com/files/file/701-baba-yaga/)
 
 ## Fixes
 
