@@ -48,47 +48,6 @@ class Mod implements IPostDBLoadMod
         const skier = tables.traders["58330581ace78e27b8b10cee"]
         const traderlist = [prapor, therapist, ragman, jaeger, mechanic, peacekeeper, skier]
 
-        if (false) 
-        {
-            // [Debug]
-            for (const i in items) 
-            {
-                const item = items[i]
-                if (item._type == "Item" && item._props.CanSellOnRagfair == false) 
-                {
-                    log(`"${item._id}", // ${getItemName(item._id)}`)
-                    // log(`"${item._id}", // ${item._name}`)
-                }
-            }
-        }
-
-        if (false) 
-        {
-            const baseClassList = new Set()
-            for (const i in items) 
-            {
-                const item = items[i]
-                if (item._type == "Item") 
-                {
-                    baseClassList.add(item._parent)
-                    // log(`"${item._id}", // ${item._name}`)
-                }
-            }
-            baseClassList.forEach((i) => log(`"${i}", // ${getItemName(i)}`))
-        }
-
-        if (false) 
-        {
-            for (const i of handbook.Categories) 
-            {
-                // log(i.Id)
-                // if (item._type == "Item") {
-                // handbookCategoryList.add(item._parent)
-                log(`"${i.Id}", // ${locales["en"][i.Id]}`)
-                // }
-            }
-        }
-
 
         if (config.TraderChanges.enabled) 
         {
@@ -133,13 +92,13 @@ class Mod implements IPostDBLoadMod
                         traderlist[trader].base.loyaltyLevels[3].buy_price_coef = 20
                     }
 
-                    peacekeeper.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
-                    skier.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
-                    prapor.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
-                    mechanic.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
-                    jaeger.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
-                    ragman.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
-                    therapist.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 1))
+                    peacekeeper.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
+                    skier.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
+                    prapor.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
+                    mechanic.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
+                    jaeger.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
+                    ragman.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
+                    therapist.base.loyaltyLevels.forEach((x) => (x.buy_price_coef += 5))
                 }
                 catch (error) 
                 {
