@@ -135,7 +135,7 @@
     }
   },
   "Aiming": {
-    "AimCenterMassGlobal": false,
+    "AimCenterMassGlobal": true,
     "HitEffects": {
       "HIT_REACTION_TOGGLE": true,
       "DAMAGE_MANUAL_MODIFIER": 1.0,
