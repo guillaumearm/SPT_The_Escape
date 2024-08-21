@@ -118,7 +118,9 @@
     //Multiplies the spawnchance of every pool with the specified item in it, Value: 0 - 1 
     "changeProbabilityOfPool": {
         //LEDX Skin Transilluminator
-        "5c0530ee86f774697952d952": 1
+        "5c0530ee86f774697952d952": 1,
+        //Mechanical Key
+        "5c99f98d86f7745c314214b3": 1
     },
     //Relative chance multiplier that no items spawn in this container, values: 0 = items everytime, 1 = no change
     "containers": {
