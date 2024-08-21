@@ -17,6 +17,9 @@
     "MoxoPixel-WhiteCore",
     "BowenVoice",
     "BRNVG_N-15Adapter",
+    "ACOG4Life-OpticRework",
+    "ChooChoo-TraderModding",
+    "rairaitheraichu-alltheclothes-2.0.1",
     "JoshMate-BetterBackpacks",
     "PeinBetterRearSights",
     "Fontaine-FOV-Fix",
@@ -34,7 +37,6 @@
     "ConstructionTimeInstant",
     "MoreCheckmarksBackend",
     "ServerValueModifier",
-    "Kiki-RemoveTediousQuestConditions",
     "leaves-progressive_container",
     "thehalfpotato-stacksmultiplier",
     "SPT-Realism",
@@ -49,9 +51,12 @@
     "Corter-ModSync",
     "archangelwtf-lotsoflootredux",
     "Trap-PathToTarkov",
+    "Trap-BabaYaga",
+    "Trap-CustomQuests",
     "StalkerOnTarkov",
     "robin-average-custom-traders-price",
     "odt-iteminfo",
+    "raid_review__0.2.0",
     "fika-server"
   ]
 }
