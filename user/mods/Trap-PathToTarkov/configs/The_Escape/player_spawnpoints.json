@@ -143,6 +143,14 @@
     "RUAFAdmin": {
       "Position": [667.3405, 1.064447, -58.31626],
       "rotation": 287.2482
+    },
+    "Railroad To Port": {
+      "Position": [-145.3853, 2.62803984, -23.7549515],
+      "Rotation": 1.93337643
+    },
+    "Railroad To Tarkov": {
+      "Position": [-149.420151, 3.40357137, -178.949509],
+      "Rotation": 6.05172825
     }
   },
   "woods": {

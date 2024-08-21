@@ -95,6 +95,13 @@
       "access_via": [
         "AnastasiaStash"
       ]
+    },
+    {
+      "id": "PathToTarkov_Scholar_stash",
+      "size": 22,
+      "access_via": [
+        "ScholarStash"
+      ]
     }
   ],
   "traders_config": {
@@ -327,7 +334,7 @@
         "kr": "Close to Factory",
         "pl": "Close to Factory",
         "po": "Close to Factory",
-        "ru": "В лодке"
+        "ru": "Close to Factory"
       },
       "access_via": [
         "MechanicStash"
@@ -351,7 +358,7 @@
         "kr": "Close to Factory",
         "pl": "Close to Factory",
         "po": "Close to Factory",
-        "ru": "В лодке"
+        "ru": "Close to Factory"
       },
       "access_via": [
         "MechanicStash"
@@ -379,6 +386,30 @@
       },
       "access_via": [
         "AnastasiaStash"
+      ]
+    },
+    "66bf1f65e1f3b83ea069a271": {
+      "// Trader name": "Scholar's Society",
+      "disable_warning": false,
+      "override_description": true,
+      "location_description": {
+        "ch": "In moutain, near the abandoned village in Shoreline",
+        "cz": "In moutain, near the abandoned village in Shoreline",
+        "en": "In moutain, near the abandoned village in Shoreline",
+        "es-mx": "In moutain, near the abandoned village in Shoreline",
+        "es": "In moutain, near the abandoned village in Shoreline",
+        "fr": "Dans les montagnes, proche du village abandonné de Littoral",
+        "ge": "In moutain, near the abandoned village in Shoreline",
+        "hu": "In moutain, near the abandoned village in Shoreline",
+        "it": "In moutain, near the abandoned village in Shoreline",
+        "jp": "In moutain, near the abandoned village in Shoreline",
+        "kr": "In moutain, near the abandoned village in Shoreline",
+        "pl": "In moutain, near the abandoned village in Shoreline",
+        "po": "In moutain, near the abandoned village in Shoreline",
+        "ru": "In moutain, near the abandoned village in Shoreline"
+      },
+      "access_via": [
+        "ScholarStash"
       ]
     }
   },
@@ -417,7 +448,8 @@
     "shoreline": {
       "Tunnel": "PeacekeeperStash",
       "Shorl_V-Ex": "ShorelineWoodsStash",
-      "South Fence Passage": "ReserveBunkerStash"
+      "South Fence Passage": "ReserveBunkerStash",
+      "Lighthouse_pass": "ScholarStash"
     },
     "lighthouse": {
       "Coastal_South_Road": "PeacekeeperStash",
@@ -443,7 +475,7 @@
   },
   "infiltrations": {
     "TherapistStash": {
-      "bigmap": ["Crossroads"],
+      "bigmap": ["Railroad To Tarkov"],
       "sandbox": ["GZ Scav checkpoint"],
       "tarkovstreets": ["Zmeevsky Alley"]
     },
@@ -500,6 +532,10 @@
       "factory4_day": ["Cellars"],
       "factory4_night": ["Cellars"],
       "rezervbase": ["Bunker Hermetic"]
+    },
+    "ScholarStash": {
+      "shoreline": ["Path to Lighthouse"]
     }
+    
   }
 }
