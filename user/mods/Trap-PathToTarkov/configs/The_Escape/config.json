@@ -277,21 +277,21 @@
       "// Trader name": "Fence",
       "// Fence is accessible everywhere": true,
       "access_via": "*",
-      "insurance_always_enabled": true,
+      "insurance_always_enabled": false,
       "insurance_config": {
-        "insurance_price_coef": 100,
+        "insurance_price_coef": 0,
         "min_payment": 0,
         "min_return_hour": 1,
         "max_return_hour": 2,
         "max_storage_time": 480,
-        "return_chance_percent": 100
+        "return_chance_percent": 0
       },
-      "repair_always_enabled": true,
+      "repair_always_enabled": false,
       "repair_config": {
-        "quality": 1,
+        "quality": 0,
         "currency": "5449016a4bdc2d6f028b456f",
-        "currency_coefficient": 12,
-        "repair_price_coef": 100
+        "currency_coefficient": 0,
+        "repair_price_coef": 0
       },
       "heal_always_enabled": true
     },
@@ -411,6 +411,27 @@
       "access_via": [
         "ScholarStash"
       ]
+    },
+    "668aaff35fd574b6dcc4a686": {
+      "// Trader name": "The Painter",
+      "override_description": false,
+      "location_description": {
+        "ch": "in The HQ (at home)",
+        "cz": "in The HQ (at home)",
+        "en": "in The HQ (at home)",
+        "es-mx": "in The HQ (at home)",
+        "es": "in The HQ (at home)",
+        "fr": "Au QG (à la maison)",
+        "ge": "in The HQ (at home)",
+        "hu": "in The HQ (at home)",
+        "it": "in The HQ (at home)",
+        "jp": "in The HQ (at home)",
+        "kr": "in The HQ (at home)",
+        "pl": "in The HQ (at home)",
+        "po": "in The HQ (at home)",
+        "ru": "in The HQ (at home)"
+      },
+      "access_via": ["MechanicStash"]
     }
   },
   "exfiltrations": {
