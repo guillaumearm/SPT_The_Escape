@@ -57,6 +57,7 @@
 - [Moxopixel's SandCore](https://hub.sp-tarkov.com/files/file/1379-sandcore-fde-retextures/)
 - [Moxopixel's WhiteCore](https://hub.sp-tarkov.com/files/file/1313-whitecore/)
 - [All The Clothes](https://hub.sp-tarkov.com/files/file/740-all-the-clothes)
+- [Gilded Key Storage](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/)
 
 ## Traders & Quests
 
@@ -93,6 +94,8 @@
 - [Dvize's Props in-raid modding (PIRM)](https://hub.sp-tarkov.com/files/file/850-props-in-raid-modding-pirm/)
 - [UseLooseLoot](https://hub.sp-tarkov.com/files/file/1264-use-loose-loot)
 - [Trader Modding And Improved Weapon Building](https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building)
+- [Expanded cases](https://hub.sp-tarkov.com/files/file/2218-expanded-cases/)
+- [Increase Climb Height](https://hub.sp-tarkov.com/files/file/2154-increase-climb-height/)
 
 ## Tweaks
 
