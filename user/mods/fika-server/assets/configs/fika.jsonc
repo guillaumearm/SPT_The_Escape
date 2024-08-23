@@ -2,7 +2,7 @@
     "client": {
         "useBtr": true,
         "friendlyFire": true,
-        "dynamicVExfils": false,
+        "dynamicVExfils": true,
         "allowFreeCam": false,
         "allowSpectateFreeCam": false,
         "allowItemSending": true,
