@@ -68,6 +68,7 @@
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
 - [A.E.S](https://hub.sp-tarkov.com/files/file/1183-a-e-s-ultimate-questing-traders)
 - [Trap's BabaYaga](https://hub.sp-tarkov.com/files/file/701-baba-yaga/)
+- [devilflippy-tarkov_insurancerepair_services](https://github.com/devilflippy/Tarkov_Insurance-Repair_Services/releases)
 
 ## Fixes
 
