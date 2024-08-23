@@ -106,7 +106,7 @@
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
 - [Realism Stance Replication](https://github.com/space-commits/Realism-Stance-Replication/releases/tag/v1.0.1) (for fika sync)
-- [Devil_Hideout_Rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
+- [devilflippy-hideout_rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
 - [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases) 
 
 # Tools
