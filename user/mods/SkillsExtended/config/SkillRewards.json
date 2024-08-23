@@ -1,10 +1,8 @@
 {
-  "ProgressionEnabled": true,
   "RewardCategories": [
     "5448f39d4bdc2d0a728b4568",
     "5448f3ac4bdc2dce718b4569",
 
-    "590c745b86f7743cc433c5f2",
     "57864ada245977548638de91",
     "57864a66245977548f04a81f",
     "57864ee62459775490116fc1",
@@ -41,8 +39,17 @@
   ],
   "DisallowMultipleSameRoll": [
     "5c99f98d86f7745c314214b3",
-    "5795f317245977243854e041",
-    "62f109593b54472778797866"
+    "5795f317245977243854e041"
+  ],
+  "BlackListedItems": [
+    "62389bc9423ed1685422dc57",
+    "62389be94d5d474bf712e709",
+    "62389aaba63f32501b1b444f",
+    "62389ba9a63f32501b1b4451",
+    "624c09da2cec124eb67c1046",
+    "624c09e49b98e019a3315b66",
+    "624c0570c9b794431568f5d5",
+    "624c09cfbc2e27219346d955"
   ],
   "Tiers": [
     {
@@ -54,7 +61,7 @@
     {
       "Tier": 1,
       "RewardValue": 38000,
-      "LegaMedals": 0,
+      "LegaMedals": 1,
       "MaximumNumberOfMultiples": 2
     },
     {
@@ -108,14 +115,8 @@
     {
       "Tier": 10,
       "RewardValue": 1250000,
-      "LegaMedals": 2,
+      "LegaMedals": 3,
       "MaximumNumberOfMultiples": 2
     }
-  ],
-  "Debug": {
-    "Enabled": false,
-    "TestGeneration": false,
-    "GenerationLevel": 2,
-    "NumberOfRuns": 10
-  }
+  ]
 }
