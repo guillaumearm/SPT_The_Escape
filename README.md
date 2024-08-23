@@ -58,6 +58,7 @@
 - [Moxopixel's WhiteCore](https://hub.sp-tarkov.com/files/file/1313-whitecore/)
 - [All The Clothes](https://hub.sp-tarkov.com/files/file/740-all-the-clothes)
 - [Gilded Key Storage](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/)
+- [Practical Tactical 1.3](https://hub.sp-tarkov.com/files/file/2242-practical-tactical/#overview)
 
 ## Traders & Quests
 
@@ -67,6 +68,7 @@
 - [Sally](https://hub.sp-tarkov.com/files/file/2245-sally)
 - [A.E.S](https://hub.sp-tarkov.com/files/file/1183-a-e-s-ultimate-questing-traders)
 - [Trap's BabaYaga](https://hub.sp-tarkov.com/files/file/701-baba-yaga/)
+- [devilflippy-tarkov_insurancerepair_services](https://github.com/devilflippy/Tarkov_Insurance-Repair_Services/releases)
 
 ## Fixes
 
@@ -105,6 +107,8 @@
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
 - [Realism Stance Replication](https://github.com/space-commits/Realism-Stance-Replication/releases/tag/v1.0.1) (for fika sync)
+- [devilflippy-hideout_rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
+- [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases) 
 
 # Tools
 
