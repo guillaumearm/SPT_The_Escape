@@ -1,0 +1,35 @@
+{
+"HideoutOptions": {
+		"enabled": true,
+		"Faster_Bitcoin_Farming": {
+			// Modifies base farming time and dramatically increases each GPU efficiency (from ~4% to 50%). It means that each additional GPU has a much greater impact on farming time and lvl3 bitcoin farm is very profitable and desirable. EG - Vanilla 1x GPU: 40h 17min, at 50x GPU: 13h 20min for 1 bitcoin. Default Softcore settings - 1x GPU: 20h 8min, 50x GPU: 0h 47min per bitcoin. Revert_Bitcoin_Price_To_v012 option sets Bitcoin price from 225k in 0.13 to 100k like in 0.12, this is intented way for balance.
+			"enabled": true,
+			"Base_Bitcoin_Time_Multiplier": 1,
+			"GPU_Efficiency": 0.25
+		},
+		"Faster_Crafting_Time": {
+			// Make all recipes except bitcoin, moonshine and purified water much faster.
+			"enabled": true,
+			"Base_Crafting_Time_Multiplier": 2,
+			"Hideout_Skill_Exp_Fix": {
+				"enabled": true,
+				"Hideout_Skill_Exp_Multiplier": 2
+			}
+		},
+		"Faster_Moonshine_and_Purified_Water_Production": {
+			// Faster Moonshine and Purified water production.
+			"enabled": true,
+			"Base_Moonshine_And_Water_Time_Multiplier": 2
+		},
+		"Faster_Hideout_Construction": {
+			// Make construction of the hideout stations much faster.
+			"enabled": true,
+			"Hideout_Construction_Time_Multiplier": 10
+		},
+		"Increased_Fuel_Consumption": {
+			// To balance all the features above, fuel consumtion is increased. Now you will actually have to think about fuel economy. A little, but still.
+			"enabled": true,
+			"Fuel_Consumption_Multiplier": 2
+		}
+    }
+}
