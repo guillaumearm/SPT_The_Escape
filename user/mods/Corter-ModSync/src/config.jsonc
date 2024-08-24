@@ -17,7 +17,13 @@
 		"BepInEx/config/com.servph.vocalPlayer.cfg",
 		{
 			"enabled": false,
-			"path": "user/mods"
+			"path": "user/mods",
+			"restartRequired": false
+		},
+		{ 
+			"path": "ModSync.Updater.exe",
+			"enforced": true,
+			"restartRequired": false
 		}
 	],
 	"commonModExclusions": [
