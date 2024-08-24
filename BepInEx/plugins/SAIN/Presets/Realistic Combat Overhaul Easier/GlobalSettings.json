@@ -353,7 +353,7 @@
       },
       "Pose": {
         "Description": "Scales vision speed based on the pose of their enemy. Only applies to Non-AI targets.",
-        "Enabled": false,
+        "Enabled": true,
         "PRONE_VISION_SPEED_COEF": 1.75,
         "DUCK_VISION_SPEED_COEF": 1.25
       },
@@ -411,7 +411,7 @@
     "SneakyBots": true,
     "OnlySneakyPersonalitiesSneaky": true,
     "MaximumDistanceToBeSneaky": 80.0,
-    "MaxSuppressionDistance": 5.0,
+    "MaxSuppressionDistance": 10.0,
     "MaxUnderFireDistance": 2.0
   },
   "Move": {
