@@ -1,0 +1,107 @@
+{
+	"cloneOrigin": "60098b1705871270cd5352a1",
+	"id": "multivitamin_drink",
+	"fleaPrice": 60000,
+	"handBookPrice": 60000,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.4,
+	"MaxResource": 1,
+	"hpResourceRate": 0,
+	"BackgroundColor": "green",
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 1600,
+			"SkillName": "",
+			"Value": 0.1
+		  },
+		  {
+			"AbsoluteValue": true,
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 1600,
+			"SkillName": "",
+			"Value": 0.085
+		  },
+		  {
+			"AbsoluteValue": true,
+			"BuffType": "MaxStamina",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 1800,
+			"SkillName": "",
+			"Value": 10
+		  }
+	],
+	"locales": {
+		"en": {
+			"name": "Squeezable multivitamin drink",
+			"shortName": "''Caprisun''",
+			"description": "A Tarkov-produced drink composed of dilluted various fruit juices and caffeine aimed to reinvigorate body and give it all neccessary vitamins. It's packaged in a squeezable packet and is designed to be drunk all at once. It tastes faintly of tangerines."
+		}
+	},
+
+	"trader": {
+		"traderId": "5c0647fdd443bc2504c2d371",
+		"loyaltyReq": 2,
+		"price": 75000,
+		"amountForSale": 12
+	},
+
+	"craft": {
+		"_id": "multivitamin_drink_craft",
+		"areaType": 8,
+		"requirements": [
+			{
+				"areaType": 8,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "5d1b39a386f774252339976f",
+				"type": "Tool"
+			},
+			{
+				"templateId": "5448fee04bdc2dbc018b4567",
+				"count": 3,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "57513fcc24597720a31c09a6",
+				"count": 3,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5af0484c86f7740f02001f7f",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5e2af29386f7746d4159f077",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 400,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "multivitamin_drink",
+		"continuous": false,
+		"count": 9,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

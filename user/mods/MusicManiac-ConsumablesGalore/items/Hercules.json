@@ -1,0 +1,122 @@
+{
+	"cloneOrigin": "575062b524597720a31c09a1",
+	"id": "hercules_drink",
+	"fleaPrice": 32000,
+	"handBookPrice": 32000,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.4,
+	"MaxResource": 1,
+	"BackgroundColor": "violet",
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 400,
+			"SkillName": "Strength",
+			"Value": 20
+		  },
+		  {
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 400,
+			"Value": 0.4,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 400,
+			"SkillName": "",
+			"Value": 0.2
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 20,
+			"SkillName": "",
+			"Value": 0.05
+		} ,
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"SkillName": "",
+			"Value": -0.01
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"Value": -0.1,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		} 
+	],
+	"locales": {
+		"en": {
+			"name": "Can of ''Hercules'' booster drink",
+			"shortName": "Hercules",
+			"description": "The main component of this product is an anabolic androgen, an artificial steroid, the chemical composition of which resembles testosterone. Often used by ''stalkers'' during long raids to reduce muscle fatigue. Significantly increases weight-carrying capacity. Old cans of various drinks have been repurposed to hold this makeshift ''steroid''. The effects of the drug are long-lasting."
+		}
+	},
+
+	"trader": {
+		"traderId": "5c0647fdd443bc2504c2d371",
+		"loyaltyReq": 1,
+		"price": 64700,
+		"amountForSale": 20
+	},
+
+	"craft": {
+		"_id": "hercules_drink_craft",
+		"areaType": 8,
+		"requirements": [
+			{
+				"areaType": 8,
+				"requiredLevel": 1,
+				"type": "Area"
+			},
+			{
+				"templateId": "5751496424597720a27126da",
+				"count": 3,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5c10c8fd86f7743d7d706df3",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "59e3577886f774176a362503",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 250,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "hercules_drink",
+		"continuous": false,
+		"count": 3,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

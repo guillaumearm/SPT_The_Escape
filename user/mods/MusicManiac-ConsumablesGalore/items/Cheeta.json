@@ -1,0 +1,96 @@
+{
+	"cloneOrigin": "5c10c8fd86f7743d7d706df3",
+	"id": "cheeta_stim",
+	"fleaPrice": 80000,
+	"handBookPrice": 90000,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+	"Buffs": [
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"Value": 70,
+			"AbsoluteValue": true,
+			"SkillName": "Strength"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"Value": 70,
+			"AbsoluteValue": true,
+			"SkillName": "Endurance"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 70,
+			"AbsoluteValue": true,
+			"SkillName": "MagDrills"
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 150,
+			"Duration": 180,
+			"Value": -1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 150,
+			"Duration": 180,
+			"Value": -1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 150,
+			"Duration": 150,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 150,
+			"Duration": 150,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "SR3D-CHEETA Injector",
+			"shortName": "CHEETA",
+			"description": "This is a prototype stim that has adrenaline and steroids that helps the recovery of stamina, and boosts your natural abilities. It is manufactured by the SR3D company."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 100000,
+		"amountForSale": 10
+	}
+}

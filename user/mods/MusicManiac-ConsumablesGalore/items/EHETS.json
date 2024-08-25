@@ -1,0 +1,69 @@
+{
+	"cloneOrigin": "5ed51652f6c34d2cc26336a1",
+	"id": "ehets_stim",
+	"fleaPrice": 80000,
+	"handBookPrice": 90000,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+	"Buffs": [
+		{
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 1.25,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "DamageModifier",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 0.09,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": -0.4,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 30,
+			"Duration": 900,
+			"Value": -0.3,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "SR3D-E.H.E.T.S. Injector",
+			"shortName": "E.H.E.T.S.",
+			"description": "A combat load bearing stimulant injector. This massively increases your maximum carry weight, endurance and stamina by rapidly burning more calories. It is manufactured by the SR3D company."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 100000,
+		"amountForSale": 10
+	}
+}

@@ -1,0 +1,121 @@
+{
+	"cloneOrigin": "5ed515ece452db0eb56fc028",
+	"id": "Nic_Stim",
+	"fleaPrice": 0.7,
+	"handBookPrice": 0.7,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 1,
+	"MaxHpResource": 2,
+	"Effects_Damage": {
+		"Contusion": {
+			"delay": 0,
+			"duration": 240,
+			"fadeOut": 0
+		},
+		"Pain": {
+			"delay": 0,
+			"duration": 240,
+			"fadeOut": 0
+		}
+	},
+	"Buffs": [
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 350,
+			"Value": -0.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 60,
+			"SkillName": "",
+			"Value": 2
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 300,
+			"SkillName": "Attention",
+			"Value": 35
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 240,
+			"Duration": 360,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 240,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "Pain",
+			"Chance": 1,
+			"Delay": 240,
+			"Duration": 240,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 240,
+			"SkillName": "Strength",
+			"Value": 10
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 0,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+            "AbsoluteValue": false,
+            "AppliesTo": ["Head"],
+            "BuffType": "Contusion",
+            "Chance": 1,
+            "Delay": 240,
+            "Duration": 240,
+            "SkillName": "",
+            "Value": 1
+        }
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Nicotine Stimulant",
+			"shortName": "NicStim",
+			"description": "This Nicotine injector is great and keeping you hyper focused and ready for battle, while also slowly killing you. (WARNING CONTAINS ADDICTIVE SUBSTANCES)"
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 1,
+		"price": 10000,
+		"amountForSale": 8
+	}
+}

@@ -1,0 +1,109 @@
+{
+	"cloneOrigin": "5ed51652f6c34d2cc26336a1",
+	"id": "elephant_stim",
+	"fleaPrice": 190000,
+	"handBookPrice": 200000,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+	"Buffs": [
+		{
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 1.75,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "DamageModifier",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 0.09,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": -0.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 30,
+			"Duration": 900,
+			"Value": -0.3,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "Elephant Injector",
+			"shortName": "Elephant",
+			"description": "A crazy mix of M.U.L.E. stimulant injector and SR3D-E.H.E.T.S. Injector, which effectively combines effects of 2 stims together."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 195000,
+		"amountForSale": 10
+	},
+	"craft": {
+		"_id": "elephant_stim_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 3,
+				"type": "Area"
+			},
+			{
+				"templateId": "5ed51652f6c34d2cc26336a1",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "ehets_stim",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5d1b3a5d86f774252167ba22",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 10400,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "elephant_stim",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

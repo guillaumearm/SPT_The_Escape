@@ -60,6 +60,8 @@
 - [All The Clothes](https://hub.sp-tarkov.com/files/file/740-all-the-clothes)
 - [Gilded Key Storage](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/)
 - [Practical Tactical 1.3](https://hub.sp-tarkov.com/files/file/2242-practical-tactical/#overview)
+- [Consumables Galore 1.3.0](https://hub.sp-tarkov.com/files/file/1725-consumables-galore/)
+- [Realistic Stims 1.9.0](https://hub.sp-tarkov.com/files/file/1889-realistic-stims/)
 
 ## Traders & Quests
 

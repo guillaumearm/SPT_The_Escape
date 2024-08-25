@@ -1,0 +1,144 @@
+{
+	"cloneOrigin": "5ed5166ad380ab312177c100",
+	"id": "obdolbos_v13.0",
+	"fleaPrice": 1.6,
+	"handBookPrice": "asOriginal",
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 1,
+	"Buffs": [
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 0.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 10,
+			"AbsoluteValue": true,
+			"SkillName": "Endurance"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 10,
+			"AbsoluteValue": true,
+			"SkillName": "Strength"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 20,
+			"AbsoluteValue": true,
+			"SkillName": "StressResistance"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 20,
+			"AbsoluteValue": true,
+			"SkillName": "Charisma"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": -20,
+			"AbsoluteValue": true,
+			"SkillName": "Memory"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": -20,
+			"AbsoluteValue": true,
+			"SkillName": "Intellect"
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": -20,
+			"AbsoluteValue": true,
+			"SkillName": "Attention"
+		},
+		{
+			"BuffType": "Pain",
+			"Chance": 0.25,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 0,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StomachBloodloss",
+			"Chance": 0.25,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 0,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 0.25,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": -0.05,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 0.25,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": -0.05,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "DamageModifier",
+			"Chance": 0.25,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 0.2,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "QuantumTunnelling",
+			"Chance": 0.25,
+			"Delay": 1,
+			"Duration": 1800,
+			"Value": 0,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "\"Obdolbos v13\" Injector",
+			"shortName": "\"Obd v13\"",
+			"description": "A syringe with an old formula homemade drug, authored by a former employee of TerraGroup Labs. The negative effects are different each time. You could take the risk, got nothing to lose anyway."
+		}
+	}
+}

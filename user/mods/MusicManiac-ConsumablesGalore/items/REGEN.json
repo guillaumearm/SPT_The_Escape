@@ -1,0 +1,114 @@
+{
+	"cloneOrigin": "5c0e534186f7747fa1419867",
+	"id": "regen_stim",
+	"fleaPrice": 1.3,
+	"handBookPrice": 1.3,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+	"Buffs": [
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 8.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "RemoveAllBloodLosses",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 60,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Antidote",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "StressResistance"
+		  },
+		  {
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "Vitality"
+		  },
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 90,
+			"Value": -3.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 90,
+			"Value": -3.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 30,
+			"Duration": 120,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 30,
+			"Duration": 120,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "SR3D-REGEN Injector",
+			"shortName": "REGEN",
+			"description": "A combat revitalization stimulant injector that restores health and stamina, stops bleeding and shortly stops pain. It is manufactured by the SR3D company."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 45000,
+		"amountForSale": 10
+	}
+}

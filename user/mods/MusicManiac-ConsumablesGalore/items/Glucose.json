@@ -1,0 +1,126 @@
+{
+	"cloneOrigin": "544fb3f34bdc2d03748b456a",
+	"id": "glucose_stim",
+	"fleaPrice": 49500,
+	"handBookPrice": 49500,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.3,
+	"MaxResource": 1,
+	"BackgroundColor": "blue",
+	"effects_damage": {
+		"Pain": {
+			"delay": 2,
+			"duration": 20,
+			"fadeOut": 10
+		  }
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 240,
+			"SkillName": "Vitality",
+			"Value": 20
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 4,
+			"Duration": 3,
+			"SkillName": "",
+			"Value": 12.0
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 7,
+			"Duration": 233,
+			"SkillName": "",
+			"Value": 5
+		  },
+		  {
+			  "AbsoluteValue": true,
+			  "BuffType": "HydrationRate",
+			  "Chance": 1,
+			  "Delay": 1,
+			  "Duration": 100.0,
+			  "SkillName": "",
+			  "Value": 0.01
+		  },
+		{
+			"AbsoluteValue": false,
+			"AppliesTo": ["Head"],
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 3,
+			"SkillName": "",
+			"Value": 1
+		  }
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Glucose disposable injector",
+			"shortName": "Glucose",
+			"description": "Glucose shots are used in cases of severe diabetic hypoglycaemia, but can also be employed as a stimulant. Instant induction of carbohydrates entails a rapid boost of energy, thus allowing the user to undertake increased physical effort and withstand stress. Due to its convenient means of administration, they can be used in combat situations. This makes glucose shot a very good way to speed-up the healing process."
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 1,
+		"price": 32000,
+		"amountForSale": 8
+	},
+
+	"craft": {
+		"_id": "glucose_stim_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 1,
+				"type": "Area"
+			},
+			{
+				"templateId": "5d1b39a386f774252339976f",
+				"type": "Tool"
+			},
+			{
+				"templateId": "59e3577886f774176a362503",
+				"count": 3,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5d1b3f2d86f774253763b735",
+				"count": 6,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "59e3606886f77417674759a5",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 650,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "glucose_stim",
+		"continuous": false,
+		"count": 6,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

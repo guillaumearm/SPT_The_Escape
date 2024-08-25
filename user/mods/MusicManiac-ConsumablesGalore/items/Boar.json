@@ -1,0 +1,78 @@
+{
+	"cloneOrigin": "5ed51652f6c34d2cc26336a1",
+	"id": "boar_stim",
+	"fleaPrice": 470000,
+	"handBookPrice": 285000,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.4,
+	"MaxResource": 0,
+	"BackgroundColor": "yellow",
+	"effects_damage": {
+		"Fracture": {
+			"delay": 10,
+			"duration": 0,
+			"fadeOut": 0
+		}
+	},
+	"Buffs": [
+		{
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 700,
+			"Value": 1.5,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "DamageModifier",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 700,
+			"Value": 0.09,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 700,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": -0.1,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"SkillName": "",
+			"Value": -0.01
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "''Boar'' Injector",
+			"shortName": "''Boar''",
+			"description": "A crazy mix of M.U.L.E. stimulant injector and the long-discontinued SR3D-E.H.E.T.S. Injector, which effectively combines effects of 2 stims together."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 3,
+		"price": 285000,
+		"amountForSale": 16
+	}
+}

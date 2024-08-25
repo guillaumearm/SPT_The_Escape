@@ -1,0 +1,72 @@
+{
+	"cloneOrigin": "57347da92459774491567cf5",
+	"id": "cookedtushonka_l",
+	"fleaPrice": 1.1,
+	"handBookPrice": 1.1,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.1,
+	"BackgroundColor": "green",
+	"Buffs": [
+		  {
+			"AbsoluteValue": true,
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 3,
+			"Duration": 400,
+			"SkillName": "",
+			"Value": 0.465
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 320,
+			"SkillName": "Strength",
+			"Value": 3
+		  }
+	],
+	"locales": {
+		"en": {
+			"name": "Cooked can of beef stew (Large)",
+			"shortName": "Warm Stew",
+			"description": "A large amount of canned beef stew, commonly referred to as ''tushonka'', can be stored for years, thus rivaling condensed milk in importance as a food supply for both military and tourists. It has been cooked while still sealed, making the meat boil in it's nutritious fats. Be careful when opening!"
+		}
+	},
+
+	"craft": {
+		"_id": "cookedtushonka_l_craft",
+		"areaType": 5,
+		"requirements": [
+			{
+				"areaType": 5,
+				"requiredLevel": 1,
+				"type": "Area"
+			},
+			{
+				"templateId": "57347b8b24597737dd42e192",
+				"type": "Tool"
+			},
+			{
+				"templateId": "5d1b36a186f7742523398433",
+				"type": "Tool"
+			},
+			{
+				"templateId": "57347da92459774491567cf5",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 3600,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "cookedtushonka_l",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

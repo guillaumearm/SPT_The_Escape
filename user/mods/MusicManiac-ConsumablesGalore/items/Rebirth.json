@@ -1,0 +1,173 @@
+{
+	"cloneOrigin": "5c0e533786f7747fa23f4d47",
+	"id": "rebirth_stim",
+	"fleaPrice": 13000000,
+	"handBookPrice": 1300000,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.1,
+	"MaxResource": 1,
+	"BackgroundColor": "black",
+	"effects_damage": {
+		"Pain": {
+			"delay": 0,
+			"duration": 60,
+			"fadeOut": 10
+		  }
+	},
+	"effects_health": {
+        "Hydration": {
+          "value": -50
+        },
+		"Energy": {
+			"value": -50
+		}
+    },
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"SkillName": "Vitality",
+			"Value": -20
+		  },
+		{
+			"AbsoluteValue": false,
+			"AppliesTo": ["Head","Hands","Feet"],
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 40,
+			"SkillName": "",
+			"Value": 1
+		  },
+		  {
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 20,
+			"SkillName": "",
+			"Value": 20
+		  }, 
+		  {
+			"AbsoluteValue": true,
+			"BuffType": "Antidote",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"SkillName": "",
+			"Value": 0
+		  },
+		  {
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"SkillName": "MagDrills",
+			"Value": 30
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"SkillName": "StressResistance",
+			"Value": 30
+		  },
+		  {
+            "AbsoluteValue": true,
+            "BuffType": "EnergyRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 100.0,
+            "SkillName": "",
+            "Value": 0.05
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "HydrationRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 100.0,
+            "SkillName": "",
+            "Value": 0.05
+        }
+		
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Axyltallisal ''The Rebirth''",
+			"shortName": "Rebirth",
+			"description": "Warning! Do not use in combination with any other drug as this may prove lethal. This powerful mixture contained in a small syringe will make you temporarily lose your connection with reality. It is widely known as the ''miracle drug'', as it's regenerative capabilities are unmatched by anything known to medicine worldwide. This highly experimental drug's background and source is unknown, but it's widely speculated that it's made by the cultist in the Tarkov area. How they made it so potent and powerful? No one knows."
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 2600000,
+		"amountForSale": 1
+	},
+
+	"craft": {
+		"_id": "rebirth_stim_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 3,
+				"type": "Area"
+			},
+			{
+				"templateId": "5d1b2f3f86f774252167a52c",
+				"type": "Tool"
+			},
+			{
+				"templateId": "6389c6c7dbfd5e4b95197e68",
+				"type": "Tool"
+			},
+			{
+				"templateId": "5d1b3f2d86f774253763b735",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5ed5166ad380ab312177c100",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "637b60c3b7afa97bfc3d7001",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5af0548586f7743a532b7e99",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 650,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "rebirth_stim",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

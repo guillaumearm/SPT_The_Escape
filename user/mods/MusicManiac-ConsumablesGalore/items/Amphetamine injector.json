@@ -1,0 +1,118 @@
+{
+	"cloneOrigin": "637b60c3b7afa97bfc3d7001",
+	"id": "Amphetamine_stim",
+	"fleaPrice": 0.2,
+	"handBookPrice": 0.2,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+    "BackgroundColor": "blue",
+	"Effects_Damage": {
+		"Contusion": {
+			"delay": 10,
+			"duration": 0,
+			"fadeOut": 0
+		},
+		"Pain": {
+			"delay": 10,
+			"duration": 0,
+			"fadeOut": 0
+		}
+	},
+	"Buffs": [
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 360,
+			"Value": 40,
+			"AbsoluteValue": true,
+			"SkillName": "StressResistance"
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 120,
+			"Value": 5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		  },
+		  {
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 360,
+			"Value": 40,
+			"AbsoluteValue": true,
+			"SkillName": "Vitality"
+		  },
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 90,
+			"Value": -3,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 90,
+			"Value": 40,
+			"AbsoluteValue": true,
+			"SkillName": "Attention"
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 10,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 999,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+                {
+            "BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 5,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"Value": -0.01,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "Amphetamine Injector",
+			"shortName": "AMP Stim",
+			"description": "This is the same drug used to treat ADHD, its affects strengthen the mind and make your reflexes super sharp. Although it has some minor problems."
+		}
+	},
+	"trader": {
+		"traderId": "579dc571d53a0658a154fbec",
+		"loyaltyReq": 2,
+		"price": 10000,
+		"amountForSale": 5
+	}
+}

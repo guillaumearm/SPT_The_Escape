@@ -1,0 +1,144 @@
+{
+	"cloneOrigin": "5ed515e03a40a50460332579",
+	"id": "bbloodshot_stim",
+	"fleaPrice": 10000,
+	"handBookPrice": 10000,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+        "BackgroundColor": "red",
+	"Buffs": [
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"Value": 2.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "StressResistance"
+		  },
+		  {
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "Vitality"
+		  },
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 240,
+			"Duration": 90,
+			"Value": -2.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 240,
+			"Duration": 90,
+			"Value": -2.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 15,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "BodyTemperature",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 0,
+			"Value": 35,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 30,
+			"Duration": 120,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "Big Blood Shot",
+			"shortName": "BBS",
+			"description": "This will fuck you up, but with maximum blood regeneration so will you. It is manufactured by the SR3D company."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 2,
+		"price": 20000,
+		"amountForSale": 10
+	},
+
+	"craft": {
+		"_id": "bbloodshot_stim",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "590c695186f7741e566b64a2",
+				"type": "Item"
+			},
+			{
+				"templateId": "5d1b3f2d86f774253763b735",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5b4335ba86f7744d2837a264",
+				"count": 3,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 500,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "bbloodshot_stim",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}
