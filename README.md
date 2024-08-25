@@ -56,6 +56,7 @@
 - [Moxopixels's RedCore](https://hub.sp-tarkov.com/files/file/2183-redcore-reupload-and-ported/)
 - [Moxopixel's SandCore](https://hub.sp-tarkov.com/files/file/1379-sandcore-fde-retextures/)
 - [Moxopixel's WhiteCore](https://hub.sp-tarkov.com/files/file/1313-whitecore/)
+- [Moxopixel's War Heads](https://hub.sp-tarkov.com/files/file/1796-war-heads/)
 - [All The Clothes](https://hub.sp-tarkov.com/files/file/740-all-the-clothes)
 - [Gilded Key Storage](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/)
 - [Practical Tactical 1.3](https://hub.sp-tarkov.com/files/file/2242-practical-tactical/#overview)
@@ -108,7 +109,7 @@
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
 - [Realism Stance Replication](https://github.com/space-commits/Realism-Stance-Replication/releases/tag/v1.0.1) (for fika sync)
 - [devilflippy-hideout_rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
-- [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases) 
+- [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases)
 
 # Tools
 
