@@ -57,6 +57,7 @@
 - [Moxopixel's SandCore](https://hub.sp-tarkov.com/files/file/1379-sandcore-fde-retextures/)
 - [Moxopixel's WhiteCore](https://hub.sp-tarkov.com/files/file/1313-whitecore/)
 - [Moxopixel's War Heads](https://hub.sp-tarkov.com/files/file/1796-war-heads/)
+- [WTT - Head and Voice Selector](https://hub.sp-tarkov.com/files/file/1788-wtt-head-and-voice-selector/)
 - [All The Clothes](https://hub.sp-tarkov.com/files/file/740-all-the-clothes)
 - [Gilded Key Storage](https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/)
 - [Practical Tactical 1.3](https://hub.sp-tarkov.com/files/file/2242-practical-tactical/#overview)
