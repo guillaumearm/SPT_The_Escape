@@ -1,0 +1,130 @@
+{
+	"cloneOrigin": "544fb37f4bdc2dee738b4567",
+	"id": "vinca_pills",
+	"fleaPrice": 23500,
+	"handBookPrice": 16750,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.4,
+	"MaxResource": 5,
+	"BackgroundColor": "blue",
+	"effects_damage": {
+		"Pain": {
+			"delay": 0,
+			"duration": 60,
+			"fadeOut": 10
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "RemoveAllBloodLosses",
+			"Chance": 1,
+			"Delay": 15,
+			"Duration": 25,
+			"SkillName": "",
+			"Value": 0
+		},
+		{
+			"AbsoluteValue": false,
+			"BuffType": "Pain",
+			"Chance": 0.35,
+			"Delay": 280,
+			"Duration": 120,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 180,
+			"Duration": 120,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 12,
+			"SkillName": "",
+			"Value": -0.05
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 60,
+			"SkillName": "",
+			"Value": 0.15
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"SkillName": "",
+			"Value": -0.02
+		}
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Vikasolum vitamin K supplement",
+			"shortName": "Vinca",
+			"description": "Ukrainian Vikasolum - an artificial equivalent of vitamin K. The main purpose of this drug is to increase blood coagulation speed. In great demand among ''stalkers'' who want slow-healing wounds and lacerations inflicted by shrapnel and bullets to close up faster. The effects of the drug are long-lasting. Take two tablets at a time."
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 1,
+		"price": 16750,
+		"amountForSale": 18
+	},
+
+	"craft": {
+		"_id": "vinca_pills_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 1,
+				"type": "Area"
+			},
+			{
+				"templateId": "62a0a043cf4a99369e2624a5",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "544fb37f4bdc2dee738b4567",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "59e35abd86f7741778269d82",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 800,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "vinca_pills",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

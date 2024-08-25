@@ -1,0 +1,141 @@
+{
+	"cloneOrigin": "637b620db7afa97bfc3d7009",
+	"id": "Glucose_shot",
+	"fleaPrice": 0.7,
+	"handBookPrice": 0.7,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 1,
+	"MaxHpResource": 2,
+
+	"Effects_Damage": {
+		"Contusion": {
+			"delay": 0,
+			"duration": 240,
+			"fadeOut": 0
+		},
+		"Pain": {
+			"delay": 0,
+			"duration": 240,
+			"fadeOut": 0
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "MaxStamina",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 300,
+			"SkillName": "",
+			"Value": 100
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 60,
+			"SkillName": "",
+			"Value": 2
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 300,
+			"SkillName": "Endurance",
+			"Value": 5
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 240,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 120,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 500,
+			"Value": -0.1,
+			"AbsoluteValue": true,
+			"SkillName": ""
+        },
+		{
+            "AbsoluteValue": true,
+            "BuffType": "EnergyRate",
+            "Chance": 1,
+            "Delay": 10,
+            "Duration": 100.0,
+            "SkillName": "",
+            "Value": 0.5
+        }
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Glucose Shot",
+			"shortName": "Glucose",
+			"description": "Little shot of glucose never hurt right? This small vial of glucose can be squeezed out twice to give you plenty of energy quickly, but isn't very healthy. These aren't really cheap!"
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 1,
+		"price": 50000,
+		"amountForSale": 10
+	},
+
+	"craft": {
+		"_id": "Glucose_shot",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "590c5f0d86f77413997acfab",
+				"type": "Item"
+			},
+			{
+				"templateId": "5734773724597737fd047c14",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "590c695186f7741e566b64a2",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 320,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "Glucose_shot",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"cloneOrigin": "544fb37f4bdc2dee738b4567",
+	"id": "potassiumIode_pills",
+	"fleaPrice": 1.5,
+	"handBookPrice": 1.5,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.3,
+	"MaxResource": 4,
+	"BackgroundColor": "tracerGreen",
+	"effects_damage": {
+		"RadExposure":{
+			"cost": 0,
+			"delay": 0,
+			"duration": 300,
+			"fadeOut": 0,
+			"healthPenaltyMax": 0,
+			"healthPenaltyMin": 0
+		},
+		"Pain": {
+			"delay": 0,
+			"duration": 60,
+			"fadeOut": 10
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 60,
+			"SkillName": "",
+			"Value": 0.15
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 120,
+			"SkillName": "Metabolism",
+			"Value": 20
+		},
+		{
+			"AbsoluteValue": false,
+			"AppliesTo": ["Head"],
+			"BuffType": "Pain",
+			"Chance": 1,
+			"Delay": 2,
+			"Duration": 30,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 2,
+			"Duration": 120,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"SkillName": "",
+			"Value": -0.2
+		},
+		{
+            "AbsoluteValue": true,
+            "BuffType": "EnergyRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 100.0,
+            "SkillName": "",
+            "Value": 0.01
+        }
+		
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Potassium iodide",
+			"shortName": "Zyelyonka",
+			"description": "An imported pharmacological compound, used in the Chornobyl Exclusion Zone as a cheap means of countering the effects of radiation on the body. Causes numerous side effects, notably gastrointestinal tract blistering, numbness to pain and dysfunction of the thyroid gland."
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 1,
+		"price": 19750,
+		"amountForSale": 16
+	},
+
+	"craft": {
+		"_id": "potassiumIode_pills_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "5d1b3a5d86f774252167ba22",
+				"type": "Tool"
+			},
+			{
+				"templateId": "59e361e886f774176c10a2a5",
+				"type": "Tool"
+			},
+			{
+				"templateId": "5755356824597772cb798962",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "544fb37f4bdc2dee738b4567",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+			
+		],
+		"productionTime": 210,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "potassiumIode_pills",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

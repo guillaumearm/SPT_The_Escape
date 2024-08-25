@@ -1,0 +1,149 @@
+{
+	"cloneOrigin": "5c10c8fd86f7743d7d706df3",
+	"id": "adrenal_plus_stim",
+	"fleaPrice": 3,
+	"handBookPrice": 3,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 1,
+	"MaxHpResource": 2,
+	"BackgroundColor": "red",
+	"Effects_Damage": {
+		"Contusion": {
+			"delay": 0,
+			"duration": 110,
+			"fadeOut": 20
+		},
+		"Pain": {
+			"delay": 0,
+			"duration": 30,
+			"fadeOut": 20
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "MaxStamina",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 300,
+			"SkillName": "",
+			"Value": 20
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 40,
+			"SkillName": "",
+			"Value": 2.2
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 300,
+			"SkillName": "Endurance",
+			"Value": 10
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HandsTremor",
+			"Chance": 0.33,
+			"Delay": 300,
+			"Duration": 80,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 0.33,
+			"Delay": 300,
+			"Duration": 80,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+            "AbsoluteValue": false,
+            "AppliesTo": ["Head"],
+            "BuffType": "Contusion",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 8,
+            "SkillName": "",
+            "Value": 1
+        },
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"Value": -0.1,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Tarkov-made Adrenaline injector",
+			"shortName": "Adren++",
+			"description": "A sterile disposable syringe with a dose of adrenaline - the main hormone of the adrenal medulla. It is used to enhance the physiological response associated with the preparation of all muscles to increased activity. It has been improved by makeshift infusion of caffeine and vitamin supplements to enhance the ''kick'' of the adrenaline. Temporarily boosts strength and endurance. Relieves the sensation of pain. Original formula by Riisn"
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 3,
+		"price": 70000,
+		"amountForSale": 8
+	},
+
+	"craft": {
+		"_id": "adrenal_stim_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "5d1b39a386f774252339976f",
+				"type": "Tool"
+			},
+			{
+				"templateId": "5c10c8fd86f7743d7d706df3",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5751496424597720a27126da",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5d1b3a5d86f774252167ba22",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 1300,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "adrenal_plus_stim",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

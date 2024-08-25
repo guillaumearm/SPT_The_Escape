@@ -1,0 +1,117 @@
+{
+	"cloneOrigin": "5c0fa877d174af02a012e1cf",
+	"id": "milkthermos_stim",
+	"fleaPrice": 1.3,
+	"handBookPrice": 1.3,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.1,
+	"MaxResource": 1,
+	"BackgroundColor": "green",
+	"effects_damage": {
+	},
+
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 3,
+			"Duration": 600,
+			"SkillName": "Immunity",
+			"Value": 1
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 3,
+			"Duration": 600,
+			"SkillName": "Metabolism",
+			"Value": 5
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"SkillName": "",
+			"Value": 0.12
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"SkillName": "",
+			"Value": 0.12
+		  },
+		  {
+			  "AbsoluteValue": true,
+			  "BuffType": "StaminaRate",
+			  "Chance": 1,
+			  "Delay": 50,
+			  "Duration": 300,
+			  "SkillName": "",
+			  "Value": 0.175
+		  },
+		  {
+			  "AbsoluteValue": true,
+			  "BuffType": "MaxStamina",
+			  "Chance": 1,
+			  "Delay": 50,
+			  "Duration": 300,
+			  "SkillName": "",
+			  "Value": 10
+		  }
+	],
+	"locales": {
+		"en": {
+			"name": "Thermos with milk",
+			"shortName": "WarmMilk",
+			"description": "A repurposed Aquamari bottle to serve as a thermos, filled with warm milk. Extremely cozy and uplifting drink, epsecially in lower temperatures."
+		}
+	},
+
+	"craft": {
+		"_id": "milkthermos_craft",
+		"areaType": 8,
+		"requirements": [
+			{
+				"areaType": 8,
+				"requiredLevel": 1,
+				"type": "Area"
+			},
+			{
+				"templateId": "57347b8b24597737dd42e192",
+				"type": "Tool"
+			},
+			{
+				"templateId": "5c0fa877d174af02a012e1cf",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "575146b724597720a27126d5",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+
+			
+		],
+		"productionTime": 80,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "milkthermos_stim",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

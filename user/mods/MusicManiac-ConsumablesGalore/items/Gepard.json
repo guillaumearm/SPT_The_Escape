@@ -1,0 +1,159 @@
+{
+	"cloneOrigin": "5ed515e03a40a50460332579",
+	"id": "gepard_stim",
+	"fleaPrice": 78300,
+	"handBookPrice": 78300,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.4,
+	"MaxResource": 1,
+	"BackgroundColor": "red",
+	"effects_damage": {
+		"Pain": {
+			"delay": 1,
+			"duration": 120
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": false,
+			"AppliesTo": ["Head"],
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 8,
+			"SkillName": "",
+			"Value": 1
+		},
+		{
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 100,
+			"Value": 250,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "DamageModifier",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 100,
+			"Value": 0.2,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "MaxStamina",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 200,
+			"SkillName": "",
+			"Value": 30
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 200,
+			"Value": 4,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 30,
+			"Duration": 100,
+			"Value": -0.15,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+        {
+            "AbsoluteValue": true,
+            "BuffType": "HydrationRate",
+            "Chance": 1,
+            "Delay": 30,
+            "Duration": 100,
+            "SkillName": "",
+            "Value": 0.04
+        },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 200,
+			"SkillName": "",
+			"Value": -0.01
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 0.05,
+			"Delay": 180,
+			"Duration": 6,
+			"SkillName": "",
+			"Value": -1600
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "''Gepard'' Injector",
+			"shortName": "''Gepard''",
+			"description": "A disposable syringe with a dose of Tarkov-made adrenaline used to enhance the physiological response associated with the preparation of all muscles to increased activity. It has been further improved by makeshift infusion of various chemicals to enhance the effects, sacrificing it's stability and safety of usage. Temporarily boosts strength and endurance. Relieves the sensation of pain. WARNING! Using while extremely fatigued or wounded may cause heart failures."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 3,
+		"price": 65750,
+		"amountForSale": 6
+	},
+
+	"craft": {
+		"_id": "gepard_stim_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "5d1b39a386f774252339976f",
+				"type": "Tool"
+			},
+			{
+				"templateId": "adrenal_plus_stim",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5751496424597720a27126da",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "59e3556c86f7741776641ac2",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 1700,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "gepard_stim",
+		"continuous": false,
+		"count": 2,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"cloneOrigin": "5af0548586f7743a532b7e99",
+	"id": "yadulin_pills",
+	"fleaPrice": 79500,
+	"handBookPrice": 11500,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.2,
+	"MaxResource": 6,
+	"hpResourceRate": 0,
+	"BackgroundColor": "blue",
+	"effects_damage": {
+		"Pain": {
+			"delay": 0,
+			"duration": 100,
+			"fadeOut": 20
+		},
+		"Contusion": {
+			"delay": 0,
+			"duration": 0,
+			"fadeOut": 0
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 15,
+			"Duration": 300,
+			"SkillName": "Strength",
+			"Value": 15
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 15,
+			"Duration": 300,
+			"SkillName": "Intellect",
+			"Value": -10
+		  },
+		{
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 15,
+            "Duration": 180,
+            "SkillName": "StressResistance",
+            "Value": 10
+         },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 15,
+			"Duration": 100,
+			"SkillName": "",
+			"Value": 0.3
+		 },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 45,
+			"Duration": 180,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": false,
+			"AppliesTo": ["Head"],
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 15,
+			"Duration": 10,
+			"SkillName": "",
+			"Value": 1
+		  },
+		  {
+			  "AbsoluteValue": true,
+			  "BuffType": "HydrationRate",
+			  "Chance": 1,
+			  "Delay": 15,
+			  "Duration": 100,
+			  "SkillName": "",
+			  "Value": -0.02
+		  },
+		  {
+			  "BuffType": "EnergyRate",
+			  "Chance": 1,
+			  "Delay": 15,
+			  "Duration": 100,
+			  "Value": -0.1,
+			  "AbsoluteValue": true,
+			  "SkillName": ""
+		  }
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "Bottle of Yadulin",
+			"shortName": "Yadulin",
+			"description": "A semi-drug based on morphine. It allows the user to quickly dull pain and increase production of adrenaline, aiding the user in withstanding even the most intense battles. It is popular among ''stalkers'', often used as a recreative drug among criminal groups, and is allegedly being supplied to the Raiders."
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 2,
+		"price": 56750,
+		"amountForSale": 5
+	},
+
+	"craft": {
+		"_id": "yadulin_pills_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 2,
+				"type": "Area"
+			},
+			{
+				"templateId": "544fb3f34bdc2d03748b456a",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "59e3606886f77417674759a5",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5755356824597772cb798962",
+				"count": 3,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "62a09ee4cf4a99369e262453",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 925,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "yadulin_pills",
+		"continuous": false,
+		"count": 2,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"cloneOrigin": "5c0e533786f7747fa23f4d47",
+	"id": "cocaine_stim",
+	"fleaPrice": 30000,
+	"handBookPrice": 30000,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+	"Buffs": [
+		{
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 1000,
+			"Value": 1.5,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 900,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 1000,
+			"Duration": 120,
+			"Value": 1,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},{
+			"BuffType": "WeightLimit",
+			"Chance": 1,
+			"Delay": 1000,
+			"Duration": 300,
+			"Value": -1.5,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1000,
+			"Duration": 300,
+			"Value": -2,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "C.L.I.T",
+			"shortName": "C.L.I.T",
+			"description": "Cocaine Liquid Injector Treatment aka C.L.I.T uses a brand new form of the drug cocaine, this new injector has got drug addicts excited as they now can jam more drugs easier. But in the right hands this stimulant can make the user very hyper."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 2,
+		"price": 35000,
+		"amountForSale": 10
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"cloneOrigin": "637b612fb7afa97bfc3d7005",
+	"id": "salnrg_stim",
+	"fleaPrice": 1.3,
+	"handBookPrice": 1.3,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+	"Buffs": [
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 300,
+			"Value": 1.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 150,
+			"Duration": 300,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "SR3D-SaL+NRG. Injector",
+			"shortName": "SaL+NRG",
+			"description": "An emergency energy recovery stimulant injector. This cocktail increases your hydration and energy. It is manufactured by the SR3D company."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 38000,
+		"amountForSale": 10
+	}
+}

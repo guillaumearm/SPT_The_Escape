@@ -1,0 +1,106 @@
+{
+	"cloneOrigin": "637b6179104668754b72f8f5",
+	"id": "radioactiveblood_stim",
+	"fleaPrice": 0.2,
+	"handBookPrice": 0.2,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+        "BackgroundColor": "green",
+	"Buffs": [
+		{
+			"BuffType": "HealthRate",
+			"Chance": 75,
+			"Delay": 10,
+			"Duration": 60,
+			"Value": 5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 120,
+			"Value": -2,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		  },
+		  {
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "Vitality"
+		  },
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 90,
+			"Value": -3,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 90,
+			"Value": -3,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 10,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "BodyTemperature",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 0,
+			"Value": 30,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "HandsTremor",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 999,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+                {
+                        "BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 60,
+			"Duration": 45,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "R.A.D",
+			"shortName": "R.A.D",
+			"description": "This hyper secretive shot of artifically created blood will make you experience migraines nonstop, and give you increased levels of radiation. Though it may be resold for a low price beware of the adverse affects. It is manufactured by a secret government?"
+		}
+	},
+	"trader": {
+		"traderId": "579dc571d53a0658a154fbec",
+		"loyaltyReq": 1,
+		"price": 15000,
+		"amountForSale": 5
+	}
+}

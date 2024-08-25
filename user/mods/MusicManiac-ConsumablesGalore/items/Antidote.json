@@ -1,0 +1,151 @@
+{
+	"cloneOrigin": "590c695186f7741e566b64a2",
+	"id": "antidote_pills",
+	"fleaPrice": 275500,
+	"handBookPrice": 380500,
+	"includeInSameQuestsAsOrigin": false,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.1,
+	"MaxResource": 2,
+	"BackgroundColor": "violet",
+	"effects_health": {
+        "Energy": {
+          "value": -10
+        }
+      },
+	"effects_damage": {
+		"Pain": {
+			"delay": 0,
+			"duration": 30,
+			"fadeOut": 20
+		}
+	},
+	"Buffs": [
+		{
+			"AbsoluteValue": true,
+			"BuffType": "UnknownToxin",
+			"Chance": 1,
+			"Delay": 2,
+			"Duration": 10,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "Antidote",
+			"Chance": 1,
+			"Delay": 10,
+			"Duration": 60,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 2,
+			"Duration": 2,
+			"SkillName": "",
+			"Value": 5
+		},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "HealthRate",
+			"Chance": 0.5,
+			"Delay": 70,
+			"Duration": 30,
+			"SkillName": "",
+			"Value": 0.5
+			},
+		{
+			"AbsoluteValue": true,
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 210,
+			"Duration": 900,
+			"SkillName": "Metabolism",
+			"Value": -5
+		  },
+		{
+			"AbsoluteValue": false,
+			"BuffType": "HandsTremor",
+			"Chance": 0.85,
+			"Delay": 30,
+			"Duration": 120,
+			"SkillName": "",
+			"Value": 0
+		  },
+		{
+			"AbsoluteValue": true,
+			"BuffType": "QuantumTunnelling",
+			"Chance": 0.85,
+			"Delay": 270,
+			"Duration": 30,
+			"SkillName": "",
+			"Value": 0
+		  }
+		  
+	],
+	"locales": {
+		"en": {
+			"name": "IP2 Antitoxin",
+			"shortName": "Antidote",
+			"description": "The IP2 antitoxin is a complex drug comprising several antidotes, including metoclopramidum, pyridoxine, thiamine, riboxin and other pharmaceuticals. The drug is used to inject a range of antibiotics to neutralise natural poisons, together with synthetic poison absorbers, into the bloodstream. IP2 is not particularly popular in Tarkov as it was never hit with any biological weapons. However, there are still those who have a few units of this antidote stashed due to the rumors of a secretive cult using unknown toxins against unaware ''stalkers''. The effects of the drug are long-lasting. Take one capsule at a time."
+		}
+	},
+
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 4,
+		"price": 416750,
+		"amountForSale": 2
+	},
+
+	"craft": {
+		"_id": "antidote_pills_craft",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 3,
+				"type": "Area"
+			},
+			{
+				"templateId": "544fb37f4bdc2dee738b4567",
+				"count": 4,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "6389c6c7dbfd5e4b95197e68",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5d1b3a5d86f774252167ba22",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5e2af02c86f7746d420957d4",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 1150,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "antidote_pills",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}

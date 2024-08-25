@@ -1,0 +1,144 @@
+{
+	"cloneOrigin": "637b612fb7afa97bfc3d7005",
+	"id": "mbloodshot_stim",
+	"fleaPrice": 0.3,
+	"handBookPrice": 0.3,
+	"includeInSameQuestsAsOrigin": true,
+	"addSpawnsInSamePlacesAsOrigin": true,
+	"spawnWeightComparedToOrigin": 0.5,
+        "BackgroundColor": "orange",
+	"Buffs": [
+		{
+			"BuffType": "HealthRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 50,
+			"Value": 3.5,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "StaminaRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 75,
+			"Value": 10,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "StressResistance"
+		  },
+		  {
+			"BuffType": "SkillRate",
+			"Chance": 1,
+			"Delay": 1,
+			"Duration": 60,
+			"Value": 25,
+			"AbsoluteValue": true,
+			"SkillName": "Vitality"
+		  },
+		{
+			"BuffType": "HydrationRate",
+			"Chance": 1,
+			"Delay": 45,
+			"Duration": 75,
+			"Value": -2,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "EnergyRate",
+			"Chance": 1,
+			"Delay": 45,
+			"Duration": 75,
+			"Value": -2,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "Contusion",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 10,
+			"Value": 1,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "BodyTemperature",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 0,
+			"Value": 25,
+			"AbsoluteValue": false,
+			"SkillName": ""
+		},
+		{
+			"BuffType": "QuantumTunnelling",
+			"Chance": 1,
+			"Delay": 0,
+			"Duration": 65,
+			"Value": 0,
+			"AbsoluteValue": true,
+			"SkillName": ""
+		}
+	],
+	"locales": {
+		"en": {
+			"name": "Mid Blood Shot",
+			"shortName": "MBS",
+			"description": "FOR EMERGENCY USE ONLY, medium shot of blood, the closest we've gotten to fast blood regeneration with minimal side effects. It is manufactured by the SR3D company."
+		}
+	},
+	"trader": {
+		"traderId": "54cb57776803fa99248b456e",
+		"loyaltyReq": 2,
+		"price": 20000,
+		"amountForSale": 10
+	},
+
+	"craft": {
+		"_id": "mbloodshot_stim",
+		"areaType": 7,
+		"requirements": [
+			{
+				"areaType": 7,
+				"requiredLevel": 1,
+				"type": "Area"
+			},
+			{
+				"templateId": "590c695186f7741e566b64a2",
+				"type": "Item"
+			},
+			{
+				"templateId": "5d1b3f2d86f774253763b735",
+				"count": 1,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			},
+			{
+				"templateId": "5b4335ba86f7744d2837a264",
+				"count": 2,
+				"isFunctional": false,
+				"isEncoded": false,
+				"type": "Item"
+			}
+		],
+		"productionTime": 260,
+		"needFuelForAllProductionTime": false,
+		"locked": false,
+		"endProduct": "mbloodshot_stim",
+		"continuous": false,
+		"count": 1,
+		"productionLimitCount": 0,
+		"isEncoded": false
+	}
+}
