@@ -455,6 +455,27 @@
         "ru": "in The HQ (at home)"
       },
       "access_via": ["MechanicStash"]
+    },
+    "Viper": {
+      "disable_warning": false,
+      "override_description": true,
+      "location_description": {
+        "ch": "in The HQ (at home)",
+        "cz": "in The HQ (at home)",
+        "en": "in The HQ (at home)",
+        "es-mx": "in The HQ (at home)",
+        "es": "in The HQ (at home)",
+        "fr": "Au QG (à la maison)",
+        "ge": "in The HQ (at home)",
+        "hu": "in The HQ (at home)",
+        "it": "in The HQ (at home)",
+        "jp": "in The HQ (at home)",
+        "kr": "in The HQ (at home)",
+        "pl": "in The HQ (at home)",
+        "po": "in The HQ (at home)",
+        "ru": "in The HQ (at home)"
+      },
+      "access_via": ["MechanicStash"]
     }
   },
   "exfiltrations": {
