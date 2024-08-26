@@ -35,7 +35,7 @@
 			"BuffType": "StaminaRate",
 			"Chance": 1,
 			"Delay": 0,
-			"Duration": 40,
+			"Duration": 400,
 			"SkillName": "",
 			"Value": 2.2
 		  },
