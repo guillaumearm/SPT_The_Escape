@@ -1,0 +1,92 @@
+{
+    "SOTR":{
+    "ItemID": "SOTR",
+    "Name": "WMX Blk",
+    "TemplateID": "59e7715586f7742ee5789605",
+    "TemplateType": "gear"    
+    },
+    "FASTSFBLK":{
+    "ItemID": "FASTSFBLK",
+    "Name": "FASTSFBLK",
+    "TemplateID": "5ac8d6885acfc400180ae7b0",
+    "TemplateType": "gear"    
+    },
+    "FASTSFMC":{
+    "ItemID": "FASTSFMC",
+    "Name": "FASTSFMC",
+    "TemplateID": "5ac8d6885acfc400180ae7b0",
+    "TemplateType": "gear"    
+    },
+    "FASTSFTAN":{
+    "ItemID": "FASTSFTAN",
+    "Name": "FASTSFTAN",
+    "TemplateID": "5ac8d6885acfc400180ae7b0",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLES":{
+    "ItemID": "STEPINGOGGLES",
+    "Name": "STEPINGOGGLES",
+    "TemplateID": "5c1a1cc52e221602b3136e3d",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLES1":{
+    "ItemID": "STEPINGOGGLES1",
+    "Name": "STEPINGOGGLES1",
+    "TemplateID": "5c1a1cc52e221602b3136e3d",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLES3":{
+    "ItemID": "STEPINGOGGLES3",
+    "Name": "STEPINGOGGLES3",
+    "TemplateID": "5c1a1cc52e221602b3136e3d",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLESBLK":{
+    "ItemID": "STEPINGOGGLESBLK",
+    "Name": "STEPINGOGGLESBLK",
+    "TemplateID": "5a16b672fcdbcb001912fa83",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLESRED":{
+    "ItemID": "STEPINGOGGLESRED",
+    "Name": "STEPINGOGGLESRED",
+    "TemplateID": "5a16b672fcdbcb001912fa83",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLESCLEAR":{
+    "ItemID": "STEPINGOGGLESCLEAR",
+    "Name": "STEPINGOGGLESCLEAR",
+    "TemplateID": "5a16b672fcdbcb001912fa83",
+    "TemplateType": "gear"    
+    },
+    "STEPINGOGGLESBRONZE":{
+    "ItemID": "STEPINGOGGLESBRONZE",
+    "Name": "STEPINGOGGLESBRONZE",
+    "TemplateID": "5a16b672fcdbcb001912fa83",
+    "TemplateType": "gear"    
+    },
+    "HELMETAMPSBLACK":{
+    "ItemID": "HELMETAMPSBLACK",
+    "Name": "HELMETAMPSBLACK",
+    "TemplateID": "5a16b9fffcdbcb0176308b34",
+    "TemplateType": "gear"    
+    },
+    "HELMETAMPSTAN":{
+    "ItemID": "HELMETAMPSTAN",
+    "Name": "HELMETAMPSTAN",
+    "TemplateID": "5a16b9fffcdbcb0176308b34",
+    "TemplateType": "gear"    
+    },
+    "HELMETAMPSTOXIC":{
+    "ItemID": "HELMETAMPSTOXIC",
+    "Name": "HELMETAMPSTOXIC",
+    "TemplateID": "5a16b9fffcdbcb0176308b34",
+    "TemplateType": "gear"    
+    },
+    "HELMETAMPSMC":{
+    "ItemID": "HELMETAMPSMC",
+    "Name": "HELMETAMPSMC",
+    "TemplateID": "5a16b9fffcdbcb0176308b34",
+    "TemplateType": "gear"    
+    }
+}
