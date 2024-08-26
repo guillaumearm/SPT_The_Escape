@@ -127,8 +127,8 @@
     },
     "tagilla": {
       "customs": 1,
-      "factory": 35,
-      "factory_night": 35,
+      "factory": 25,
+      "factory_night": 25,
       "groundzero": 1,
       "groundzero_high": 1,
       "interchange": 1,
