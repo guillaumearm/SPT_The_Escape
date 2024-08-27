@@ -1,6 +1,6 @@
 {
     "name": "PeinBetterRearSights",
-    "version": "1.0.3",
+    "version": "1.0.2",
     "sptVersion": "~3.9",
     "loadBefore": [],
     "loadAfter": [],
