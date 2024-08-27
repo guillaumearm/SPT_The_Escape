@@ -216,6 +216,33 @@
     }
   },
   {
+    "Name": "path-to-tarkov-coop",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 20,
+      "InterchangeBotLimit": 20,
+      "LaboratoryBotLimit": 20,
+      "LighthouseBotLimit": 20,
+      "ReserveBotLimit": 20,
+      "ShorelineBotLimit": 20,
+      "WoodsBotLimit": 20,
+      "CustomsBotLimit": 20,
+      "TarkovStreetsBotLimit": 20,
+      "GroundZeroBotLimit": 20
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 20,
+      "InterchangeBotLimit": 20,
+      "LaboratoryBotLimit": 20,
+      "LighthouseBotLimit": 20,
+      "ReserveBotLimit": 20,
+      "ShorelineBotLimit": 20,
+      "WoodsBotLimit": 20,
+      "CustomsBotLimit": 20,
+      "TarkovStreetsBotLimit": 20,
+      "GroundZeroBotLimit": 20
+    }
+  },
+  {
     "Name": "starting-pmcs-only-scav-raids",
   	"PMCBotLimitPresets": {
       "FactoryBotLimit": 10,

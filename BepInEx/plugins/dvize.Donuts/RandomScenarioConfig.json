@@ -34,6 +34,19 @@
     ]
   },
   {
+    "RandomScenarioConfig": "Path To Tarkov (Random)",
+    "Presets": [
+      {
+        "Name": "path-to-tarkov",
+        "Weight": 75
+      },
+      {
+        "Name": "path-to-tarkov-coop",
+        "Weight": 25
+      }
+    ]
+  },
+  {
     "RandomScenarioConfig": "A Whole Lotta SCAVs",
     "Presets": [
       {
