@@ -42,6 +42,7 @@
 - [Headshot Darkness](https://hub.sp-tarkov.com/files/file/2164-headshot-darkness/)
 - [Borkel's Bloody Bullet Wounds + Particles + Splatters](https://hub.sp-tarkov.com/files/file/1740-borkel-s-bloody-bullet-wounds-particles-splatters/)
 - [Visceral Dismemberment](https://cloud.trapcloud.fr/s/3FzQSytaLSewz28) (reupload, not on the hub)
+- [More Energy Drinks 1.0.1](https://hub.sp-tarkov.com/files/file/2305-more-energy-drinks/)
 
 ## Additional in-game content
 
@@ -63,6 +64,7 @@
 - [Practical Tactical 1.3](https://hub.sp-tarkov.com/files/file/2242-practical-tactical/#overview)
 - [Consumables Galore 1.3.0](https://hub.sp-tarkov.com/files/file/1725-consumables-galore/)
 - [Realistic Stims 1.9.0](https://hub.sp-tarkov.com/files/file/1889-realistic-stims/)
+- [Dynamic Weather & Seasons 1.0.1](https://hub.sp-tarkov.com/files/file/2135-dynamic-weather-seasons/)
 
 ## Traders & Quests
 
