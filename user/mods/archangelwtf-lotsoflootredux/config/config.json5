@@ -11,7 +11,7 @@
     //Allows the rusted key room on Streets of Tarkov to also spawn keycards
     rustedKeyRoomIncludesKeycards: false,
     //Changes the max amount of items spawned in Loose Containers, Value: 0 - 1
-    looseContainerModifier: 1,
+    looseContainerModifier: 0,
     //Changes the max amount of items spawned in Backpacks, Value: 0 - 1
     looseBackpackModifier: 1,
     //Cheaper items are more likely to spawn in containers
