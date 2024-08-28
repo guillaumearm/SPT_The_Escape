@@ -1,0 +1,65 @@
+{
+    "mod": "PreyToLive-DynamicWeatherAndSeasons-v1.0.1",
+    "modEnabled": true,
+    "consoleLogs": false,
+
+    "randomMonthEachRaid": false,
+    "monthDurationInRaids": 10,
+    "months": {
+        "january": "winter",
+        "february": "spring",
+        "march": "spring",
+        "april": "spring",
+        "may": "spring",
+        "june": "summer",
+        "july": "summer",
+        "august": "summer",
+        "september": "summer",
+        "october": "autumn",
+        "november": "autumn",
+        "december": "autumn"
+    },
+
+    "seasons": {
+        "spring": {
+            "weather": {
+                "clouds": [0,1],
+                "rain": [0,1],
+                "wind": [1,2],
+                "fog": [0],
+                "temp": [2,3],
+                "pressure": [1,2]
+            }
+        },
+        "summer": {
+            "weather": {
+                "clouds": [0],
+                "rain": [0],
+                "wind": [0,1],
+                "fog": [0],
+                "temp": [3,4],
+                "pressure": [0,1]
+            }
+        },
+        "autumn": {
+            "weather": {
+                "clouds": [2,3,4],
+                "rain": [2,3,4],
+                "wind": [0,1,2,3,4],
+                "fog": [0,1,2],
+                "temp": [1,2],
+                "pressure": [3,4]
+            }
+        },
+        "winter": {
+            "weather": {
+                "clouds": [0,1,2,3,4],
+                "rain": [0,1,2,3,4],
+                "wind": [0,1,2,3,4],
+                "fog": [0,1,2,3,4],
+                "temp": [0,1],
+                "pressure": [2,3]
+            }
+        }
+    }
+}
