@@ -88,10 +88,10 @@
     "MarkedRoomLootMultiplier": 3
   },
   "Events": {
-    "EnableWeatherOptions": true,
+    "EnableWeatherOptions": false,
     "AllSeasons": true,
     "NoWinter": false,
-    "SeasonalProgression": true,
+    "SeasonalProgression": false,
     "WinterWonderland": false,
     "RandomizedSeasonalEvents": false
   },
