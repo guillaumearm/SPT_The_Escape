@@ -36,7 +36,6 @@
     "SPT-ConfigurableStepsVolume-1.1.1",
     "Bloody-Bullet-Wounds",
     "cj-removetimegatefromquests",
-    "MoreCheckmarksBackend",
     "ServerValueModifier",
     "timmygg-expandedcases",
     "leaves-progressive_container",
@@ -57,15 +56,16 @@
     "Skwizzy-LootingBots-ServerMod",
     "DanW-SPTQuestingBots",
     "zSolarint-SAIN-ServerMod",
-    "Corter-ModSync",
     "archangelwtf-lotsoflootredux",
     "Trap-PathToTarkov",
     "Trap-BabaYaga",
     "Trap-CustomQuests",
     "StalkerOnTarkov",
     "robin-average-custom-traders-price",
+    "MoreCheckmarksBackend",
     "odt-iteminfo",
     "raid_review__0.2.0",
+    "Corter-ModSync",
     "fika-server"
   ]
 }
