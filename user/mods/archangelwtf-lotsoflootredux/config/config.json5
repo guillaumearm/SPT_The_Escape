@@ -28,18 +28,18 @@
   },
   //Loose loot multiplier, higher number = more
   looseLootMultiplier: {
-    bigmap: 2.2,
-    factory4_day: 3.8,
-    factory4_night: 3.8,
-    woods: 2.1,
-    interchange: 3.1,
-    laboratory: 4.5,
-    rezervbase: 3.2,
-    shoreline: 3.7,
-    tarkovstreets: 3,
-    lighthouse: 4.5,
-    sandbox: 3.1,
-    sandbox_high: 3.1,
+    bigmap: 2.4,
+    factory4_day: 4,
+    factory4_night: 4,
+    woods: 2.2,
+    interchange: 4,
+    laboratory: 4.7,
+    rezervbase: 3.4,
+    shoreline: 3.9,
+    tarkovstreets: 3.2,
+    lighthouse: 4.7,
+    sandbox: 3.4,
+    sandbox_high: 3.4,
   },
   //Static loot multiplier, higher number = more
   staticLootMultiplier: {
@@ -113,7 +113,7 @@
     //Graphics card
     "57347ca924597744596b4e71": 2,
     //Mechanical Key
-    "5c99f98d86f7745c314214b3": 3,
+    "5c99f98d86f7745c314214b3": 5,
     //Drink
     "5448e8d64bdc2dce718b4568": 2,
   },
