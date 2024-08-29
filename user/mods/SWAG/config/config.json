@@ -12,18 +12,18 @@
   "Spawns": {
     "useGlobalSpawnChance": true,
     "bloodhounds": {
-      "customs": 10,
-      "factory": 10,
-      "factory_night": 10,
-      "groundzero": 10,
-      "groundzero_high": 10,
-      "interchange": 10,
-      "laboratory": 10,
+      "customs": 1,
+      "factory": 5,
+      "factory_night": 5,
+      "groundzero": 5,
+      "groundzero_high": 5,
+      "interchange": 5,
+      "laboratory": 15,
       "lighthouse": 10,
-      "reserve": 10,
-      "shoreline": 10,
-      "streets": 10,
-      "woods": 10
+      "reserve": 5,
+      "shoreline": 5,
+      "streets": 5,
+      "woods": 5
     },
     "cultists": {
       "customs": 10,
