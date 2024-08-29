@@ -66,6 +66,7 @@
 - [Consumables Galore 1.3.0](https://hub.sp-tarkov.com/files/file/1725-consumables-galore/)
 - [Realistic Stims 1.9.0](https://hub.sp-tarkov.com/files/file/1889-realistic-stims/)
 - [More Energy Drinks 1.0.1](https://hub.sp-tarkov.com/files/file/2305-more-energy-drinks/)
+- [The crafter 3.0.1](https://hub.sp-tarkov.com/files/file/1659-the-crafter/#overview)
 
 ## Traders & Quests
 
