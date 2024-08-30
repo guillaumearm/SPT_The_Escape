@@ -1,5 +1,11 @@
 {
-  
+  "viper_rumor1 AFF_0": "Remettre une carte du plan de Woods",
+  "viper_rumor1 AFF_1": "Marquer la porte du bunker Scav",
+  "viper_rumor1 AFF_2": "Survivre et s'extraire",  
+  "viper_rumor1 name": "Rumeurs : Le Bunker",
+  "viper_rumor1 description": "Très bien, écoute-moi bien. J'ai besoin que tu trouves une carte détaillée de Woods. Cette carte est cruciale pour localiser un bunker caché rempli de vieilles fournitures militaires. Une fois que tu as la carte, rapporte-la-moi immédiatement. Grâce à elle, je pourrai localiser ce bunker pour que tu puisses en marquer l'entrée et mettre la main sur ces fournitures. Ne traîne pas là-bas — ça pourrait être l'opportunité qu'on attendait. Bonne chance.",
+  "viper_rumor1 successMessageText": "Malheureusement, le bunker a été vidé, et tout ce qu'on a trouvé, c'est cette vieille boîte de munitions vide. Ce n'est pas grand-chose, mais c'est déjà ça. Prends-la comme un signe de ma reconnaissance pour avoir trouvé le bunker. Chaque piste est précieuse, et ton effort est apprécié. On continuera à chercher d'autres opportunités.",
+
   "viper_theop AFF_0": "Tuer Knight d'un tir à la tête tout en étant équipé de silencieux sans mourir",
   "viper_theop AFF_1": "Tuer Big Pipe d'un tir à la tête tout en étant équipé de silencieux sans mourir",
   "viper_theop AFF_2": "Tuer Birdeye d'un tir à la tête tout en étant équipé de silencieux sans mourir",
@@ -14,11 +20,17 @@
   "vipertheop failMessageText": "Gamin ? GAMIN ! GAMIN NE MEURS PAS !", 
   "vipertheop description": "Écoute bien, soldat. Tu as le défi ultime devant toi. Ta mission est d'éliminer tous les boss de la région de Tarkov d'un seul tir à la tête en étant équipé de silencieux. Pas de bruit, pas de deuxième chance. Équipe-toi d'une arme équipé de silencieux et reste léger sur tes pieds. Déplace-toi furtivement dans leurs territoires, attends le moment parfait, et exécute un tir à la tête propre. Ta précision et ta discrétion seront tes plus grands atouts. Accomplis cette mission, et tu cimenteras ton nom parmi les meilleurs. Échoue, et tu n'auras plus jamais une autre chance. Sors d'ici, reste silencieux, et fais en sorte que chaque tir compte. La chasse commence maintenant.",
   "vipertheop successMessageText": "Bien joué, gamin. Tu as relevé le défi ultime avec une compétence exceptionnelle. Chaque boss est tombé sous ta précision, et aucune alarme n'a été déclenchée. Ta discrétion et ta précision étaient extraordinaires. Tu as prouvé que tu es un maître dans l'art des éliminations silencieuses. Félicitations pour un travail parfaitement exécuté. Ton nom sera gravé dans la mémoire avec respect et crainte. Profite de ta victoire—elle est bien méritée.",
+  
   "viper_opar AFF_0": "Tirer 15 PMCs à la tête tout en étant équipé de silencieux avec des fusils d'assaut",
   "viper_opar name": "Opérateur : Fusils d'assaut",
   "viper_opar description": "Écoute bien. Tu vas entrer discrètement et mortellement. Ton objectif : 15 tirs à la tête sur des PMCs en utilisant un fusil d'assaut équipé de silencieux. Il ne s'agit pas de tirer au hasard—chaque tir doit être un coup fatal. Équipe ton meilleur fusil d'assaut, attache ce suppresseur, et bouge comme une ombre. Reste dans les zones à fort trafic, attends le moment parfait, et fais en sorte que chaque tir compte. Pas d'alertes, pas de témoins. Juste toi et tes cibles. Entre, élimine-les, et disparais. C'est ainsi que nous opérons—silencieux, mortels, et efficaces. Ne me déçois pas.",
   "viper_opar successMessageText": "Travail exceptionnel—15 tirs à la tête en étant équipé de silencieuxs sur des PMCs, réalisés avec précision et discrétion. Tu as mérité tes galons. Bien joué.",
-
+  
+  "viper_NLK AFF_0": "Éliminer Killa en étant équipé d'un silencieux",
+  "viper_NLK name": "Contrat Optionnel : Pas Comme Nous",
+  "viper_NLK description": "transcription d'une conversation stupide sur Discord. Hé Killa, j'ai entendu dire que tu les aimes jeunes. Tu ferais mieux de ne pas aller à Reserve Black Pawn. Toute meuf qui lui parle en tombe amoureuse ? Assure-toi juste de cacher ton Paca niveau 3. On m'a dit que Taguilla est le seul à recevoir tes vieilleries. Et Party à la fête, il joue avec son nez maintenant. Et Baka a un cas bizarre, pourquoi traîne-t-il ici ? Lover boy certifié, chasseur de Timmy certifié. wop wop wop wop wop, les miens les foutent en l'air, wop wop wop wop wop, je vais cacher mes affaires. Pourquoi tu trolls comme une salope ? T'es pas fatigué ? Essaye de te battre dans les labs, c'est probablement un hackerrrr.",
+  "viper_NLK successMessageText": "Réalisé par Dave Free, Kendrick Lamar et Viper",
+   
   "viper_labf AFF_0": "Remettre les Dossiers Bleus de TerraGroup",
   "viper_labf name": "Le Laboratoire : La Vérité",
   "viper_labf description": "Écoute bien, soldat. Ta prochaine mission consiste à retrouver les dossiers bleus de TerraGroup. Ces dossiers contiennent des informations cruciales sur leurs opérations de laboratoire, mais voilà le hic : ils ne se trouvent pas à un endroit spécifique et ne sont pas gardés. Cela signifie que tu devras fouiller minutieusement, passer au peigne fin chaque bureau, chaque table et chaque recoin jusqu'à ce que tu les trouves. C'est une chasse au trésor, mais avec des enjeux sérieux. Ouvre bien les yeux, ne laisse rien au hasard, et ramène ces dossiers. Les informations qu'ils contiennent pourraient tout changer. Maintenant, sors et commence à chercher.",
@@ -153,7 +165,7 @@
   "viper_intro AFF_0": "Remets ton AKS-74UB en signe de bonne foi",
   "viper_intro name": "C'est qui ce type ?",
   "viper_intro description": "Écoute gamin, lâche ton arme et peut-être qu’on pourra discuter",
-  "viper_intro successMessageText": "Je vais être honnête, la raison pour laquelle je ne t’ai pas tué...",
+  "viper_intro successMessageText": "Tiens, prends cette AK-12, elle sera bien meilleure que cette putain d'AK que Skier t'a donné. Pour être honnête, la raison pour laquelle je ne t'ai pas tué...",
 
   "viper_team_lore AFF_0": "Histoire",
   "viper_team_lore name": "Snake Eater : Chapitre 1",
@@ -173,7 +185,7 @@
   "viper_charge successMessageText": "Bien joué, gamin. Tu as trouvé les caisses, marqué les NVG, et tu es sorti de là sans problème. C’est le genre d’exécution que j’attends. Beau travail.",
 
   "skier_viper AFF_0": "Trouve la planque appartenant à 'Viper'",
-  "skier_viper AFF_1": "Pénètre dans la planque",
+  "skier_viper AFF_1": "Entrer dans la planque ou survivre et s'extraire",
   "skier_viper name": "Rapports Étranges",
   "skier_viper description": "Écoute, mercenaire. J’ai une mauvaise nouvelle. Une partie de mes gars s’est fait décimer aux Douanes, et celui qui est revenu en rampant dit que c’était un cinglé nommé Viper qui a fait le coup. Le salaud lui a dit : 'Quand tu arriveras en enfer, dis-leur que c’est Viper qui t’envoie,' avant de lui coller une balle. Il respire à peine, mais il a réussi à cracher ça. J’ai besoin que tu te rendes là-bas, que tu trouves ce Viper, et que tu t’assures qu’il regrette d’avoir volé notre cargaison et tué mes hommes. Obtiens des infos sur l’endroit où il se cache, et quand tu le trouves, fais-lui regretter d’avoir croisé ma route.",
   "skier_viper successMessageText": "Histoire : Tu as été tenu en joue en entrant dans la planque de Viper, continuez avec la quête de Viper.",
