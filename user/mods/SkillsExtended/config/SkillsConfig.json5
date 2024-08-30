@@ -21,7 +21,7 @@
         "ENABLED": true,                                    // Enable NATO rifle skill
         "SKILL_SHARE_ENABLED": true,                        // Allows a percentage of XP to bleed into Eastern rifle skill
         "SKILL_SHARE_XP_RATIO": 0.10,                       // Percentage of xp to bleed into the Eastern rifle skill
-        "WEAPON_PROF_XP": 0.15,                             // XP per shot hit
+        "WEAPON_PROF_XP": 0.20,                             // XP per shot hit
         "ERGO_MOD": 0.075,                                  // Ergonomics modifier in percent
         "ERGO_MOD_ELITE": 0.125,                            // Ergonomics modifier in percent elite
         "RECOIL_REDUCTION": 0.075,                          // Recoil reduction in percent
@@ -57,7 +57,7 @@
         "ENABLED": true,                                    // Enable Eastern rifle skill
         "SKILL_SHARE_ENABLED": true,                        // Allows a percentage of XP to bleed into NATO rifle skill
         "SKILL_SHARE_XP_RATIO": 0.10,                       // Percentage of xp to bleed into the NATO rifle skill
-        "WEAPON_PROF_XP": 0.15,                             // XP per shot hit
+        "WEAPON_PROF_XP": 0.20,                             // XP per shot hit
         "ERGO_MOD": 0.0015,                                 // Ergonomics modifier in percent
         "ERGO_MOD_ELITE": 0.05,                             // Ergonomics modifier in percent elite
         "RECOIL_REDUCTION": 0.002,                          // Recoil reduction modifier in percent
