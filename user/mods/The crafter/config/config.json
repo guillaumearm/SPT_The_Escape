@@ -1,0 +1,55 @@
+{
+	"Description": "Add the craft for keycards",
+		"CraftKeycards": true,
+
+	"Description":  "Add the craft for ammunitions",
+		"CraftAmmunitions": true,
+
+	"Description":  "Add the craft for armored rigs",
+		"CraftArmoredrigs": true,
+
+	"Description":  "Add the craft for equipments",
+		"CraftEquipments": true,
+
+	"Description":  "Add the craft for medical equipments",
+		"CraftMedicalEquipments": true,
+
+	"Description":  "Add the craft for provisions",
+		"CraftProvisions": true,
+
+	"Description":  "Add the craft for secure containers",
+		"CraftSecureContainers": false,
+
+	"Description":  "Add the craft for tactical devices",
+		"CraftTacticalDevices": true,
+
+	"Description":  "Add the craft for weapons",
+		"CraftWeapons": true,
+
+	"Description":  "Add the craft for injectors",
+		"CraftInjectors": true,
+
+	"Description":  "Add the craft for magazines",
+		"CraftMagazines": true,
+
+	"Description":  "Add the craft for grenades",
+		"CraftGrenade": true,
+
+	"Description":  "Add the craft for containers",
+		"CraftContainers": true,
+	
+	"Description":  "Add the craft for repair kits",
+		"CraftKits": true,
+
+	"Description":  "Scavcase money payment changed in alcohol and tweaked the loot reward",
+		"Drunkedscavs": true,
+
+	"Description":  "Increase the size of each level of the stash",
+		"BiggerStash": false,
+
+	"Description": "Reduce the price for upgrade the stash of 10 times",
+		"CheapStash": false,
+
+	"Description": "Major rebalance of crafting recipes balanced around components rarities, usefullness, trader prices and plain lore logic",
+		"CraftingRebalance": true
+}
