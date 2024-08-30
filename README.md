@@ -28,6 +28,7 @@
 - [Borkel's realistic thermal](https://hub.sp-tarkov.com/files/file/1510-borkel-s-big-realistic-thermal-package-bring-real-life-realism-to-your-thermal-s/)
 - [Borkel's Realistic Night Vision Goggles (NVGs and T-7)](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7)
 - [One Time Zone Mod](https://hub.sp-tarkov.com/files/file/2189-onetimezonemod)
+- [Interactable Exfils API 1.2.0](https://hub.sp-tarkov.com/files/file/2286-interactable-exfils-api/#overview)
 
 ## Sounds
 
@@ -43,7 +44,6 @@
 - [Borkel's Bloody Bullet Wounds + Particles + Splatters](https://hub.sp-tarkov.com/files/file/1740-borkel-s-bloody-bullet-wounds-particles-splatters/)
 - [Visceral Dismemberment](https://cloud.trapcloud.fr/s/3FzQSytaLSewz28) (reupload, not on the hub)
 - [Dynamic Weather & Seasons 1.0.1](https://hub.sp-tarkov.com/files/file/2135-dynamic-weather-seasons/#versions)
-
 
 ## Additional in-game content
 
