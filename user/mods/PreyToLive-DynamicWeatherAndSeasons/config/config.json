@@ -4,10 +4,10 @@
     "consoleLogs": false,
 
     "randomMonthEachRaid": false,
-    "monthDurationInRaids": 10,
+    "monthDurationInRaids": 7,
     "months": {
         "january": "winter",
-        "february": "spring",
+        "february": "winter",
         "march": "spring",
         "april": "spring",
         "may": "spring",
