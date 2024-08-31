@@ -3,7 +3,7 @@
   "Description": "A true alpha threat. Hyper Aggressive and typically wearing high tier equipment.",
   "Assignment": {
     "Enabled": true,
-    "CanBeRandomlyAssigned": false,
+    "CanBeRandomlyAssigned": true,
     "RandomlyAssignedChance": 3.0,
     "MinLevel": 0.0,
     "MaxLevel": 100.0,

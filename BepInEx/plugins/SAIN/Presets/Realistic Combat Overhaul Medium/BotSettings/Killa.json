@@ -1,7 +1,7 @@
 {
-  "Name": "Bear",
-  "WildSpawnType": "pmcBEAR",
-  "DifficultyModifier": 1.0,
+  "Name": "Killa",
+  "WildSpawnType": "bossKilla",
+  "DifficultyModifier": 0.75,
   "Settings": {
     "easy": {
       "Difficulty": {
@@ -14,23 +14,23 @@
         "AccuracySpeedCoef": 1.0
       },
       "Core": {
-        "VisibleAngle": 140.0,
-        "VisibleDistance": 185.0,
-        "GainSightCoef": 0.07,
-        "AccuratySpeed": 0.05,
-        "ScatteringPerMeter": 0.045,
+        "VisibleAngle": 180.0,
+        "VisibleDistance": 137.0,
+        "GainSightCoef": 0.1,
+        "AccuratySpeed": 0.2,
+        "ScatteringPerMeter": 0.1,
         "ScatteringClosePerMeter": 0.12,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
       },
       "Aiming": {
         "AimCenterMass": true,
-        "DistanceAimTimeMultiplier": 1.5,
-        "AngleAimTimeMultiplier": 1.5,
+        "DistanceAimTimeMultiplier": 1.0,
+        "AngleAimTimeMultiplier": 1.0,
         "FasterCQBReactions": true,
         "FasterCQBReactionsDistance": 30.0,
         "FasterCQBReactionsMinimum": 0.33,
-        "MAX_AIMING_UPGRADE_BY_TIME": 0.5,
+        "MAX_AIMING_UPGRADE_BY_TIME": 0.25,
         "DIST_TO_SHOOT_NO_OFFSET": 3.0,
         "COEF_IF_MOVE": 1.5,
         "MAX_AIM_TIME": 1.5,
@@ -52,12 +52,12 @@
         "ThrowGrenadeFrequency_MAX": 10.0,
         "MinFriendlyDistance": 8.0,
         "MinEnemyDistance": 8.0,
-        "GrenadePrecision": 0.2
+        "GrenadePrecision": 0.05
       },
       "Hearing": {},
       "Lay": {},
       "Look": {
-        "MinimumVisionSpeed": 0.4,
+        "MinimumVisionSpeed": 0.0,
         "CAN_USE_LIGHT": true,
         "FULL_SECTOR_VIEW": false,
         "MAX_DIST_CLAMP_TO_SEEN_SPEED": 500.0,
@@ -90,7 +90,7 @@
         "BurstMulti": 1.5,
         "FireratMulti": 1.5,
         "MaxPointFireDistance": 150.0,
-        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.5,
+        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.1,
         "BASE_AUTOMATIC_TIME": 0.4,
         "RECOIL_DELTA_PRESS": 0.0
       }
@@ -106,11 +106,11 @@
         "AccuracySpeedCoef": 1.0
       },
       "Core": {
-        "VisibleAngle": 160.0,
-        "VisibleDistance": 185.0,
-        "GainSightCoef": 0.07,
-        "AccuratySpeed": 0.05,
-        "ScatteringPerMeter": 0.045,
+        "VisibleAngle": 180.0,
+        "VisibleDistance": 137.0,
+        "GainSightCoef": 0.1,
+        "AccuratySpeed": 0.2,
+        "ScatteringPerMeter": 0.1,
         "ScatteringClosePerMeter": 0.12,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
@@ -144,7 +144,7 @@
         "ThrowGrenadeFrequency_MAX": 10.0,
         "MinFriendlyDistance": 8.0,
         "MinEnemyDistance": 8.0,
-        "GrenadePrecision": 0.1
+        "GrenadePrecision": 0.05
       },
       "Hearing": {},
       "Lay": {},
@@ -182,7 +182,7 @@
         "BurstMulti": 1.5,
         "FireratMulti": 1.5,
         "MaxPointFireDistance": 150.0,
-        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.5,
+        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.1,
         "BASE_AUTOMATIC_TIME": 0.4,
         "RECOIL_DELTA_PRESS": 0.0
       }
@@ -198,11 +198,11 @@
         "AccuracySpeedCoef": 1.0
       },
       "Core": {
-        "VisibleAngle": 160.0,
-        "VisibleDistance": 185.0,
-        "GainSightCoef": 0.07,
-        "AccuratySpeed": 0.05,
-        "ScatteringPerMeter": 0.045,
+        "VisibleAngle": 180.0,
+        "VisibleDistance": 137.0,
+        "GainSightCoef": 0.1,
+        "AccuratySpeed": 0.2,
+        "ScatteringPerMeter": 0.1,
         "ScatteringClosePerMeter": 0.12,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
@@ -236,7 +236,7 @@
         "ThrowGrenadeFrequency_MAX": 10.0,
         "MinFriendlyDistance": 8.0,
         "MinEnemyDistance": 8.0,
-        "GrenadePrecision": 0.1
+        "GrenadePrecision": 0.05
       },
       "Hearing": {},
       "Lay": {},
@@ -274,7 +274,7 @@
         "BurstMulti": 1.5,
         "FireratMulti": 1.5,
         "MaxPointFireDistance": 150.0,
-        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.5,
+        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.1,
         "BASE_AUTOMATIC_TIME": 0.4,
         "RECOIL_DELTA_PRESS": 0.0
       }
@@ -290,11 +290,11 @@
         "AccuracySpeedCoef": 1.0
       },
       "Core": {
-        "VisibleAngle": 160.0,
-        "VisibleDistance": 185.0,
-        "GainSightCoef": 0.07,
-        "AccuratySpeed": 0.05,
-        "ScatteringPerMeter": 0.045,
+        "VisibleAngle": 180.0,
+        "VisibleDistance": 137.0,
+        "GainSightCoef": 0.1,
+        "AccuratySpeed": 0.2,
+        "ScatteringPerMeter": 0.1,
         "ScatteringClosePerMeter": 0.12,
         "HearingDistanceMulti": 1.0,
         "CanGrenade": true
@@ -328,7 +328,7 @@
         "ThrowGrenadeFrequency_MAX": 10.0,
         "MinFriendlyDistance": 8.0,
         "MinEnemyDistance": 8.0,
-        "GrenadePrecision": 0.1
+        "GrenadePrecision": 0.05
       },
       "Hearing": {},
       "Lay": {},
@@ -366,7 +366,7 @@
         "BurstMulti": 1.5,
         "FireratMulti": 1.5,
         "MaxPointFireDistance": 150.0,
-        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.5,
+        "AUTOMATIC_FIRE_SCATTERING_COEF": 1.1,
         "BASE_AUTOMATIC_TIME": 0.4,
         "RECOIL_DELTA_PRESS": 0.0
       }

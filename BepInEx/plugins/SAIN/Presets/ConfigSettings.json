@@ -1,7 +1,7 @@
 {
   "SelectedDefaultPreset": "none",
-  "SelectedCustomPreset": "Realistic Combat Overhaul Easier",
+  "SelectedCustomPreset": "Realistic Combat Overhaul Medium",
   "DefaultPreset": "3. Default",
-  "AdvancedBotConfigs": false,
+  "AdvancedBotConfigs": true,
   "ConfigScaling": 1.0
 }

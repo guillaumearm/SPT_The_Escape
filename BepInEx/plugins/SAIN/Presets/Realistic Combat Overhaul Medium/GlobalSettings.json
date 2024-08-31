@@ -1,10 +1,10 @@
 {
   "Difficulty": {
-    "VisibleDistCoef": 0.8,
-    "GainSightCoef": 1.3,
+    "VisibleDistCoef": 1.0,
+    "GainSightCoef": 1.0,
     "ScatteringCoef": 1.3,
-    "HearingDistanceCoef": 0.8,
-    "AggressionCoef": 0.85,
+    "HearingDistanceCoef": 1.0,
+    "AggressionCoef": 1.0,
     "PrecisionSpeedCoef": 1.3,
     "AccuracySpeedCoef": 1.3
   },
@@ -437,7 +437,7 @@
     "SteerSpeed_MinSpeed": 125.0
   },
   "Shoot": {
-    "RecoilMultiplier": 1.6,
+    "RecoilMultiplier": 1.3,
     "AddRecoil": 5.0,
     "RECOIL_DECAY_COEF": 0.2,
     "RECOIL_BASELINE": 100.0,
