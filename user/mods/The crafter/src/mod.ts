@@ -261,7 +261,7 @@ class the_crafter implements IPostDBLoadMod {
 		_id: "the_crafter_545bt", areaType: 10, productionTime: 2160, endProduct: "56dff061d2720bb5668b4567", count: 100, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
-		{templateId: "56dfef82d2720bbd668b4567", count: 100, type: "Item"},
+		{templateId: "56dff0bed2720bb0668b4567", count: 100, type: "Item"},
 		{templateId: "590c5a7286f7747884343aea", count: 1, type: "Item"},
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
@@ -1119,6 +1119,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 2, type: "Area"}]}
 
 	tables.hideout.production.push(BodyKit)}
+
 	//Armor vests
 	if (config.CraftArmors == true) {
 	
@@ -1157,7 +1158,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 3, type: "Area"}]}
 	
 			const Korund = {
-			_id: "the_crafter_Gzhel", areaType: 2, productionTime: 1530, endProduct: "5f5f41476bdad616ad46d631", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Korund", areaType: 2, productionTime: 1530, endProduct: "5f5f41476bdad616ad46d631", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "63a0b208f444d32d6f03ea1e", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 3, type: "Item"},
@@ -1166,7 +1167,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 3, type: "Area"}]}
 	
 			const Zhuk = {
-			_id: "the_crafter_Gzhel", areaType: 2, productionTime: 2000, endProduct: "5c0e625a86f7742d77340f62", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Zhuk", areaType: 2, productionTime: 2000, endProduct: "5c0e625a86f7742d77340f62", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "63a0b208f444d32d6f03ea1e", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 3, type: "Item"},
