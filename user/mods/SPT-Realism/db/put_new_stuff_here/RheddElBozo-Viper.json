@@ -1,0 +1,35 @@
+{
+    "66d26afbb66f117283c4bdd5": {
+        "ItemID": "66d26afbb66f117283c4bdd5",
+        "Name": "Viper Advanced Helmet MK3",
+        "AllowADS": true,
+        "LoyaltyLevel": 2,
+        "ArmorClass": "NIJ IIA ",
+        "CanSpall": false,
+        "SpallReduction": 1,
+        "ReloadSpeedMulti": 1,
+        "Price": 0,
+        "Comfort": 1.2,
+        "speedPenaltyPercent": 0,
+        "mousePenalty": 0,
+        "weaponErgonomicPenalty": 0,
+        "TemplateType": "gear"
+    },
+    "657089638db3adca1009f4ca": {
+        "ItemID": "657089638db3adca1009f4ca",
+        "Name": "item_equipment_atomic",
+        "AllowADS": true,
+        "LoyaltyLevel": 2,
+        "ArmorClass": "NIJ IIIA",
+        "CanSpall": false,
+        "SpallReduction": 1,
+        "ReloadSpeedMulti": 1,
+        "BlocksMouth": true,
+        "speedPenaltyPercent": 0,
+        "mousePenalty": 0,
+        "weaponErgonomicPenalty": 0,
+        "Weight": 0.6,
+        "MaskToUse": "atomic",
+        "TemplateType": "gear"
+    }
+}

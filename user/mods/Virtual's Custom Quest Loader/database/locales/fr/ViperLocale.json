@@ -6,6 +6,11 @@
   "viper_rumor1 description": "Très bien, écoute-moi bien. J'ai besoin que tu trouves une carte détaillée de Woods. Cette carte est cruciale pour localiser un bunker caché rempli de vieilles fournitures militaires. Une fois que tu as la carte, rapporte-la-moi immédiatement. Grâce à elle, je pourrai localiser ce bunker pour que tu puisses en marquer l'entrée et mettre la main sur ces fournitures. Ne traîne pas là-bas — ça pourrait être l'opportunité qu'on attendait. Bonne chance.",
   "viper_rumor1 successMessageText": "Malheureusement, le bunker a été vidé, et tout ce qu'on a trouvé, c'est cette vieille boîte de munitions vide. Ce n'est pas grand-chose, mais c'est déjà ça. Prends-la comme un signe de ma reconnaissance pour avoir trouvé le bunker. Chaque piste est précieuse, et ton effort est apprécié. On continuera à chercher d'autres opportunités.",
 
+  "viper_tron AFF_0": "Éliminer Kollontay d'un tir à la tête silencieux",
+  "viper_tron name": "Rumeurs : Justice",
+  "viper_tron description": "Ton âme reste libre de jugement, favorisée par le regard scrutateur de la justice. Cependant, les yeux vigilants de la justice ont détecté une souillure de malveillance. La source de cette injustice n'est autre que celui qu'on appelle Kollontay. C'est à toi de rétablir l'équilibre — cherche cet auteur de mal et élimine la corruption qu'il a semée.",
+  "viper_tron successMessageText": "Les yeux du jugement ont été témoins de tes nobles actions — l'élimination décisive de Kollontay et le rétablissement de l'équilibre. En reconnaissance de ta bravoure, tu as reçu le 'Jugement de Tron'. Ce don sacré, manifestation de la justice divine, repose légèrement sur ton âme, l'élevant avec grâce. Le 'Jugement de Tron' sera ta force directrice, te permettant d'avancer avec une force et un but renouvelés.",
+
   "viper_theop AFF_0": "Tuer Knight d'un tir à la tête tout en étant équipé de silencieux sans mourir",
   "viper_theop AFF_1": "Tuer Big Pipe d'un tir à la tête tout en étant équipé de silencieux sans mourir",
   "viper_theop AFF_2": "Tuer Birdeye d'un tir à la tête tout en étant équipé de silencieux sans mourir",
@@ -275,5 +280,84 @@
   "viper_thelab_know AFF_6": "Entrer dans la salle à carte violette",
   "viper_thelab_know name": "Contrat optionnel : Connaissance complète",
   "viper_thelab_know description": "Très bien, gamin, il est temps de retourner au labo. Ta mission est d'accéder à toutes les portes verrouillées par des cartes d'accès que tu as identifiées plus tôt. Fouille chaque pièce minutieusement et récupère toute information ou tout objet de valeur que tu trouves. Une fois que tu as nettoyé toutes les pièces, extrais-toi et fais un rapport. Reste vigilant et sois prêt à tout.",
-  "viper_thelab_know successMessageText": "Beau travail, gamin. Tu as accédé à toutes les salles verrouillées par des cartes d'accès et récolté des informations précieuses. Ta minutie a fait toute la différence. Retourne à la base — mission accomplie."
-}
+  "viper_thelab_know successMessageText": "Beau travail, gamin. Tu as accédé à toutes les salles verrouillées par des cartes d'accès et récolté des informations précieuses. Ta minutie a fait toute la différence. Retourne à la base — mission accomplie.",
+
+  "viper_cap AFF_0": "Histoire",
+  "viper_cap name": "Le Braquage : Rêve Capitaliste",
+  "viper_cap description": "Gamin, les entreprises se sont précipitées vers Tarkov avant que la ville ne devienne un champ de bataille, car c'était une mine d'or d'opportunités. Elles étaient attirées par la perspective de main-d'œuvre bon marché, l'absence de réglementations strictes, et le potentiel de rendements élevés dans une ville au bord du chaos. L'emplacement stratégique et le potentiel économique de la ville en faisaient un lieu attractif pour les entreprises. Même avant que les combats ne commencent, il y avait d'énormes profits à tirer de ses ressources et du marché en plein essor, bien que peu stable. Avec la ville maintenant en ruines, il reste encore beaucoup d'argent et de biens précieux, juste en attente que quelqu'un d'audacieux les revendique. Le potentiel reste, mais les risques aussi.",
+  "viper_cap successMessagetext": "Des millions, simplement laissés derrière sous une protection basique...",
+
+  "viper_gold AFF_0": "Repérer la TarBank dans les Rues",
+  "viper_gold AFF_1": "Survivre et s'extraire",
+  "viper_gold name": "Le Braquage : À la recherche de l'or",
+  "viper_gold description": "Gamin, j'ai besoin que tu te rendes dans les Rues de Tarkov. Ta tâche est de repérer les banques dispersées dans la zone. Nous cherchons une banque qui pourrait valoir un raid — quelque chose avec des actifs potentiels laissés derrière dans le chaos. Reste vigilant et surveille les mesures de sécurité ou autres groupes. Cela pourrait être une opportunité lucrative si nous jouons bien nos cartes. Bonne chance.",
+  "viper_gold successMessagetext": "TarBank, hmm. Celle-ci semble valoir la peine d'être exploitée.",
+
+  "viper_gold2 AFF_0": "Placer une caméra à l'entrée principale",
+  "viper_gold2 AFF_1": "Placer une caméra dans le couloir arrière",
+  "viper_gold2 AFF_2": "Ne pas survivre",
+  "viper_gold2 name": "Le Braquage : Or du fou",
+  "viper_gold2 description": "Gamin, tu as localisé la TarBank — bon travail. Maintenant, ta prochaine tâche est de pénétrer à l'intérieur et d'installer des caméras. Place une caméra à l'entrée principale pour surveiller tout mouvement entrant ou sortant. Pour la deuxième caméra, place-la dans le couloir derrière la banque à l'entrée arrière. Cela nous aidera à surveiller les mouvements et à avoir une vue claire de la zone. Assure-toi que les caméras sont bien cachées et sécurisées. Ces informations sont cruciales pour nos prochaines étapes. Reste vigilant.",
+  "viper_gold2 successMessagetext": "Gamin, merde, reste avec moi ! J'ai besoin que tu restes conscient — ne me lâche pas maintenant ! Je te tire de là, tiens bon. On va s'en sortir, d'accord ? Je ne laisserai rien t'arriver. Continue de respirer, reste avec moi ! On va se mettre à l'abri, tiens encore un peu !",
+
+  "viper_mistake AFF_0": "Remettre 3 kits de chirurgie",
+  "viper_mistake AFF_1": "Remettre un Grizzly",
+  "viper_mistake AFF_2": "Remettre une seringue de morphine",
+  "viper_mistake name": "Le Braquage : Erreur d'inattention",
+  "viper_mistake description": "Gamin, reste avec moi. J'ai besoin de ces outils médicaux — où diable sont-ils ? Merde, tiens bon ! Je dois te stabiliser, maintenant ! Je ne vais pas te perdre ici. Accroche-toi, Gamin, encore un peu. Tu es fort, tu peux le faire. On va s'en sortir, tiens bon.",
+  "viper_mistake successMessagetext": "Gamin, tu es réveillé. Je suis désolé pour ce qui s'est passé là-bas. J'ai fait une erreur — une qui t'a presque coûté la vie. Je n'aurais jamais dû laisser les choses dégénérer à ce point. J'aurais dû être plus prudent, plus vigilant. Mais tu t'en es sorti, et c'est un témoignage de ta force. Je te promets que j'apprendrai de cela, et nous ferons mieux. Tu as ma parole. Maintenant, allons chercher ce salaud qui t'a mis dans cet état.",
+
+  "viper_cop AFF_0": "Éliminer Kollontay en étant silencieux",
+  "viper_cop name": "Le Braquage : Fuck The Police",
+  "viper_cop description": "Gamin, écoute bien. Le type qui t'a mis à terre, c'était Kollontay—un ex-flic avec une rancune. C'est une menace sérieuse, et il ne s'arrêtera pas. Je veux que tu t'occupes de lui, mais reste discret et utilise une arme silencieuse. Je te couvre d'ici. Assure-toi que cette affaire soit réglée. On ne peut pas se permettre de le laisser s'en tirer. Reste vigilant et fais-le.",
+  "viper_cop successMessagetext": "Aujourd'hui était une bonne journée, gamin, enfin, à part le fait que tu as failli mourir. Voyons si ce salaud a quelque chose d'utile.",
+  
+  "viper_cop1 AFF_0": "Histoire",
+  "viper_cop1 name": "Le Braquage : Plus Grande Envergure",
+  "viper_cop1 description": "Merde. Kollontay portait la marque du gang de Kaban. On ne peut pas affronter Kaban de front ; il est trop puissant pour nous en ce moment. Mais on doit continuer à avancer et à rassembler des informations. Gamin, je veux que tu restes alerte et sur tes gardes. Pour l'instant, on va éviter les opérations de Kaban et se concentrer sur le renforcement de notre position. Sortons d'ici et regroupons-nous. On frappera quand le moment sera venu.",
+  "viper_cop1 successMessagetext": "Si on veut cet argent...",
+  
+  "viper_carq AFF_0": "Trouver la camionnette devant la planque de Viper à Douanes (ZB1011)",
+  "viper_carq AFF_1": "Remettre un manuel technique",
+  "viper_carq AFF_2": "Réparer la camionnette en utilisant un kit d'outils",
+  "viper_carq AFF_3": "Faire le plein de la camionnette avec un jerrycan en métal",
+  "viper_carq name": "Le Braquage : Préparations",
+  "viper_carq description": "Si on veut cet argent, on doit agir vite et fort. On doit garder une longueur d'avance sur ceux qui nous ont dans leur viseur. Sors et trouve une camionnette garée devant la planque. Elle est probablement en mauvais état, alors tu devras trouver un manuel pour la réparer et du carburant. On doit être prêts à bouger à tout moment. Je surveille les alentours pour m'assurer qu'on n'est pas suivis. Reste vigilant là-bas.",
+  "viper_carq successMessagetext": "Bon travail gamin, ça marche, maintenant pour les dernières étapes.",
+  
+  "viper_plan AFF_0": "Remettre 2 cagoules",
+  "viper_plan AFF_1": "Remettre 2 gilets tactiques de braqueur de banque",
+  "viper_plan AFF_2": "Remettre 2 M4A1",
+  "viper_plan AFF_3": "Remettre 2 mallettes d'argent",
+  "viper_plan AFF_4": "Laisser une masse à l'entrée de la banque",
+  "viper_plan name": "Le Braquage : Le Plan",
+  "viper_plan description": "Ce que j'ai besoin que tu fasses maintenant, c'est de récupérer deux cagoules, deux gilets tactiques de braqueur de banque, deux fusils d'assaut M4A1 et deux mallettes d'argent. Ensuite, rends-toi à la banque et laisse une masse à l'entrée. On l'utilisera pour casser les distributeurs automatiques. Reste vigilant, je compte sur toi.",
+  "viper_plan successMessagetext": "Tout est en place, c'est parti gamin.",
+  
+  "viper_heist AFF_0": "Éliminer des cibles près de la banque en étant silencieux",
+  "viper_heist AFF_1": "Entrer dans la banque",
+  "viper_heist name": "Le Braquage",
+  "viper_heist description": "Très bien, gamin, on se dirige vers la TarBank. Garde les yeux ouverts et élimine toutes les cibles que tu croises. Une fois à l'intérieur, commence à t'installer. On doit agir vite. Je te couvre d'ici. Reste concentré et baisse la tête.",
+  "viper_heist successMessagetext": "Bon travail, gamin. Tu as récupéré l'argent. Maintenant, monte dans la camionnette et assure-toi que tout est sécurisé. On doit partir d'ici vite. Je couvre notre sortie. Allons-y !",
+  
+  "viper_hit AFF_0": "Éliminer Kaban en étant silencieux",
+  "viper_hit name": "Le Braquage : Frappe-les Fort",
+  "viper_hit description": "Merde, Kaban nous a coincés. Il est temps de mettre fin à tout ça. Tu connais les enjeux, gamin. On ne peut plus fuir maintenant. On va devoir le descendre. Frappe-les fort, gamin, on ne joue plus, il est temps de mettre fin à son règne. C'est maintenant ou jamais. On le descend, ou on y passe. Fais-lui comprendre ce qu'il en coûte de nous chercher. Tue ce gros enfoiré.",
+  "viper_hit successMessagetext": "Cinq balles ne pouvaient pas me descendre, je les ai prises en souriant. Bon boulot gamin, sortons d'ici.",
+  
+  "viper_5050 AFF_0": "Reçois ta part",
+  "viper_5050 name": "Le Braquage : 50/50",
+  "viper_5050 description": "Eh bien, on n'a jamais discuté des parts, je pense que 50/50 c'est juste. Ça te va ?",
+  "viper_5050 successMessagetext": "Va t'acheter quelque chose de sympa.",
+  
+  "viper_project AFF_0": "Placer un marqueur Ms2000 dans la zone de test d'armes de Terragroup",
+  "viper_project name": "Rumeurs : Le Projet",
+  "viper_project description": "Tu reçois une note après ta virée au labo, elle te dit de trouver un moyen d'entrer dans la zone de test d'armes du labo et d'y laisser un marqueur MS2000.",
+  "viper_project successMessagetext": "Qu'est-ce que c'est que ça gamin ? Où as-tu trouvé ça ? C'était un de mes anciens projets avant que la société Terragroup ne me le prenne, tu peux le garder.",
+  
+  "viper_slipknot AFF_0": "Remettre un médiator de guitare",
+  "viper_slipknot name": "Rumeurs : SlipKnot",
+  "viper_slipknot description": "Tu as trouvé des disques appartenant à Viper, il semble avoir un amour pour SlipKnot.",
+  "viper_slipknot successMessagetext": "C'est le médiator de guitare de Mick Thomson ? Super. Je n'ai pas son masque mais voici le masque de Joey Jordison."
+  }
+  
