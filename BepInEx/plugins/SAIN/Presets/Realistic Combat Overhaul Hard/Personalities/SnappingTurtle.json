@@ -1,18 +1,18 @@
 {
-  "Name": "GigaChad",
-  "Description": "A true alpha threat. Hyper Aggressive and typically wearing high tier equipment.",
+  "Name": "SnappingTurtle",
+  "Description": "A player who finds the balance between rat and chad, yin and yang. Will rat you out but can spring out at any moment.",
   "Assignment": {
     "Enabled": true,
-    "CanBeRandomlyAssigned": false,
-    "RandomlyAssignedChance": 3.0,
-    "MinLevel": 0.0,
+    "CanBeRandomlyAssigned": true,
+    "RandomlyAssignedChance": 1.0,
+    "MinLevel": 15.0,
     "MaxLevel": 100.0,
-    "PowerLevelScaleStart": 250.0,
+    "PowerLevelScaleStart": 150.0,
     "PowerLevelScaleEnd": 500.0,
     "InverseScale": false,
-    "PowerLevelMin": 250.0,
+    "PowerLevelMin": 150.0,
     "PowerLevelMax": 1000.0,
-    "MaxChanceIfMeetRequirements": 80.0,
+    "MaxChanceIfMeetRequirements": 30.0,
     "AllowedTypes": [
       "pmcUSEC",
       "pmcBEAR"
@@ -21,22 +21,22 @@
   "Behavior": {
     "General": {
       "AggressionMultiplier": 1.0,
-      "KickOpenAllDoors": true,
-      "HoldGroundBaseTime": 1.25,
-      "HoldGroundMinRandom": 0.65,
-      "HoldGroundMaxRandom": 1.5
+      "KickOpenAllDoors": false,
+      "HoldGroundBaseTime": 1.5,
+      "HoldGroundMinRandom": 0.8,
+      "HoldGroundMaxRandom": 1.2
     },
     "Search": {
       "WillSearchForEnemy": true,
       "WillSearchFromAudio": true,
-      "HeardFromPeaceBehavior": "SearchNow",
-      "WillChaseDistantGunshots": true,
+      "HeardFromPeaceBehavior": "Freeze",
+      "WillChaseDistantGunshots": false,
       "AudioStraightDistanceToIgnore": 125.0,
-      "SearchBaseTime": 6.0,
+      "SearchBaseTime": 90.0,
       "SearchWaitMultiplier": 3.0,
-      "SprintWhileSearchChance": 75.0,
-      "Sneaky": false,
-      "SneakySpeed": 1.0,
+      "SprintWhileSearchChance": 40.0,
+      "Sneaky": true,
+      "SneakySpeed": 0.33,
       "SneakyPose": 1.0,
       "SearchNoEnemySpeed": 1.0,
       "SearchNoEnemyPose": 1.0,
@@ -46,13 +46,13 @@
     "Rush": {
       "CanRushEnemyReloadHeal": true,
       "CanJumpCorners": true,
-      "JumpCornerChance": 40.0,
+      "JumpCornerChance": 100.0,
       "CanBunnyHop": true,
-      "BunnyHopChance": 5.0
+      "BunnyHopChance": 20.0
     },
     "Cover": {
       "CanShiftCoverPosition": true,
-      "ShiftCoverTimeMultiplier": 0.5,
+      "ShiftCoverTimeMultiplier": 2.0,
       "MoveToCoverNoEnemySpeed": 1.0,
       "MoveToCoverNoEnemyPose": 1.0,
       "MoveToCoverHasEnemySpeed": 1.0,
@@ -60,14 +60,14 @@
     },
     "Talk": {
       "CanTaunt": true,
-      "FrequentTaunt": true,
-      "ConstantTaunt": true,
-      "CanRespondToEnemyVoice": true,
-      "TauntFrequency": 8.0,
-      "TauntChance": 45.0,
-      "TauntMaxDistance": 65.0,
+      "FrequentTaunt": false,
+      "ConstantTaunt": false,
+      "CanRespondToEnemyVoice": false,
+      "TauntFrequency": 15.0,
+      "TauntChance": 50.0,
+      "TauntMaxDistance": 70.0,
       "CanFakeDeathRare": true,
-      "FakeDeathChance": 3.0,
+      "FakeDeathChance": 10.0,
       "CanBegForLife": false
     }
   },

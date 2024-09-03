@@ -30,7 +30,7 @@
         "FasterCQBReactions": true,
         "FasterCQBReactionsDistance": 30.0,
         "FasterCQBReactionsMinimum": 0.33,
-        "MAX_AIMING_UPGRADE_BY_TIME": 0.33,
+        "MAX_AIMING_UPGRADE_BY_TIME": 0.5,
         "DIST_TO_SHOOT_NO_OFFSET": 3.0,
         "COEF_IF_MOVE": 1.5,
         "MAX_AIM_TIME": 1.5,
