@@ -41,17 +41,17 @@
 				{
 					"type": "Item",
 					"templateId": "5732ee6a24597719ae0c0281", //Pouch
-					"count": 2
+					"count": 1
 				},
 				{
 					"type": "Item",
 					"templateId": "61bf7b6302b3924be92fa8c3", //Metal Parts
-					"count": 4
+					"count": 5
 				},
 				{
 					"type": "Item",
 					"templateId": "5e2af29386f7746d4159f077", //Kektape
-					"count": 1
+					"count": 2
 				},
 				{
 					"type": "Item",
@@ -61,7 +61,7 @@
 				{
 					"type": "Item",
 					"templateId": "5e2af22086f7746d3f3c33fa", //Poxeram
-					"count": 2
+					"count": 4
 				},
 				{
 					"type": "Area",
@@ -75,17 +75,17 @@
 				{
 					"type": "Item",
 					"templateId": "544a11ac4bdc2d470e8b456a", //Alpha Container
-					"count": 2
+					"count": 1
 				},
 				{
 					"type": "Item",
 					"templateId": "59e35ef086f7741777737012", //Screws
-					"count": 4
+					"count": 6
 				},
 				{
 					"type": "Item",
 					"templateId": "590c31c586f774245e3141b2", //Nails
-					"count": 4
+					"count": 6
 				},
 				{
 					"type": "Item",
@@ -109,7 +109,7 @@
 				{
 					"type": "Item",
 					"templateId": "5857a8b324597729ab0a0e7d", //Beta container
-					"count": 2
+					"count": 1
 				},
 				{
 					"type": "Item",
@@ -158,7 +158,7 @@
 				{
 					"type": "Item",
 					"templateId": "59db794186f77448bc595262", //Epsilon Container
-					"count": 2
+					"count": 1
 				},
 				{
 					"type": "Item",
@@ -207,7 +207,7 @@
 				{
 					"type": "Item",
 					"templateId": "5857a8bc2459772bad15db29", //Gamma container
-					"count": 2
+					"count": 1
 				},
 				{
 					"type": "Item",
