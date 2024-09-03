@@ -107,6 +107,7 @@
 - [Trader Modding And Improved Weapon Building](https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building)
 - [Expanded cases](https://hub.sp-tarkov.com/files/file/2218-expanded-cases/)
 - [Increase Climb Height](https://hub.sp-tarkov.com/files/file/2154-increase-climb-height/)
+- [MergeConsumables](https://hub.sp-tarkov.com/files/file/2262-mergeconsumables/)
 
 ## Tweaks
 
