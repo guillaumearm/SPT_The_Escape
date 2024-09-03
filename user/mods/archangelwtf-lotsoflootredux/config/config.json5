@@ -15,7 +15,7 @@
     //Changes the max amount of items spawned in Backpacks, Value: 0 - 1
     looseBackpackModifier: 1,
     //Cheaper items are more likely to spawn in containers
-    itemWeights: true,
+    itemWeights: false,
     //Some items dont have good or accurate data set for their price points, this changes the pricing on these items to be more realistic
     priceCorrection: {
       //T H I C C item case
