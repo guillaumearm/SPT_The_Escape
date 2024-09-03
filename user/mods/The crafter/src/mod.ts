@@ -243,7 +243,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Keycards
 	if (config.CraftKeycards == true) {
 		const AccessLab = {
-		_id: "accesslab001", areaType: 11, productionTime: 8640, endProduct: "5c94bbff86f7747ee735c08f", count: 1, productionLimitCount: 0,
+		_id: "accesslab001", areaType: 11, productionTime: 86400, endProduct: "5c94bbff86f7747ee735c08f", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2c9c86f774245b1f03f2", type: "Tool"},
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
@@ -258,7 +258,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Ammunitions
 	if (config.CraftAmmunitions == true) {
 	const a545bt = {
-		_id: "the_crafter_545bt", areaType: 10, productionTime: 2160, endProduct: "56dff061d2720bb5668b4567", count: 100, productionLimitCount: 0,
+		_id: "the_crafter_545bt", areaType: 10, productionTime: 21600, endProduct: "56dff061d2720bb5668b4567", count: 100, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "56dff0bed2720bb0668b4567", count: 100, type: "Item"},
@@ -266,7 +266,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const a545bs = {
-		_id: "the_crafter_545bs", areaType: 10, productionTime: 5220, endProduct: "56dff026d2720bb8668b4567", count: 100, productionLimitCount: 0,
+		_id: "the_crafter_545bs", areaType: 10, productionTime: 52200, endProduct: "56dff026d2720bb8668b4567", count: 100, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "5d63d33b86f7746ea9275524", type: "Tool"},
@@ -275,7 +275,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a5457n40 = {
-		_id: "the_crafter_545n40", areaType: 10, productionTime: 4800, endProduct: "61962b617c6c7b169525f168", count: 120, productionLimitCount: 0,
+		_id: "the_crafter_545n40", areaType: 10, productionTime: 48000, endProduct: "61962b617c6c7b169525f168", count: 120, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "590c2b4386f77425357b6123", type: "Tool"},
@@ -285,7 +285,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a556war = {
-		_id: "the_crafter_556war", areaType: 10, productionTime: 2410, endProduct: "5c0d5ae286f7741e46554302", count: 40, productionLimitCount: 0,
+		_id: "the_crafter_556war", areaType: 10, productionTime: 24100, endProduct: "5c0d5ae286f7741e46554302", count: 40, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "59e6920f86f77411d82aa167", count: 40, type: "Item"},
@@ -294,7 +294,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a556ssa = {
-		_id: "the_crafter_556ssa", areaType: 10, productionTime: 6480, endProduct: "601949593ae8f707c4608daa", count: 120, productionLimitCount: 0,
+		_id: "the_crafter_556ssa", areaType: 10, productionTime: 64800, endProduct: "601949593ae8f707c4608daa", count: 120, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "54527ac44bdc2d36668b4567", count: 200, type: "Item"},
@@ -304,7 +304,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a556HP = {
-		_id: "the_crafter_556HP", areaType: 10, productionTime: 1710, endProduct: "601949593ae8f707c4608daa", count: 120, productionLimitCount: 0,
+		_id: "the_crafter_556HP", areaType: 10, productionTime: 17100, endProduct: "601949593ae8f707c4608daa", count: 120, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "59e6918f86f7746c9f75e849", count: 200, type: "Item"},
@@ -312,7 +312,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 1, type: "Area"}]}
 
 	const a762993 = {
-		_id: "the_crafter_762993", areaType: 10, productionTime: 576, endProduct: "5efb0c1bd79ff02a1f5e68d9", count: 60, productionLimitCount: 0,
+		_id: "the_crafter_762993", areaType: 10, productionTime: 5760, endProduct: "5efb0c1bd79ff02a1f5e68d9", count: 60, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5af04b6486f774195a3ebb49",type: "Tool"},
 		{templateId: "590c639286f774151567fa95",type: "Tool"},
@@ -322,7 +322,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a762rbs = {
-		_id: "the_crafter_762rbs1", areaType: 10, productionTime: 4800, endProduct: "5e023d48186a883be655e551", count: 40, productionLimitCount: 0,
+		_id: "the_crafter_762rbs1", areaType: 10, productionTime: 48000, endProduct: "5e023d48186a883be655e551", count: 40, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "560d61e84bdc2da74d8b4571", count: 40, type: "Item"},
@@ -331,7 +331,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a338ap = {
-		_id: "the_crafter_338ap", areaType: 10, productionTime: 5000, endProduct: "5fc382a9d724d907e2077dab", count: 20, productionLimitCount: 0,
+		_id: "the_crafter_338ap", areaType: 10, productionTime: 50000, endProduct: "5fc382a9d724d907e2077dab", count: 20, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5af04b6486f774195a3ebb49", type: "Tool"},
 		{templateId: "5fc275cf85fd526b824a571a", count: 20, type: "Item"},
@@ -341,7 +341,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const abarrikada = {
-		_id: "the_crafter_barrikada", areaType: 10, productionTime: 1650, endProduct: "5e85aa1a988a8701445df1f5", count: 8, productionLimitCount: 0,
+		_id: "the_crafter_barrikada", areaType: 10, productionTime: 16500, endProduct: "5e85aa1a988a8701445df1f5", count: 8, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "5af04b6486f774195a3ebb49", type: "Tool"},
@@ -352,7 +352,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const aacprip = {
-		_id: "the_crafter_acprip", areaType: 10, productionTime: 1440, endProduct: "5ea2a8e200685063ec28c05a", count: 140, productionLimitCount: 0,
+		_id: "the_crafter_acprip", areaType: 10, productionTime: 14400, endProduct: "5ea2a8e200685063ec28c05a", count: 140, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "5d6fc87386f77449db3db94e", count: 1, type: "Item"},
@@ -360,7 +360,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const am441he = {
-		_id: "the_crafter_m441he", areaType: 10, productionTime: 1400, endProduct: "5ede47405b097655935d7d16", count: 7, productionLimitCount: 0,
+		_id: "the_crafter_m441he", areaType: 10, productionTime: 14000, endProduct: "5ede47405b097655935d7d16", count: 7, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "5656eb674bdc2d35148b457c", count: 4, type: "Item"},
@@ -368,7 +368,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a762ap = {
-		_id: "the_crafter_762ap", areaType: 10, productionTime: 7200, endProduct: "601aa3d2b2bcb34913271e6d", count: 80, productionLimitCount: 0,
+		_id: "the_crafter_762ap", areaType: 10, productionTime: 72000, endProduct: "601aa3d2b2bcb34913271e6d", count: 80, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "5d6fc78386f77449d825f9dc", count: 2, type: "Item"},
@@ -378,7 +378,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 	
 	const appbs = {
-		_id: "the_crafter_appbs", areaType: 10, productionTime: 6127, endProduct: "5c0d5e4486f77478390952fe", count: 100, productionLimitCount: 0,
+		_id: "the_crafter_appbs", areaType: 10, productionTime: 61270, endProduct: "5c0d5e4486f77478390952fe", count: 100, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2b4386f77425357b6123", type: "Tool"},
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
@@ -388,7 +388,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const aps12b = {
-		_id: "the_crafter_aps12b", areaType: 10, productionTime: 4752, endProduct: "5cadf6eeae921500134b2799", count: 100, productionLimitCount: 0,
+		_id: "the_crafter_aps12b", areaType: 10, productionTime: 47520, endProduct: "5cadf6eeae921500134b2799", count: 100, productionLimitCount: 0,
 		requirements: [
 		{templateId: "619cbfeb6b8a1b37a54eebfa", type: "Tool"},
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
@@ -398,7 +398,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a856a1 = {
-		_id: "the_crafter_a856a1", areaType: 10, productionTime: 4490, endProduct: "59e6906286f7746c9f75e847", count: 200, productionLimitCount: 0,
+		_id: "the_crafter_a856a1", areaType: 10, productionTime: 44900, endProduct: "59e6906286f7746c9f75e847", count: 200, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "54527a984bdc2d4e668b4567", count: 200, type: "Item"},
@@ -406,7 +406,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const am995 = {
-		_id: "the_crafter_am995", areaType: 10, productionTime: 5758, endProduct: "59e690b686f7746c9f75e848", count: 180, productionLimitCount: 0,
+		_id: "the_crafter_am995", areaType: 10, productionTime: 57580, endProduct: "59e690b686f7746c9f75e848", count: 180, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
@@ -415,7 +415,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const aspp = {
-		_id: "the_crafter_aspp", areaType: 10, productionTime: 3780, endProduct: "5c0d668f86f7747ccb7f13b2", count: 200, productionLimitCount: 0,
+		_id: "the_crafter_aspp", areaType: 10, productionTime: 37800, endProduct: "5c0d668f86f7747ccb7f13b2", count: 200, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "57a0dfb82459774d3078b56c", count: 200, type: "Item"},
@@ -423,7 +423,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const a921bt = {
-		_id: "the_crafter_a921bt", areaType: 10, productionTime: 3150, endProduct: "5a26ac0ec4a28200741e1e18", count: 150, productionLimitCount: 0,
+		_id: "the_crafter_a921bt", areaType: 10, productionTime: 31500, endProduct: "5a26ac0ec4a28200741e1e18", count: 150, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d1b317c86f7742523398392", type: "Tool"},
 		{templateId: "5a269f97c4a282000b151807", count: 150, type: "Item"},
@@ -433,14 +433,14 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const a12mag = {
-		_id: "the_crafter_a12mag", areaType: 10, productionTime: 550, endProduct: "5d6e6806a4b936088465b17e", count: 120, productionLimitCount: 0,
+		_id: "the_crafter_a12mag", areaType: 10, productionTime: 5500, endProduct: "5d6e6806a4b936088465b17e", count: 120, productionLimitCount: 0,
 		requirements: [
 		{templateId: "560d5e524bdc2d25448b4571", count: 120, type: "Item"},
 		{templateId: "590c5a7286f7747884343aea", count: 1, type: "Item"},
 		{areaType: 10, requiredLevel: 1, type: "Area"}]}
 
 	const a12rip = {
-		_id: "the_crafter_a12rip", areaType: 10, productionTime: 1400, endProduct: "5c0d591486f7744c505b416f", count: 60, productionLimitCount: 0,
+		_id: "the_crafter_a12rip", areaType: 10, productionTime: 14000, endProduct: "5c0d591486f7744c505b416f", count: 60, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "590c639286f774151567fa95", type: "Tool"},
@@ -449,7 +449,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const am80 = {
-		_id: "the_crafter_am80", areaType: 10, productionTime: 3616, endProduct: "58dd3ad986f77403051cba8f", count: 80, productionLimitCount: 0,
+		_id: "the_crafter_am80", areaType: 10, productionTime: 36160, endProduct: "58dd3ad986f77403051cba8f", count: 80, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d1b31ce86f7742523398394", type: "Tool"},
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
@@ -463,7 +463,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Armored rigs
 	if (config.CraftArmoredrigs == true) {
 	const mk4a = {
-		_id: "the_crafter_mk4a", areaType: 2, productionTime: 2700, endProduct: "60a3c70cde5f453f634816a3", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_mk4a", areaType: 2, productionTime: 27000, endProduct: "60a3c70cde5f453f634816a3", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
@@ -473,7 +473,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const atacsau = {
-		_id: "the_crafter_atacsau", areaType: 2, productionTime: 2340, endProduct: "639343fce101f4caa40a4ef3", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_atacsau", areaType: 2, productionTime: 23400, endProduct: "639343fce101f4caa40a4ef3", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
@@ -483,7 +483,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const crye = {
-		_id: "the_crafter_crye", areaType: 2, productionTime: 3000, endProduct: "544a5caa4bdc2d1a388b4568", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_crye", areaType: 2, productionTime: 30000, endProduct: "544a5caa4bdc2d1a388b4568", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
@@ -494,7 +494,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const cpc = {
-		_id: "the_crafter_cpc", areaType: 2, productionTime: 3600, endProduct: "5e4ac41886f77406a511c9a8", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_cpc", areaType: 2, productionTime: 36000, endProduct: "5e4ac41886f77406a511c9a8", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
@@ -504,7 +504,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 3, type: "Area"}]}
 
 	const tiger = {
-		_id: "the_crafter_tiger", areaType: 2, productionTime: 4320, endProduct: "628cd624459354321c4b7fa2", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_tiger", areaType: 2, productionTime: 43200, endProduct: "628cd624459354321c4b7fa2", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
@@ -517,7 +517,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Equipments
 	if (config.CraftEquipments == true) {
 	const camel = {
-		_id: "the_crafter_camel", areaType: 2, productionTime: 450, endProduct: "545cdae64bdc2d39198b4568", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_camel", areaType: 2, productionTime: 4500, endProduct: "545cdae64bdc2d39198b4568", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "5ca20d5986f774331e7c9602", count: 1, type: "Item"},
@@ -525,7 +525,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const ana = {
-		_id: "the_crafter_ana", areaType: 2, productionTime: 720, endProduct: "5b44c6ae86f7742d1627baea", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_ana", areaType: 2, productionTime: 7200, endProduct: "5b44c6ae86f7742d1627baea", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "5ca20d5986f774331e7c9602", count: 1, type: "Item"},
@@ -534,7 +534,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const ranch = {
-		_id: "the_crafter_ranch", areaType: 2, productionTime: 1440, endProduct: "5c0e774286f77468413cc5b2", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_ranch", areaType: 2, productionTime: 14400, endProduct: "5c0e774286f77468413cc5b2", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "56e33680d2720be2748b4576", count: 1, type: "Item"},
@@ -543,14 +543,14 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 3, type: "Area"}]}
 
 	const glass = {
-		_id: "the_crafter_glass", areaType: 2, productionTime: 180, endProduct: "603409c80ca681766b6a0fb2", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_glass", areaType: 2, productionTime: 1800, endProduct: "603409c80ca681766b6a0fb2", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "59e366c186f7741778269d85", count: 1, type: "Item"},
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const beltab = {
-		_id: "the_crafter_beltab", areaType: 2, productionTime: 480, endProduct: "5c0e6a1586f77404597b4965", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_beltab", areaType: 2, productionTime: 4800, endProduct: "5c0e6a1586f77404597b4965", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "5929a2a086f7744f4b234d43", count: 2, type: "Item"},
@@ -558,7 +558,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const azimut = {
-		_id: "the_crafter_azimut", areaType: 2, productionTime: 375, endProduct: "603648ff5a45383c122086ac", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_azimut", areaType: 2, productionTime: 3750, endProduct: "603648ff5a45383c122086ac", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "5e4abc1f86f774069619fbaa", count: 3, type: "Item"},
@@ -566,7 +566,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const lbt = {
-		_id: "the_crafter_lbt", areaType: 2, productionTime: 1080, endProduct: "5e9db13186f7742f845ee9d3", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_lbt", areaType: 2, productionTime: 10800, endProduct: "5e9db13186f7742f845ee9d3", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "5d5d85c586f774279a21cbdb", count: 2, type: "Item"},
@@ -575,7 +575,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 	
 	const mppv = {
-		_id: "the_crafter_mppv",  areaType: 2, productionTime: 780, endProduct: "5df8a42886f77412640e2e75", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_mppv",  areaType: 2, productionTime: 7800, endProduct: "5df8a42886f77412640e2e75", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
 		{templateId: "5ca20abf86f77418567a43f2", count: 2, type: "Item"},
@@ -587,7 +587,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Medical Equipments
 	if (config.CraftMedicalEquipments == true) {
 	const ophthalmoscope = {
-		_id: "the_crafter_ophthalmoscope", areaType: 7, productionTime: 900, endProduct: "5af0534a86f7743b6f354284", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_ophthalmoscope", areaType: 7, productionTime: 9000, endProduct: "5af0534a86f7743b6f354284", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5e2aedd986f7746d404f3aa4", count: 1, type: "Item"},
 		{templateId: "619cc01e0a7c3a1a2731940c", count: 2, type: "Item"},
@@ -597,7 +597,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const ibu = {
-		_id: "the_crafter_ibu", areaType: 7, productionTime: 360, endProduct: "5af0548586f7743a532b7e99", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_ibu", areaType: 7, productionTime: 3600, endProduct: "5af0548586f7743a532b7e99", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb37f4bdc2dee738b4567", count: 7, type: "Item"},
 		{templateId: "590c695186f7741e566b64a2", count: 1, type: "Item"},
@@ -605,7 +605,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 2, type: "Area"}]}
 
 	const golden = {
-		_id: "the_crafter_golden", areaType: 7, productionTime: 2520, endProduct: "5751a89d24597722aa0e8db0", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_golden", areaType: 7, productionTime: 25200, endProduct: "5751a89d24597722aa0e8db0", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d1b3a5d86f774252167ba22", count: 2, type: "Item"},
 		{templateId: "5755383e24597772cb798966", count: 2, type: "Item"},
@@ -613,7 +613,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const car = {
-		_id: "the_crafter_car", areaType: 7, productionTime: 180, endProduct: "590c661e86f7741e566b646a", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_car", areaType: 7, productionTime: 1800, endProduct: "590c661e86f7741e566b646a", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5755356824597772cb798962", count: 2, type: "Item"},
 		{templateId: "5751a25924597722c463c472", count: 1, type: "Item"},
@@ -625,7 +625,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Provisions
 	if (config.CraftProvisions == true) {
 	const vitamins = {
-		_id: "the_crafter_vitamins", areaType: 8, productionTime: 720, endProduct: "62a0a043cf4a99369e2624a5", count: 3, productionLimitCount: 0,
+		_id: "the_crafter_vitamins", areaType: 8, productionTime: 7200, endProduct: "62a0a043cf4a99369e2624a5", count: 3, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590de71386f774347051a052", type: "Tool"},
 		{templateId: "5d1b385e86f774252167b98a", type: "Tool"},
@@ -638,7 +638,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 8, requiredLevel: 1, type: "Area"}]}
 
 	const MRE = {
-		_id: "the_crafter_MRE", areaType: 8, productionTime: 288, endProduct: "590c5f0d86f77413997acfab", count: 2, productionLimitCount: 0,
+		_id: "the_crafter_MRE", areaType: 8, productionTime: 2880, endProduct: "590c5f0d86f77413997acfab", count: 2, productionLimitCount: 0,
 		requirements: [
 		{templateId: "57347d3d245977448f7b7f61", count: 2, type: "Item"},
 		{templateId: "57347d692459774491567cf1", count: 1, type: "Item"},
@@ -650,7 +650,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Secure containers
 	if (config.CraftSecureContainers == true) {
 	const alpha = {
-		_id: "the_crafter_alpha", areaType: 11, productionTime: 2160, endProduct: "544a11ac4bdc2d470e8b456a", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_alpha", areaType: 11, productionTime: 21600, endProduct: "544a11ac4bdc2d470e8b456a", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "57347c5b245977448d35f6e1", count: 1, type: "Item"},
@@ -661,7 +661,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 1, type: "Area"}]}
 
 	const beta = {	
-		_id: "the_crafter_beta", areaType: 11, productionTime: 4320, endProduct: "5857a8b324597729ab0a0e7d", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_beta", areaType: 11, productionTime: 43200, endProduct: "5857a8b324597729ab0a0e7d", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40425986f7743185265461", type: "Tool"},
 		{templateId: "590c2b4386f77425357b6123", type: "Tool"},
@@ -674,7 +674,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 1, type: "Area"}]}
 
 	const epsilon = {
-		_id: "the_crafter_epsilon", areaType: 11, productionTime: 8640, endProduct: "59db794186f77448bc595262", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_epsilon", areaType: 11, productionTime: 86400, endProduct: "59db794186f77448bc595262", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2c9c86f774245b1f03f2", type: "Tool"},
 		{templateId: "5af04b6486f774195a3ebb49", type: "Tool"},
@@ -687,7 +687,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 2, type: "Area"}]}
 
 	const gamma = {
-		_id: "the_crafter_gamma", areaType: 11, productionTime: 17280, endProduct: "5857a8bc2459772bad15db29", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_gamma", areaType: 11, productionTime: 172800, endProduct: "5857a8bc2459772bad15db29", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d4042a986f7743185265463", type: "Tool"},
 		{templateId: "5d40419286f774318526545f", type: "Tool"},
@@ -699,7 +699,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 2, type: "Area"}]}
 
 	const kappa = {
-		_id: "the_crafter_kappa", areaType: 11, productionTime: 92160, endProduct: "5c093ca986f7740a1867ab12", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_kappa", areaType: 11, productionTime: 921600, endProduct: "5c093ca986f7740a1867ab12", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "619cbfeb6b8a1b37a54eebfa", type: "Tool"},
 		{templateId: "59e35de086f7741778269d84", type: "Tool"},
@@ -716,7 +716,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Tactical Devices
 	if (config.CraftTacticalDevices == true) {
 	const raptar = {
-		_id: "the_crafter_raptar", areaType: 11, productionTime: 1440, endProduct: "61605d88ffa6e502ac5e7eeb", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_raptar", areaType: 11, productionTime: 14400, endProduct: "61605d88ffa6e502ac5e7eeb", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c639286f774151567fa95", type: "Tool"},
 		{templateId: "61605e13ffa6e502ac5e7eef", count: 1, type: "Item"},
@@ -725,14 +725,14 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 1, type: "Area"}]}
 
 	const klesch = {
-		_id: "the_crafter_klesch", areaType: 2, productionTime: 60, endProduct: "5b3a337e5acfc4704b4a19a0", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_klesch", areaType: 2, productionTime: 600, endProduct: "5b3a337e5acfc4704b4a19a0", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2b4386f77425357b6123", type: "Tool"},
 		{templateId: "5d1b392c86f77425243e98fe", count: 1, type: "Item"},
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const steiner = {
-		_id: "the_crafter_steiner", areaType: 2, productionTime: 120, endProduct: "5b07dd285acfc4001754240d", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_steiner", areaType: 2, productionTime: 1200, endProduct: "5b07dd285acfc4001754240d", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c639286f774151567fa95", type: "Tool"},
 		{templateId: "590a3cd386f77436f20848cb", count: 1, type: "Item"},
@@ -740,7 +740,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const la5b = {
-		_id: "the_crafter_la5b", areaType: 2, productionTime: 210, endProduct: "5c06595c0db834001a66af6c", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_la5b", areaType: 2, productionTime: 2100, endProduct: "5c06595c0db834001a66af6c", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c639286f774151567fa95", type: "Tool"},
 		{templateId: "590a3d9c86f774385926e510", count: 1, type: "Item"},
@@ -752,7 +752,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Weapons
 	if (config.CraftWeapons == true) {
 		const pkm = {
-			_id: "the_crafter_pkm", areaType: 10, productionTime: 7200, endProduct: "64637076203536ad5600c990", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_pkm", areaType: 10, productionTime: 72000, endProduct: "64637076203536ad5600c990", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 			{templateId: "59e35de086f7741778269d84", type: "Tool"},
@@ -763,7 +763,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 10, requiredLevel: 2, type: "Area"}]}
 	
 		const pkp = {
-			_id: "the_crafter_pkp", areaType: 10, productionTime: 7200, endProduct: "64ca3d3954fc657e230529cc", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_pkp", areaType: 10, productionTime: 72000, endProduct: "64ca3d3954fc657e230529cc", count: 1, productionLimitCount: 0,
 			requirements:  [
 			{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 			{templateId: "59e35de086f7741778269d84", type: "Tool"},
@@ -774,7 +774,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 10, requiredLevel: 2, type: "Area"}]}
 	
 		const rpdn = {
-			_id: "the_crafter_rpdn", areaType: 10, productionTime: 7200, endProduct: "65268d8ecb944ff1e90ea385", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_rpdn", areaType: 10, productionTime: 72000, endProduct: "65268d8ecb944ff1e90ea385", count: 1, productionLimitCount: 0,
 			requirements:  [
 			{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 			{templateId: "59e35de086f7741778269d84", type: "Tool"},
@@ -789,7 +789,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Injectors
 	if (config.CraftInjectors == true) {
 	const adrenaline = {
-		_id: "the_crafter_adrenaline", areaType: 7, productionTime: 480, endProduct: "5c10c8fd86f7743d7d706df3", count: 2, productionLimitCount: 0,
+		_id: "the_crafter_adrenaline", areaType: 7, productionTime: 4800, endProduct: "5c10c8fd86f7743d7d706df3", count: 2, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5755356824597772cb798962", count: 2, type: "Item"},
 		{templateId: "5751435d24597720a27126d1", count: 2, type: "Item"},
@@ -797,14 +797,14 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 2, type: "Area"}]}
 
 	const ahf1 = {
-		_id: "the_crafter_ahf1m", areaType: 7, productionTime: 540, endProduct: "5ed515f6915ec335206e4152", count: 2, productionLimitCount: 0,
+		_id: "the_crafter_ahf1m", areaType: 7, productionTime: 5400, endProduct: "5ed515f6915ec335206e4152", count: 2, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb3f34bdc2d03748b456a", count: 1, type: "Item"},
 		{templateId: "590c695186f7741e566b64a2", count: 1, type: "Item"},
 		{areaType: 7, requiredLevel: 2, type: "Area"}]}
 
 	const i3btg = {
-		_id: "the_crafter_3btg", areaType: 7, productionTime: 720, endProduct: "5ed515c8d380ab312177c0fa", count: 3, productionLimitCount: 0,
+		_id: "the_crafter_3btg", areaType: 7, productionTime: 7200, endProduct: "5ed515c8d380ab312177c0fa", count: 3, productionLimitCount: 0,
 		requirements:[
 		{templateId: "5c10c8fd86f7743d7d706df3", count: 2, type: "Item"},
 		{templateId: "59e361e886f774176c10a2a5", count: 2, type: "Item"},
@@ -812,14 +812,14 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const l1 = {
-		_id: "the_crafter_l1", areaType: 7, productionTime: 900, endProduct: "5ed515e03a40a50460332579",  count: 2, productionLimitCount: 0,
+		_id: "the_crafter_l1", areaType: 7, productionTime: 9000, endProduct: "5ed515e03a40a50460332579",  count: 2, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5c0e531d86f7747fa23f4d42", count: 1, type: "Item"},
 		{templateId: "5c10c8fd86f7743d7d706df3", count: 1, type: "Item"},
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const zagustin = {
-		_id: "the_crafter_zagustin", areaType: 7, productionTime: 900, endProduct: "5c0e533786f7747fa23f4d47", count: 3, productionLimitCount: 0,
+		_id: "the_crafter_zagustin", areaType: 7, productionTime: 9000, endProduct: "5c0e533786f7747fa23f4d47", count: 3, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5c0e530286f7747fa1419862", count: 2, type: "Item"},
 		{templateId: "5e8488fa988a8701445df1e4", count: 1, type: "Item"},
@@ -827,7 +827,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 2, type: "Area"}]}
 
 	const obdolbos = {
-		_id: "the_crafter_Obdolbos1", areaType: 7, productionTime: 2160, endProduct: "5ed5166ad380ab312177c100", count: 8, productionLimitCount: 0,
+		_id: "the_crafter_Obdolbos1", areaType: 7, productionTime: 21600, endProduct: "5ed5166ad380ab312177c100", count: 8, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5c0e531286f7747fa54205c2", count: 1, type: "Item"},
@@ -840,7 +840,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 2, type: "Area"}]}
 
 	const obdolbos2 = {
-		_id: "the_crafter_Obdolbos2", areaType: 7, productionTime: 4320, endProduct: "637b60c3b7afa97bfc3d7001", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_Obdolbos2", areaType: 7, productionTime: 43200, endProduct: "637b60c3b7afa97bfc3d7001", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5d1b2f3f86f774252167a52c", type: "Tool"},
@@ -849,7 +849,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const perfotoran = {
-		_id: "the_crafter_perfotoran", areaType: 7, productionTime: 900, endProduct: "637b6251104668754b72f8f9", count: 3, productionLimitCount: 0,
+		_id: "the_crafter_perfotoran", areaType: 7, productionTime: 9000, endProduct: "637b6251104668754b72f8f9", count: 3, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5c0e533786f7747fa23f4d47", count: 1, type: "Item"},
@@ -857,7 +857,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const trimadol = {
-		_id: "the_crafter_trimadol", areaType: 7, productionTime: 1440, endProduct: "637b620db7afa97bfc3d7009", count: 3, productionLimitCount: 0,
+		_id: "the_crafter_trimadol", areaType: 7, productionTime: 14400, endProduct: "637b620db7afa97bfc3d7009", count: 3, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5af0548586f7743a532b7e99", count: 1, type: "Item"},
@@ -866,7 +866,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 7, requiredLevel: 3, type: "Area"}]}
 
 	const meldonin = {
-		_id: "the_crafter_meldonin", areaType: 7, productionTime: 900, endProduct: "5ed5160a87bb8443d10680b5", count: 3, productionLimitCount: 0,
+		_id: "the_crafter_meldonin", areaType: 7, productionTime: 9000, endProduct: "5ed5160a87bb8443d10680b5", count: 3, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "5c10c8fd86f7743d7d706df3", count: 1, type: "Item"},
@@ -878,7 +878,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Magazines
 	if (config.CraftMagazines == true) {
 	const steyr42 = {
-		_id: "the_crafter_steyr42", areaType: 2, productionTime: 300, endProduct: "630e295c984633f1fb0e7c30", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_steyr42", areaType: 2, productionTime: 3000, endProduct: "630e295c984633f1fb0e7c30", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2d8786f774245b1f03f3", type: "Tool"},
 		{templateId: "62e7c98b550c8218d602cbb4", count: 2, type: "Item"},
@@ -886,7 +886,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const sks75 = {
-		_id: "the_crafter_sks75", areaType: 10, productionTime: 810, endProduct: "61695095d92c473c7702147a", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_sks75", areaType: 10, productionTime: 8100, endProduct: "61695095d92c473c7702147a", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "587df583245977373c4f1129", count: 4, type: "Item"},
@@ -894,7 +894,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const akm75 = {
-		_id: "the_crafter_akm75", areaType: 2, productionTime: 810, endProduct: "5cbdc23eae9215001136a407", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_akm75", areaType: 2, productionTime: 8100, endProduct: "5cbdc23eae9215001136a407", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "59d625f086f774661516605d", count: 5, type: "Item"},
@@ -902,7 +902,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const akmpro73 = {
-		_id: "the_crafter_akmpro73", areaType: 10, productionTime: 900, endProduct: "5c6175362e221600133e3b94", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_akmpro73", areaType: 10, productionTime: 9000, endProduct: "5c6175362e221600133e3b94", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5a0060fc86f7745793204432", count: 5, type: "Item"},
@@ -910,7 +910,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const akmdrum50 = {
-		_id: "the_crafter_akmdrum50", areaType: 10, productionTime: 900, endProduct: "5cfe8010d7ad1a59283b14c6", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_akmdrum50", areaType: 10, productionTime: 9000, endProduct: "5cfe8010d7ad1a59283b14c6", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "59d6272486f77466146386ff", count: 4, type: "Item"},
@@ -919,7 +919,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const glock50 = {
-		_id: "the_crafter_glock50", areaType: 2, productionTime: 900, endProduct: "5a718f958dc32e00094b97e7", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_glock50", areaType: 2, productionTime: 9000, endProduct: "5a718f958dc32e00094b97e7", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2d8786f774245b1f03f3", type: "Tool"},
 		{templateId: "5fb651b52b1b027b1f50bcff", count: 8, type: "Item"},
@@ -927,7 +927,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const saiga20 = {
-		_id: "the_crafter_saiga20", areaType: 10, productionTime: 850, endProduct: "5cf8f3b0d7f00c00217872ef", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_saiga20", areaType: 10, productionTime: 8500, endProduct: "5cf8f3b0d7f00c00217872ef", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "57616a9e2459773c7a400234", count: 5, type: "Item"},
@@ -936,7 +936,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const mag60 = {
-		_id: "the_crafter_mag60", areaType: 10, productionTime: 720, endProduct: "59c1383d86f774290a37e0ca", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_mag60", areaType: 10, productionTime: 7200, endProduct: "59c1383d86f774290a37e0ca", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5aaa5dfee5b5b000140293d3", count: 4, type: "Item"},
@@ -945,7 +945,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const stanag60 = {
-		_id: "the_crafter_stanag60", areaType: 10, productionTime: 720, endProduct: "544a37c44bdc2d25388b4567", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_stanag60", areaType: 10, productionTime: 7200, endProduct: "544a37c44bdc2d25388b4567", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "55d4887d4bdc2d962f8b4570", count: 4, type: "Item"},
@@ -954,7 +954,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const rpk95 = {
-		_id: "the_crafter_rpk95", areaType: 2, productionTime: 900, endProduct: "5bed625c0db834001c062946", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_rpk95", areaType: 2, productionTime: 9000, endProduct: "5bed625c0db834001c062946", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "5bed61680db834001d2c45ab", count: 5, type: "Item"},
@@ -963,7 +963,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 2, type: "Area"}]}
 
 	const mp550 = {
-		_id: "the_crafter_mp550", areaType: 2, productionTime: 810, endProduct: "5a351711c4a282000b1521a4", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_mp550", areaType: 2, productionTime: 8100, endProduct: "5a351711c4a282000b1521a4", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2d8786f774245b1f03f3", type: "Tool"},
 		{templateId: "5926c3b286f774640d189b6b", count: 5, type: "Item"},
@@ -971,7 +971,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const sr3m30 = {
-		_id: "the_crafter_sr3m30", areaType: 10, productionTime: 480, endProduct: "5a9e81fba2750c00164f6b11", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_sr3m30", areaType: 10, productionTime: 4800, endProduct: "5a9e81fba2750c00164f6b11", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "57838f9f2459774a150289a0", count: 3, type: "Item"},
@@ -979,7 +979,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 2, type: "Area"}]}
 
 	const m1450 = {
-		_id: "the_crafter_m1450", areaType: 10, productionTime: 760, endProduct: "5addccf45acfc400185c2989", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_m1450", areaType: 10, productionTime: 7600, endProduct: "5addccf45acfc400185c2989", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5aaf8a0be5b5b00015693243", count: 2, type: "Item"},
@@ -988,7 +988,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const stanag100 = {
-		_id: "the_crafter_stanag100", areaType: 10, productionTime: 1080, endProduct: "5c6592372e221600133e47d7", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_stanag100", areaType: 10, productionTime: 10800, endProduct: "5c6592372e221600133e47d7", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "544a37c44bdc2d25388b4567", count: 2, type: "Item"},
@@ -997,7 +997,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 10, requiredLevel: 3, type: "Area"}]}
 
 	const mpx41 = {
-		_id: "the_crafter_mpx41", areaType: 2, productionTime: 360, endProduct: "5c5db6652e221600113fba51", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_mpx41", areaType: 2, productionTime: 3600, endProduct: "5c5db6652e221600113fba51", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "590c2e1186f77425357b6124", type: "Tool"},
 		{templateId: "5894a05586f774094708ef75", count: 3, type: "Item"},
@@ -1005,7 +1005,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 2, requiredLevel: 1, type: "Area"}]}
 
 	const mpx50 = {
-		_id: "the_crafter_mpx50", areaType: 10, productionTime: 600, endProduct: "5c5db6742e2216000f1b2852", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_mpx50", areaType: 10, productionTime: 6000, endProduct: "5c5db6742e2216000f1b2852", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a0bb621468534a797ad5", type: "Tool"},
 		{templateId: "5c5db6652e221600113fba51", count: 2, type: "Item"},
@@ -1017,7 +1017,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Impact grenade
 	if (config.CraftGrenade == true) {
 	const RGN = {
-		_id: "the_crafter_rgn", areaType: 10, productionTime: 2880, endProduct: "617fd91e5539a84ec44ce155", count: 8, productionLimitCount: 0,
+		_id: "the_crafter_rgn", areaType: 10, productionTime: 28800, endProduct: "617fd91e5539a84ec44ce155", count: 8, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5e2af51086f7746d3f3c3402", count: 3, type: "Item"},
 		{templateId: "60391a8b3364dc22b04d0ce5", count: 1, type: "Item"},
@@ -1028,7 +1028,7 @@ class the_crafter implements IPostDBLoadMod {
 	//Containers
 	if (config.CraftContainers == true) {
 	const ItemCase = {
-		_id: "the_crafter_itemcase", areaType: 11, productionTime: 3600, endProduct: "59fb042886f7746c5005a7b2", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_itemcase", areaType: 11, productionTime: 36000, endProduct: "59fb042886f7746c5005a7b2", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40419286f774318526545f", type: "Tool"},
 		{templateId: "5b7c710788a4506dec015957", count: 1, type: "Item"},
@@ -1039,7 +1039,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 1, type: "Area"}]}
 
 	const MedCase = {
-		_id: "the_crafter_medcase", areaType: 11, productionTime: 2880, endProduct: "5aafbcd986f7745e590fff23", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_medcase", areaType: 11, productionTime: 28800, endProduct: "5aafbcd986f7745e590fff23", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40419286f774318526545f", type: "Tool"},
 		{templateId: "567143bf4bdc2d1a0f8b4567", count: 1, type: "Item"},
@@ -1052,7 +1052,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 1, type: "Area"}]}
 
 	const MoneyCase = {
-		_id: "the_crafter_moneycase", areaType: 11, productionTime: 46080, endProduct: "59fb016586f7746d0d4b423a", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_moneycase", areaType: 11, productionTime: 460800, endProduct: "59fb016586f7746d0d4b423a", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "59db794186f77448bc595262", count: 1, type: "Item"},
 		{templateId: "5c94bbff86f7747ee735c08f", count: 2, type: "Item"},
@@ -1060,14 +1060,14 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 3, type: "Area"}]}
 
 	const InjectorCase = {
-		_id: "the_crafter_injectorcase", areaType: 11, productionTime: 4320, endProduct: "619cbf7d23893217ec30b689", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_injectorcase", areaType: 11, productionTime: 43200, endProduct: "619cbf7d23893217ec30b689", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5c093e3486f77430cb02e593", count: 1, type: "Item"},
 		{templateId: "544fb3f34bdc2d03748b456a", count: 3, type: "Item"},
 		{areaType: 11, requiredLevel: 2, type: "Area"}]}
 
 	const KeycardsCase = {
-		_id: "the_crafter_keycardscase", areaType: 11, productionTime: 4680, endProduct: "619cbf9e0a7c3a1a2731940a", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_keycardscase", areaType: 11, productionTime: 46800, endProduct: "619cbf9e0a7c3a1a2731940a", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "60b0f6c058e0b0481a09ad11", count: 1, type: "Item"},
 		{templateId: "5c94bbff86f7747ee735c08f", count: 2, type: "Item"},
@@ -1075,7 +1075,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 2, type: "Area"}]}
 
 	const FoodCase = {
-		_id: "the_crafter_foodcase", areaType: 11, productionTime: 2160, endProduct: "5c093db286f7740a1b2617e3", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_foodcase", areaType: 11, productionTime: 21600, endProduct: "5c093db286f7740a1b2617e3", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "5d40419286f774318526545f", type: "Tool"},
 		{templateId: "5e2af41e86f774755a234b67", count: 4, type: "Item"},
@@ -1085,7 +1085,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 1, type: "Area"}]}
 
 	const WepCase = {
-		_id: "the_crafter_wepcase", areaType: 11, productionTime: 3600, endProduct: "59fb023c86f7746d0d4b423c", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_wepcase", areaType: 11, productionTime: 36000, endProduct: "59fb023c86f7746d0d4b423c", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "59fb042886f7746c5005a7b2", count: 1, type: "Item"},
@@ -1093,7 +1093,7 @@ class the_crafter implements IPostDBLoadMod {
 		{areaType: 11, requiredLevel: 2, type: "Area"}]}
 
 	const SICCCase = {
-		_id: "the_crafter_sicccase", areaType: 11, productionTime: 8640, endProduct: "5d235bb686f77443f4331278", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_sicccase", areaType: 11, productionTime: 86400, endProduct: "5d235bb686f77443f4331278", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 		{templateId: "590c60fc86f77412b13fddcf", count: 1, type: "Item"},
@@ -1107,7 +1107,7 @@ class the_crafter implements IPostDBLoadMod {
 	if (config.CraftKits == true) {
 	
 	const BodyKit = {
-		_id: "the_crafter_bodykit", areaType: 11, productionTime: 7200, endProduct: "591094e086f7747caa7bb2ef", count: 1, productionLimitCount: 0,
+		_id: "the_crafter_bodykit", areaType: 11, productionTime: 72000, endProduct: "591094e086f7747caa7bb2ef", count: 1, productionLimitCount: 0,
 		requirements: [
 		{templateId: "62a0a098de7ac8199358053b", type: "Tool"},
 		{templateId: "61bf83814088ec1a363d7097", type: "Tool"},
@@ -1124,7 +1124,7 @@ class the_crafter implements IPostDBLoadMod {
 	if (config.CraftArmors == true) {
 	
 		const Kirasa = {
-			_id: "the_crafter_Kirasa", areaType: 2, productionTime: 720, endProduct: "5b44d22286f774172b0c9de8", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Kirasa", areaType: 2, productionTime: 7200, endProduct: "5b44d22286f774172b0c9de8", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "5e2af4d286f7746d4159f07a", count: 1, type: "Item"},
 			{templateId: "5e2af4a786f7746d3f3c3400", count: 1, type: "Item"},
@@ -1132,7 +1132,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 1, type: "Area"}]}
 	
 			const A6b13 = {
-			_id: "the_crafter_A6b13", areaType: 2, productionTime: 1000, endProduct: "5c0e51be86f774598e797894", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_A6b13", areaType: 2, productionTime: 10000, endProduct: "5c0e51be86f774598e797894", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "5d40419286f774318526545f", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 1, type: "Item"},
@@ -1142,7 +1142,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 2, type: "Area"}]}
 	
 			const Trooper = {
-			_id: "the_crafter_Trooper", areaType: 2, productionTime: 1260, endProduct: "5c0e655586f774045612eeb2", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Trooper", areaType: 2, productionTime: 12600, endProduct: "5c0e655586f774045612eeb2", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "5d40419286f774318526545f", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 3, type: "Item"},
@@ -1150,7 +1150,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 2, type: "Area"}]}
 	
 			const Gzhel = {
-			_id: "the_crafter_Gzhel", areaType: 2, productionTime: 1520, endProduct: "5ab8e79e86f7742d8b372e78", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Gzhel", areaType: 2, productionTime: 15200, endProduct: "5ab8e79e86f7742d8b372e78", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "63a0b208f444d32d6f03ea1e", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 3, type: "Item"},
@@ -1158,7 +1158,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 3, type: "Area"}]}
 	
 			const Korund = {
-			_id: "the_crafter_Korund", areaType: 2, productionTime: 1530, endProduct: "5f5f41476bdad616ad46d631", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Korund", areaType: 2, productionTime: 15300, endProduct: "5f5f41476bdad616ad46d631", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "63a0b208f444d32d6f03ea1e", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 3, type: "Item"},
@@ -1167,7 +1167,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 3, type: "Area"}]}
 	
 			const Zhuk = {
-			_id: "the_crafter_Zhuk", areaType: 2, productionTime: 2000, endProduct: "5c0e625a86f7742d77340f62", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Zhuk", areaType: 2, productionTime: 20000, endProduct: "5c0e625a86f7742d77340f62", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "63a0b208f444d32d6f03ea1e", type: "Tool"},
 			{templateId: "5e2af4d286f7746d4159f07a", count: 3, type: "Item"},
@@ -1181,7 +1181,7 @@ class the_crafter implements IPostDBLoadMod {
 		if (config.CraftHeadsets == true) {
 		
 		const Sport = {
-			_id: "the_crafter_Sport", areaType: 2, productionTime: 1250, endProduct: "5c165d832e2216398b5a7e36", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Sport", areaType: 2, productionTime: 12500, endProduct: "5c165d832e2216398b5a7e36", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 			{templateId: "590c2e1186f77425357b6124", type: "Tool"},
@@ -1192,7 +1192,7 @@ class the_crafter implements IPostDBLoadMod {
 			{areaType: 2, requiredLevel: 2, type: "Area"}]}
 	
 			const Comtac4 = {
-			_id: "the_crafter_Comtac4", areaType: 2, productionTime: 1840, endProduct: "628e4e576d783146b124c64d", count: 1, productionLimitCount: 0,
+			_id: "the_crafter_Comtac4", areaType: 2, productionTime: 18400, endProduct: "628e4e576d783146b124c64d", count: 1, productionLimitCount: 0,
 			requirements: [
 			{templateId: "544fb5454bdc2df8738b456a", type: "Tool"},
 			{templateId: "590c2e1186f77425357b6124", type: "Tool"},
