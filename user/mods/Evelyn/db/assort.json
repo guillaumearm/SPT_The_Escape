@@ -21,6 +21,30 @@
       }
     },
     {
+      "_id": "6661c52981bbfcdd2c071db0",
+      "_tpl": "6570e025615f54368b04fcb0",
+      "parentId": "13dead58646c7dbe2009654d",
+      "slotId": "Soft_armor_front"
+    },
+    {
+      "_id": "6661c52981bbfcdd2c071db1",
+      "_tpl": "6570e0610b57c03ec90b96ef",
+      "parentId": "13dead58646c7dbe2009654d",
+      "slotId": "Soft_armor_back"
+    },
+    {
+      "_id": "6661c52981bbfcdd2c071db2",
+      "_tpl": "656fad8c498d1b7e3e071da0",
+      "parentId": "13dead58646c7dbe2009654d",
+      "slotId": "Front_plate"
+    },
+    {
+      "_id": "6661c52981bbfcdd2c071db3",
+      "_tpl": "656fad8c498d1b7e3e071da0",
+      "parentId": "13dead58646c7dbe2009654d",
+      "slotId": "Back_plate"
+    },
+    {
       "_id": "53ab150266d9a475038blose",
       "_tpl": "5fb64bc92b1b027b1f50bcf2",
       "slotId": "hideout",
