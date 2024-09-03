@@ -10,7 +10,7 @@
 		"Faster_Crafting_Time": {
 			// Make all recipes except bitcoin, moonshine and purified water much faster.
 			"enabled": true,
-			"Base_Crafting_Time_Multiplier": 10,
+			"Base_Crafting_Time_Multiplier": 5,
 			"Hideout_Skill_Exp_Fix": {
 				"enabled": true,
 				"Hideout_Skill_Exp_Multiplier": 2
