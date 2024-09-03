@@ -21,7 +21,7 @@
         "ENABLED": true,                                    // Enable NATO rifle skill
         "SKILL_SHARE_ENABLED": true,                        // Allows a percentage of XP to bleed into Eastern rifle skill
         "SKILL_SHARE_XP_RATIO": 0.10,                       // Percentage of xp to bleed into the Eastern rifle skill
-        "WEAPON_PROF_XP": 0.15,                             // XP per shot hit
+        "WEAPON_PROF_XP": 0.20,                             // XP per shot hit
         "ERGO_MOD": 0.075,                                  // Ergonomics modifier in percent
         "ERGO_MOD_ELITE": 0.125,                            // Ergonomics modifier in percent elite
         "RECOIL_REDUCTION": 0.075,                          // Recoil reduction in percent
@@ -57,7 +57,7 @@
         "ENABLED": true,                                    // Enable Eastern rifle skill
         "SKILL_SHARE_ENABLED": true,                        // Allows a percentage of XP to bleed into NATO rifle skill
         "SKILL_SHARE_XP_RATIO": 0.10,                       // Percentage of xp to bleed into the NATO rifle skill
-        "WEAPON_PROF_XP": 0.15,                             // XP per shot hit
+        "WEAPON_PROF_XP": 0.20,                             // XP per shot hit
         "ERGO_MOD": 0.0015,                                 // Ergonomics modifier in percent
         "ERGO_MOD_ELITE": 0.05,                             // Ergonomics modifier in percent elite
         "RECOIL_REDUCTION": 0.002,                          // Recoil reduction modifier in percent
@@ -109,17 +109,17 @@
     },
     "LockPicking": {
         "ENABLED": true,                                    // Enable lock picking skill
-        "PICK_STRENGTH": 2.85,                              // The amount of time in seconds the lock pick can be turned on while out of position before breaking
-        "PICK_STRENGTH_PER_LEVEL": 0.015,                   // Bonus per level in percent to the amount of time before a lock pick breaks
-        "SWEET_SPOT_RANGE": 7,                              // Angle in degrees that will allow movement of the cylinder
-        "SWEET_SPOT_RANGE_PER_LEVEL": 0.005,                // Bonus per level in percent to the sweet spot angle to allow movement of the cylinder
+        "PICK_STRENGTH": 1.5,                              // The amount of time in seconds the lock pick can be turned on while out of position before breaking
+        "PICK_STRENGTH_PER_LEVEL": 0.050,                   // Bonus per level in percent to the amount of time before a lock pick breaks
+        "SWEET_SPOT_RANGE": 5,                              // Angle in degrees that will allow movement of the cylinder
+        "SWEET_SPOT_RANGE_PER_LEVEL": 0.035,                // Bonus per level in percent to the sweet spot angle to allow movement of the cylinder
         "ATTEMPTS_BEFORE_BREAK": 3,                         // Failed attempts before a lock breaks
         "INSPECT_LOCK_XP_RATIO": 0.15,                      // Ratio of lock xp given for inspecting a lock
         "FAILURE_LOCK_XP_RATIO": 0.25,                      // Ratio of lock xp given for inspecting a lock
         "XP_TABLE": {                                       // Door XP map
-            "0": 0.01,
-            "1": 0.15,
-            "2": 0.35,
+            "0": 0.02,
+            "1": 0.20,
+            "2": 0.50,
             "3": 1.5,
             "4": 2.0,
             "5": 2.2,
