@@ -108,6 +108,7 @@
 - [Expanded cases](https://hub.sp-tarkov.com/files/file/2218-expanded-cases/)
 - [Increase Climb Height](https://hub.sp-tarkov.com/files/file/2154-increase-climb-height/)
 - [MergeConsumables](https://hub.sp-tarkov.com/files/file/2262-mergeconsumables/)
+- [CactusPie's Transfer Loot into Container Automatically (reupload)](https://hub.sp-tarkov.com/files/file/2326-cactuspie-s-transfer-loot-into-container-automatically-reupload/)
 
 ## Tweaks
 
