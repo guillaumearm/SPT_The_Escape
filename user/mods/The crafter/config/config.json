@@ -41,6 +41,12 @@
 	"Description":  "Add the craft for repair kits",
 		"CraftKits": true,
 
+	"Description":  "Add the craft for Armor Vests",
+		"CraftArmors": true,
+
+	"Description":  "Add the craft for Headsets",
+		"CraftHeadsets": true,
+
 	"Description":  "Scavcase money payment changed in alcohol and tweaked the loot reward",
 		"Drunkedscavs": true,
 
