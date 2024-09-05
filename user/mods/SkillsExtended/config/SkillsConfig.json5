@@ -109,38 +109,38 @@
     },
     "LockPicking": {
         "ENABLED": true,                                    // Enable lock picking skill
-        "PICK_STRENGTH": 1.5,                              // The amount of time in seconds the lock pick can be turned on while out of position before breaking
+        "PICK_STRENGTH": 1.2,                              // The amount of time in seconds the lock pick can be turned on while out of position before breaking
         "PICK_STRENGTH_PER_LEVEL": 0.050,                   // Bonus per level in percent to the amount of time before a lock pick breaks
-        "SWEET_SPOT_RANGE": 5,                              // Angle in degrees that will allow movement of the cylinder
+        "SWEET_SPOT_RANGE": 4.5,                              // Angle in degrees that will allow movement of the cylinder
         "SWEET_SPOT_RANGE_PER_LEVEL": 0.035,                // Bonus per level in percent to the sweet spot angle to allow movement of the cylinder
         "ATTEMPTS_BEFORE_BREAK": 3,                         // Failed attempts before a lock breaks
-        "INSPECT_LOCK_XP_RATIO": 0.15,                      // Ratio of lock xp given for inspecting a lock
-        "FAILURE_LOCK_XP_RATIO": 0.25,                      // Ratio of lock xp given for inspecting a lock
+        "INSPECT_LOCK_XP_RATIO": 0.75,                      // Ratio of lock xp given for inspecting a lock
+        "FAILURE_LOCK_XP_RATIO": 1.25,                      // Ratio of lock xp given for inspecting a lock
         "XP_TABLE": {                                       // Door XP map
-            "0": 0.02,
-            "1": 0.20,
-            "2": 0.50,
-            "3": 1.5,
-            "4": 2.0,
-            "5": 2.2,
-            "6": 2.4,
-            "7": 2.6,
-            "8": 2.8,
-            "9": 2.9,
-            "10": 3.0,
-            "11": 3.1,
-            "12": 3.2,
-            "13": 3.3,
-            "14": 3.4,
-            "15": 3.5,
-            "20": 3.8,
-            "25": 4.2,
-            "30": 4.6,
-            "35": 4.9,
-            "40": 5.15,
-            "45": 5.30,
-            "50": 5.45,
-            "52": 5.50,
+            "0": 0.10,
+            "1": 1.00,
+            "2": 2.50,
+            "3": 7.5,
+            "4": 10.0,
+            "5": 11.0,
+            "6": 22.0,
+            "7": 13.0,
+            "8": 14.0,
+            "9": 15.0,
+            "10": 16.0,
+            "11": 17.0,
+            "12": 18.0,
+            "13": 19.0,
+            "14": 20.0,
+            "15": 21.0,
+            "20": 22.0,
+            "25": 23.0,
+            "30": 24.0,
+            "35": 25.0,
+            "40": 26.0,
+            "45": 27.0,
+            "50": 28.0,
+            "52": 29.0,
         },
         "DOOR_PICK_LEVELS": {                              // WARNING: DO NOT EDIT THESE UNLESS YOU KNOW WHAT YOU ARE DOING.
             "Factory": {                                   // THIS IS A COMPREHENSIVE LIST ALL DOORS IN THE GAME AND THEIR ASSOCIATED LEVELS. See "keyDoorIds.txt" to better understand this section.
