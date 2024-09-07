@@ -34,7 +34,7 @@
 
 - [smthing-Configurable Steps Volume](https://hub.sp-tarkov.com/files/file/2246-smthing-configurable-steps-volume/)
 - [Bowen's Voice](https://hub.sp-tarkov.com/files/file/2005-bowen-s-voice)
-- [Fin's Eerie Silence](https://hub.sp-tarkov.com/files/file/251-fin-s-eerie-silence/)
+- [Fin's Eerie Silence (updated)](https://hub.sp-tarkov.com/files/file/840-fin-s-eerie-silence-updated/)
 - [ssh's VocalPlayer](https://cloud.trapcloud.fr/s/YPqgqAynJ8HbREs) (reupload)
 
 ## Fun & Graphics
