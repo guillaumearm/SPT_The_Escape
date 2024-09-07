@@ -68,6 +68,7 @@
 - [Realistic Stims 1.9.0](https://hub.sp-tarkov.com/files/file/1889-realistic-stims/)
 - [More Energy Drinks 1.0.1](https://hub.sp-tarkov.com/files/file/2305-more-energy-drinks/)
 - [The crafter 3.0.1](https://hub.sp-tarkov.com/files/file/1659-the-crafter/#overview)
+- [ACOG4Life-OpticRework](https://hub.sp-tarkov.com/files/file/1327-eft-scope-and-red-dot-sight-overhaul-by-geff-hannigan-reupload)
 
 ## Traders & Quests
 
