@@ -280,5 +280,23 @@
         "Name": "AVS Black",
         "TemplateID": "544a5caa4bdc2d1a388b4568",
         "TemplateType": "gear"    
+    },
+    "BC_VORTEX_UH1":{
+        "ItemID": "BC_VORTEX_UH1",
+        "Name": "AVS BC_VORTEX_UH1",
+        "TemplateID": "59f9d81586f7744c7506ee62",
+        "TemplateType": "mod"    
+    },
+    "BC_ANPEQ15":{
+        "ItemID": "BC_ANPEQ15",
+        "Name": "AVS BC_ANPEQ15",
+        "TemplateID": "544909bb4bdc2d6f028b4577",
+        "TemplateType": "mod"    
+    },
+    "BC_GL_CORE_STOCK":{
+        "ItemID": "BC_GL_CORE_STOCK",
+        "Name": "AVS BC_GL_CORE_STOCK",
+        "TemplateID": "5b5f757486f774093e6cb507",
+        "TemplateType": "mod"    
     }
 }
