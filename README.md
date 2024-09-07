@@ -122,6 +122,7 @@
 - [Realism Stance Replication](https://github.com/LevelCrush/Realism-Stance-Replication/releases/download/v1.1.1/RealismStanceReplication_v1.1.1.zip) (for fika sync)
 - [devilflippy-hideout_rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
 - [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases)
+- [ServerValueModifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
 
 # Tools
 
