@@ -117,7 +117,7 @@
 - [Open extract](https://hub.sp-tarkov.com/files/file/827-open-extract/) (still need to check compat with PTT)
 - [Robinxb's Average Custom Trader Prices](https://hub.sp-tarkov.com/files/file/2161-robinxb-s-average-custom-trader-prices)
 - [Moxo-Pixel Realism compatibility patch](https://hub.sp-tarkov.com/files/file/1687-moxo-pixel-realism-compatibility-patch/#comments)
-- [Realism Stance Replication](https://github.com/space-commits/Realism-Stance-Replication/releases/tag/v1.0.1) (for fika sync)
+- [Realism Stance Replication](https://github.com/LevelCrush/Realism-Stance-Replication/releases/download/v1.1.1/RealismStanceReplication_v1.1.1.zip) (for fika sync)
 - [devilflippy-hideout_rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
 - [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases)
 
