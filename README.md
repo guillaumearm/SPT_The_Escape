@@ -85,6 +85,7 @@
 - [Shadow flicker fix](https://hub.sp-tarkov.com/files/file/2214-shadow-flicker-fix)
 - [Bullet crack fix](https://hub.sp-tarkov.com/files/file/2195-bullet-crack-fix)
 - [JD's open the damn context menu](https://hub.sp-tarkov.com/files/file/2126-open-the-damn-context-menu/)
+- [TraderServiceFix](https://hub.sp-tarkov.com/files/file/2098-trader-service-fix)
 
 ## QoL
 
