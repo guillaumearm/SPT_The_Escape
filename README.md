@@ -29,6 +29,7 @@
 - [Borkel's Realistic Night Vision Goggles (NVGs and T-7)](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7)
 - [One Time Zone Mod](https://hub.sp-tarkov.com/files/file/2189-onetimezonemod)
 - [Interactable Exfils API 1.2.0](https://hub.sp-tarkov.com/files/file/2286-interactable-exfils-api/#overview)
+- [Realistic Combat Overhaul (SAIN preset)](https://hub.sp-tarkov.com/files/file/2234-realistic-combat-overhaul-preset-for-sain)
 
 ## Sounds
 
@@ -97,7 +98,6 @@
 - [Stacks multiplier](https://hub.sp-tarkov.com/files/file/2105-thehalfpotato-s-stack-multiplier/)
 - [PlayerEncumbranceBar](https://hub.sp-tarkov.com/files/file/1898-player-encumbrance-bar/)
 - [Remove time gate from quests](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
-- [Construction time instant](https://hub.sp-tarkov.com/files/file/2131-construction-time-instant/)
 - [Instant repeatable quests](https://hub.sp-tarkov.com/files/file/1797-instant-repeatables/)
 - [Useless key blacklist](https://hub.sp-tarkov.com/files/file/760-useless-key-blacklist/)
 - [Custom raid times](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/)
@@ -111,6 +111,7 @@
 - [MergeConsumables](https://hub.sp-tarkov.com/files/file/2262-mergeconsumables/)
 - [CactusPie's Transfer Loot into Container Automatically (reupload)](https://hub.sp-tarkov.com/files/file/2326-cactuspie-s-transfer-loot-into-container-automatically-reupload/)
 - [Item Info](https://hub.sp-tarkov.com/files/file/985-item-info/)
+- [ConfigHUD](https://hub.sp-tarkov.com/files/file/2249-confighud/#overview)
 
 ## Tweaks
 
@@ -122,6 +123,7 @@
 - [Realism Stance Replication](https://github.com/LevelCrush/Realism-Stance-Replication/releases/download/v1.1.1/RealismStanceReplication_v1.1.1.zip) (for fika sync)
 - [devilflippy-hideout_rebalance](https://github.com/devilflippy/Devil_Hideout_Rebalance/releases)
 - [devilflippy-better_sales_to_traders](https://github.com/devilflippy/Better_sales_to_Traders/releases)
+- [Hide Beta Rework](https://hub.sp-tarkov.com/files/file/2211-hide-beta-rework/)
 - [ServerValueModifier](https://hub.sp-tarkov.com/files/file/379-server-value-modifier-svm/)
 
 # Tools
