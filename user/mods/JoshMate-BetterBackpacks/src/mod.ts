@@ -272,13 +272,6 @@ class Mod implements IPostDBLoadMod
             },
             //Customs backpack
             {
-                "name": "CCG_BACKPACK_BIRDEYE_BLK",
-                "itemID": "CCG_BACKPACK_BIRDEYE_BLK",
-                "horizontal": 6,
-                "vertical":   7,
-                "removeFilters": false
-            },
-            {
                 "name": "COMM 3",
                 "itemID": "CCG_BACKPACK_BIRDEYE_M90",
                 "horizontal": 6,
